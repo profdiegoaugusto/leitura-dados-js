@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Consumindo API</title>
+</head>
+<body>
+
+    <header>
+        <h1>Repositórios Github</h1>
+    </header>
+
+    <main>
+
+        <section id="busca">
+
+            <header>
+                <h2>Busca de Repositórios</h2>
+            </header>
+
+            <form>
+                <div>
+                    <label for="usuario-github">Usuário Github</label>
+                    <input type="text" name="usuario-github" id="usuario-github">
+                </div>
+                <button id="buscarRepositorios" type="button">Buscar</button>
+            </form>
+
+        </section>
+       
+        <section id="repositorios">
+            <header>
+                <h2>Nomes dos Repositórios</h2>
+                <p id="qtde-repositorios"></p>
+            </header>
+            <ul id="lista-repositorios">
+
+            </ul>
+        </section>
+        
+    </main>
+    
+    <script type="module" src="../js/repositorios.js"></script>
+
+</body>
+</html>

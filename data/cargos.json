@@ -1,0 +1,10776 @@
+[{
+  "id": 10105,
+  "titulo": "Oficial general da aeronáutica"
+},
+{
+  "id": 10110,
+  "titulo": "Oficial general do exército"
+},
+{
+  "id": 10115,
+  "titulo": "Oficial general da marinha"
+},
+{
+  "id": 10205,
+  "titulo": "Oficial da aeronáutica"
+},
+{
+  "id": 10210,
+  "titulo": "Oficial do exército"
+},
+{
+  "id": 10215,
+  "titulo": "Oficial da marinha"
+},
+{
+  "id": 10305,
+  "titulo": "Praça da aeronáutica"
+},
+{
+  "id": 10310,
+  "titulo": "Praça do exército"
+},
+{
+  "id": 10315,
+  "titulo": "Praça da marinha"
+},
+{
+  "id": 20105,
+  "titulo": "Coronel da polícia militar"
+},
+{
+  "id": 20110,
+  "titulo": "Tenente-coronel da polícia militar"
+},
+{
+  "id": 20115,
+  "titulo": "Major da polícia militar"
+},
+{
+  "id": 20205,
+  "titulo": "Capitão da polícia militar"
+},
+{
+  "id": 20305,
+  "titulo": "Primeiro tenente de polícia militar"
+},
+{
+  "id": 20310,
+  "titulo": "Segundo tenente de polícia militar"
+},
+{
+  "id": 21105,
+  "titulo": "Subtenente da policia militar"
+},
+{
+  "id": 21110,
+  "titulo": "Sargento da policia militar"
+},
+{
+  "id": 21205,
+  "titulo": "Cabo da polícia militar"
+},
+{
+  "id": 21210,
+  "titulo": "Soldado da polícia militar"
+},
+{
+  "id": 30105,
+  "titulo": "Coronel bombeiro militar"
+},
+{
+  "id": 30110,
+  "titulo": "Major bombeiro militar"
+},
+{
+  "id": 30115,
+  "titulo": "Tenente-coronel bombeiro militar"
+},
+{
+  "id": 30205,
+  "titulo": "Capitão bombeiro militar"
+},
+{
+  "id": 30305,
+  "titulo": "Tenente do corpo de bombeiros militar"
+},
+{
+  "id": 31105,
+  "titulo": "Subtenente bombeiro militar"
+},
+{
+  "id": 31110,
+  "titulo": "Sargento bombeiro militar"
+},
+{
+  "id": 31205,
+  "titulo": "Cabo bombeiro militar"
+},
+{
+  "id": 31210,
+  "titulo": "Soldado bombeiro militar"
+},
+{
+  "id": 111105,
+  "titulo": "Senador"
+},
+{
+  "id": 111110,
+  "titulo": "Deputado federal"
+},
+{
+  "id": 111115,
+  "titulo": "Deputado estadual e distrital"
+},
+{
+  "id": 111120,
+  "titulo": "Vereador"
+},
+{
+  "id": 111205,
+  "titulo": "Presidente da república"
+},
+{
+  "id": 111210,
+  "titulo": "Vice-presidente da república"
+},
+{
+  "id": 111215,
+  "titulo": "Ministro de estado"
+},
+{
+  "id": 111220,
+  "titulo": "Secretário - executivo"
+},
+{
+  "id": 111225,
+  "titulo": "Membro superior do poder executivo"
+},
+{
+  "id": 111230,
+  "titulo": "Governador de estado"
+},
+{
+  "id": 111235,
+  "titulo": "Governador do distrito federal"
+},
+{
+  "id": 111240,
+  "titulo": "Vice-governador de estado"
+},
+{
+  "id": 111245,
+  "titulo": "Vice-governador do distrito federal"
+},
+{
+  "id": 111250,
+  "titulo": "Prefeito"
+},
+{
+  "id": 111255,
+  "titulo": "Vice-prefeito"
+},
+{
+  "id": 111305,
+  "titulo": "Ministro do supremo tribunal federal"
+},
+{
+  "id": 111310,
+  "titulo": "Ministro do superior tribunal de justiça"
+},
+{
+  "id": 111315,
+  "titulo": "Ministro do  superior tribunal militar"
+},
+{
+  "id": 111320,
+  "titulo": "Ministro do  superior tribunal do trabalho"
+},
+{
+  "id": 111325,
+  "titulo": "Juiz de direito"
+},
+{
+  "id": 111330,
+  "titulo": "Juiz federal"
+},
+{
+  "id": 111335,
+  "titulo": "Juiz auditor federal - justiça militar"
+},
+{
+  "id": 111340,
+  "titulo": "Juiz auditor estadual - justiça militar"
+},
+{
+  "id": 111345,
+  "titulo": "Juiz do trabalho"
+},
+{
+  "id": 111405,
+  "titulo": "Dirigente do serviço público federal"
+},
+{
+  "id": 111410,
+  "titulo": "Dirigente do serviço público estadual e distrital"
+},
+{
+  "id": 111415,
+  "titulo": "Dirigente do serviço público municipal"
+},
+{
+  "id": 111505,
+  "titulo": "Especialista de políticas públicas e gestão governamental - eppgg"
+},
+{
+  "id": 111510,
+  "titulo": "Analista de planejamento e orçamento - apo"
+},
+{
+  "id": 113005,
+  "titulo": "Cacique"
+},
+{
+  "id": 113010,
+  "titulo": "Líder de comunidade caiçara"
+},
+{
+  "id": 113015,
+  "titulo": "Membro de liderança quilombola"
+},
+{
+  "id": 114105,
+  "titulo": "Dirigente de partido político"
+},
+{
+  "id": 114205,
+  "titulo": "Dirigente de entidade de trabalhadores"
+},
+{
+  "id": 114210,
+  "titulo": "Dirigente de entidade patronal"
+},
+{
+  "id": 114305,
+  "titulo": "Dirigente e administrador de organização religiosa"
+},
+{
+  "id": 114405,
+  "titulo": "Dirigente e administrador de organização da sociedade civil sem fins lucrativos"
+},
+{
+  "id": 121005,
+  "titulo": "Diretor de planejamento estratégico"
+},
+{
+  "id": 121010,
+  "titulo": "Diretor geral de empresa e organizações (exceto de interesse público)"
+},
+{
+  "id": 122105,
+  "titulo": "Diretor de produção e operações em empresa agropecuária"
+},
+{
+  "id": 122110,
+  "titulo": "Diretor de produção e operações em empresa aqüícola"
+},
+{
+  "id": 122115,
+  "titulo": "Diretor de produção e operações em empresa florestal"
+},
+{
+  "id": 122120,
+  "titulo": "Diretor de produção e operações em empresa pesqueira"
+},
+{
+  "id": 122205,
+  "titulo": "Diretor de produção e operações da indústria de transformação, extração mineral e utilidades"
+},
+{
+  "id": 122305,
+  "titulo": "Diretor de operações de obras pública e civil"
+},
+{
+  "id": 122405,
+  "titulo": "Diretor de operações comerciais (comércio atacadista e varejista)"
+},
+{
+  "id": 122505,
+  "titulo": "Diretor de  produção e operações de alimentação"
+},
+{
+  "id": 122510,
+  "titulo": "Diretor de  produção e operações de hotel"
+},
+{
+  "id": 122515,
+  "titulo": "Diretor de  produção e operações de turismo"
+},
+{
+  "id": 122520,
+  "titulo": "Turismólogo"
+},
+{
+  "id": 122605,
+  "titulo": "Diretor de operações de correios"
+},
+{
+  "id": 122610,
+  "titulo": "Diretor de operações de serviços de armazenamento"
+},
+{
+  "id": 122615,
+  "titulo": "Diretor de operações de serviços de telecomunicações"
+},
+{
+  "id": 122620,
+  "titulo": "Diretor de operações de serviços de transporte"
+},
+{
+  "id": 122705,
+  "titulo": "Diretor comercial em operações de intermediação financeira"
+},
+{
+  "id": 122710,
+  "titulo": "Diretor de produtos bancários"
+},
+{
+  "id": 122715,
+  "titulo": "Diretor de crédito rural"
+},
+{
+  "id": 122720,
+  "titulo": "Diretor de câmbio e comércio exterior"
+},
+{
+  "id": 122725,
+  "titulo": "Diretor de compliance"
+},
+{
+  "id": 122730,
+  "titulo": "Diretor de crédito (exceto crédito imobiliário)"
+},
+{
+  "id": 122735,
+  "titulo": "Diretor de crédito imobiliário"
+},
+{
+  "id": 122740,
+  "titulo": "Diretor de leasing"
+},
+{
+  "id": 122745,
+  "titulo": "Diretor de mercado de capitais"
+},
+{
+  "id": 122750,
+  "titulo": "Diretor de recuperação de créditos em operações de intermediação financeira"
+},
+{
+  "id": 122755,
+  "titulo": "Diretor de riscos de mercado"
+},
+{
+  "id": 123105,
+  "titulo": "Diretor administrativo"
+},
+{
+  "id": 123110,
+  "titulo": "Diretor administrativo e financeiro"
+},
+{
+  "id": 123115,
+  "titulo": "Diretor financeiro"
+},
+{
+  "id": 123205,
+  "titulo": "Diretor de recursos humanos"
+},
+{
+  "id": 123210,
+  "titulo": "Diretor de relações de trabalho"
+},
+{
+  "id": 123305,
+  "titulo": "Diretor comercial"
+},
+{
+  "id": 123310,
+  "titulo": "Diretor de marketing"
+},
+{
+  "id": 123405,
+  "titulo": "Diretor de suprimentos"
+},
+{
+  "id": 123410,
+  "titulo": "Diretor de suprimentos no serviço público"
+},
+{
+  "id": 123605,
+  "titulo": "Diretor de tecnologia da informação"
+},
+{
+  "id": 123705,
+  "titulo": "Diretor de pesquisa e desenvolvimento (p&d)"
+},
+{
+  "id": 123805,
+  "titulo": "Diretor de manutenção"
+},
+{
+  "id": 131105,
+  "titulo": "Diretor de serviços culturais"
+},
+{
+  "id": 131110,
+  "titulo": "Diretor de serviços sociais"
+},
+{
+  "id": 131115,
+  "titulo": "Gerente de serviços culturais"
+},
+{
+  "id": 131120,
+  "titulo": "Gerente de serviços sociais"
+},
+{
+  "id": 131205,
+  "titulo": "Diretor de serviços de saúde"
+},
+{
+  "id": 131210,
+  "titulo": "Gerente de serviços de saúde"
+},
+{
+  "id": 131215,
+  "titulo": "Tecnólogo em gestão hospitalar"
+},
+{
+  "id": 131220,
+  "titulo": "Gerontólogo"
+},
+{
+  "id": 131225,
+  "titulo": "Sanitarista"
+},
+{
+  "id": 131305,
+  "titulo": "Diretor de instituição educacional da área privada"
+},
+{
+  "id": 131310,
+  "titulo": "Diretor de instituição educacional pública"
+},
+{
+  "id": 131315,
+  "titulo": "Gerente de instituição educacional da área privada"
+},
+{
+  "id": 131320,
+  "titulo": "Gerente de serviços educacionais da área pública"
+},
+{
+  "id": 141105,
+  "titulo": "Gerente de produção e operações  aqüícolas"
+},
+{
+  "id": 141110,
+  "titulo": "Gerente de produção e operações  florestais"
+},
+{
+  "id": 141115,
+  "titulo": "Gerente de produção e operações agropecuárias"
+},
+{
+  "id": 141120,
+  "titulo": "Gerente de produção e operações pesqueiras"
+},
+{
+  "id": 141205,
+  "titulo": "Gerente de produção e operações"
+},
+{
+  "id": 141305,
+  "titulo": "Gerente de produção e operações da construção civil e obras públicas"
+},
+{
+  "id": 141405,
+  "titulo": "Comerciante atacadista"
+},
+{
+  "id": 141410,
+  "titulo": "Comerciante varejista"
+},
+{
+  "id": 141415,
+  "titulo": "Gerente de loja e supermercado"
+},
+{
+  "id": 141420,
+  "titulo": "Gerente de operações de serviços de assistência técnica"
+},
+{
+  "id": 141505,
+  "titulo": "Gerente de hotel"
+},
+{
+  "id": 141510,
+  "titulo": "Gerente de restaurante"
+},
+{
+  "id": 141515,
+  "titulo": "Gerente de bar"
+},
+{
+  "id": 141520,
+  "titulo": "Gerente de pensão"
+},
+{
+  "id": 141525,
+  "titulo": "Gerente de turismo"
+},
+{
+  "id": 141605,
+  "titulo": "Gerente de operações de transportes"
+},
+{
+  "id": 141610,
+  "titulo": "Gerente de operações de correios e telecomunicações"
+},
+{
+  "id": 141615,
+  "titulo": "Gerente de logística (armazenagem e distribuição)"
+},
+{
+  "id": 141705,
+  "titulo": "Gerente de produtos bancários"
+},
+{
+  "id": 141710,
+  "titulo": "Gerente de agência"
+},
+{
+  "id": 141715,
+  "titulo": "Gerente de câmbio e comércio exterior"
+},
+{
+  "id": 141720,
+  "titulo": "Gerente de crédito e cobrança"
+},
+{
+  "id": 141725,
+  "titulo": "Gerente de crédito imobiliário"
+},
+{
+  "id": 141730,
+  "titulo": "Gerente de crédito rural"
+},
+{
+  "id": 141735,
+  "titulo": "Gerente de recuperação de crédito"
+},
+{
+  "id": 141805,
+  "titulo": "Gerente de administração em aeroportos"
+},
+{
+  "id": 141810,
+  "titulo": "Gerente de empresa aérea e empresa de serviços auxiliares ao transporte aéreo (esata) em aeroportos"
+},
+{
+  "id": 141815,
+  "titulo": "Gerente de operações em aeroportos"
+},
+{
+  "id": 141820,
+  "titulo": "Gerente de operações de cargas"
+},
+{
+  "id": 141825,
+  "titulo": "Gerente de segurança da aviação civil"
+},
+{
+  "id": 141830,
+  "titulo": "Gerente de segurança operacional (aviação civil)"
+},
+{
+  "id": 142105,
+  "titulo": "Gerente administrativo"
+},
+{
+  "id": 142110,
+  "titulo": "Gerente de riscos"
+},
+{
+  "id": 142115,
+  "titulo": "Gerente financeiro"
+},
+{
+  "id": 142120,
+  "titulo": "Tecnólogo em gestão administrativo- financeira"
+},
+{
+  "id": 142125,
+  "titulo": "Analista de compliance"
+},
+{
+  "id": 142130,
+  "titulo": "Analista de riscos"
+},
+{
+  "id": 142135,
+  "titulo": "Oficial de proteção de dados pessoais (dpo)"
+},
+{
+  "id": 142140,
+  "titulo": "Gerente de facility management"
+},
+{
+  "id": 142205,
+  "titulo": "Gerente de recursos humanos"
+},
+{
+  "id": 142210,
+  "titulo": "Gerente de departamento pessoal"
+},
+{
+  "id": 142305,
+  "titulo": "Gerente comercial"
+},
+{
+  "id": 142310,
+  "titulo": "Gerente de comunicação"
+},
+{
+  "id": 142315,
+  "titulo": "Gerente de marketing"
+},
+{
+  "id": 142320,
+  "titulo": "Gerente de vendas"
+},
+{
+  "id": 142325,
+  "titulo": "Relações públicas"
+},
+{
+  "id": 142330,
+  "titulo": "Analista de negócios"
+},
+{
+  "id": 142335,
+  "titulo": "Analista de pesquisa de mercado"
+},
+{
+  "id": 142340,
+  "titulo": "Ouvidor"
+},
+{
+  "id": 142345,
+  "titulo": "Profissional de relações institucionais e governamentais"
+},
+{
+  "id": 142350,
+  "titulo": "Profissonal de relações internacionais"
+},
+{
+  "id": 142355,
+  "titulo": "Analista de e-commerce"
+},
+{
+  "id": 142405,
+  "titulo": "Gerente de compras"
+},
+{
+  "id": 142410,
+  "titulo": "Gerente de suprimentos"
+},
+{
+  "id": 142415,
+  "titulo": "Gerente de almoxarifado"
+},
+{
+  "id": 142505,
+  "titulo": "Gerente de infraestrutura de tecnologia da informação"
+},
+{
+  "id": 142510,
+  "titulo": "Gerente de desenvolvimento de sistemas"
+},
+{
+  "id": 142515,
+  "titulo": "Gerente de operação de tecnologia da informação"
+},
+{
+  "id": 142520,
+  "titulo": "Gerente de projetos de tecnologia da informação"
+},
+{
+  "id": 142525,
+  "titulo": "Gerente de segurança da informação"
+},
+{
+  "id": 142530,
+  "titulo": "Gerente de suporte técnico de tecnologia da informação"
+},
+{
+  "id": 142535,
+  "titulo": "Tecnólogo em gestão da tecnologia da informação"
+},
+{
+  "id": 142605,
+  "titulo": "Gerente de pesquisa e desenvolvimento (p&d)"
+},
+{
+  "id": 142610,
+  "titulo": "Especialista em desenvolvimento de cigarros"
+},
+{
+  "id": 142705,
+  "titulo": "Gerente de projetos e serviços de manutenção"
+},
+{
+  "id": 142710,
+  "titulo": "Tecnólogo em sistemas biomédicos"
+},
+{
+  "id": 201105,
+  "titulo": "Bioengenheiro"
+},
+{
+  "id": 201110,
+  "titulo": "Biotecnologista"
+},
+{
+  "id": 201115,
+  "titulo": "Geneticista"
+},
+{
+  "id": 201205,
+  "titulo": "Pesquisador em metrologia"
+},
+{
+  "id": 201210,
+  "titulo": "Especialista em calibrações metrológicas"
+},
+{
+  "id": 201215,
+  "titulo": "Especialista em ensaios metrológicos"
+},
+{
+  "id": 201220,
+  "titulo": "Especialista em instrumentação metrológica"
+},
+{
+  "id": 201225,
+  "titulo": "Especialista em materiais de referência metrológica"
+},
+{
+  "id": 202105,
+  "titulo": "Engenheiro mecatrônico"
+},
+{
+  "id": 202110,
+  "titulo": "Engenheiro de controle e automação"
+},
+{
+  "id": 202115,
+  "titulo": "Tecnólogo em mecatrônica"
+},
+{
+  "id": 202120,
+  "titulo": "Tecnólogo em automação industrial"
+},
+{
+  "id": 203005,
+  "titulo": "Pesquisador em biologia ambiental"
+},
+{
+  "id": 203010,
+  "titulo": "Pesquisador em biologia animal"
+},
+{
+  "id": 203015,
+  "titulo": "Pesquisador em biologia de microorganismos e parasitas"
+},
+{
+  "id": 203020,
+  "titulo": "Pesquisador em biologia humana"
+},
+{
+  "id": 203025,
+  "titulo": "Pesquisador em biologia vegetal"
+},
+{
+  "id": 203105,
+  "titulo": "Pesquisador em ciências da computação e informática"
+},
+{
+  "id": 203110,
+  "titulo": "Pesquisador em ciências da terra e meio ambiente"
+},
+{
+  "id": 203115,
+  "titulo": "Pesquisador em física"
+},
+{
+  "id": 203120,
+  "titulo": "Pesquisador em matemática"
+},
+{
+  "id": 203125,
+  "titulo": "Pesquisador em química"
+},
+{
+  "id": 203205,
+  "titulo": "Pesquisador de engenharia civil"
+},
+{
+  "id": 203210,
+  "titulo": "Pesquisador de engenharia e tecnologia (outras áreas da engenharia)"
+},
+{
+  "id": 203215,
+  "titulo": "Pesquisador de engenharia elétrica e eletrônica"
+},
+{
+  "id": 203220,
+  "titulo": "Pesquisador de engenharia mecânica"
+},
+{
+  "id": 203225,
+  "titulo": "Pesquisador de engenharia metalúrgica, de minas e de materiais"
+},
+{
+  "id": 203230,
+  "titulo": "Pesquisador de engenharia química"
+},
+{
+  "id": 203305,
+  "titulo": "Pesquisador de clínica médica"
+},
+{
+  "id": 203310,
+  "titulo": "Pesquisador de medicina básica"
+},
+{
+  "id": 203315,
+  "titulo": "Pesquisador em medicina veterinária"
+},
+{
+  "id": 203320,
+  "titulo": "Pesquisador em saúde coletiva"
+},
+{
+  "id": 203405,
+  "titulo": "Pesquisador em ciências agronômicas"
+},
+{
+  "id": 203410,
+  "titulo": "Pesquisador em ciências da pesca e aqüicultura"
+},
+{
+  "id": 203415,
+  "titulo": "Pesquisador em ciências da zootecnia"
+},
+{
+  "id": 203420,
+  "titulo": "Pesquisador em ciências florestais"
+},
+{
+  "id": 203505,
+  "titulo": "Pesquisador em ciências sociais e humanas"
+},
+{
+  "id": 203510,
+  "titulo": "Pesquisador em economia"
+},
+{
+  "id": 203515,
+  "titulo": "Pesquisador em ciências da educação"
+},
+{
+  "id": 203520,
+  "titulo": "Pesquisador em história"
+},
+{
+  "id": 203525,
+  "titulo": "Pesquisador em psicologia"
+},
+{
+  "id": 204105,
+  "titulo": "Perito criminal"
+},
+{
+  "id": 204110,
+  "titulo": "Perito judicial"
+},
+{
+  "id": 211105,
+  "titulo": "Atuário"
+},
+{
+  "id": 211110,
+  "titulo": "Especialista em pesquisa operacional"
+},
+{
+  "id": 211115,
+  "titulo": "Matemático"
+},
+{
+  "id": 211120,
+  "titulo": "Matemático aplicado"
+},
+{
+  "id": 211205,
+  "titulo": "Estatístico"
+},
+{
+  "id": 211210,
+  "titulo": "Estatístico (estatística aplicada)"
+},
+{
+  "id": 211215,
+  "titulo": "Estatístico teórico"
+},
+{
+  "id": 211220,
+  "titulo": "Cientista de dados"
+},
+{
+  "id": 212205,
+  "titulo": "Engenheiro de aplicativos em computação"
+},
+{
+  "id": 212210,
+  "titulo": "Engenheiro de equipamentos em computação"
+},
+{
+  "id": 212215,
+  "titulo": "Engenheiros de sistemas operacionais em computação"
+},
+{
+  "id": 212305,
+  "titulo": "Administrador de banco de dados"
+},
+{
+  "id": 212310,
+  "titulo": "Administrador de redes"
+},
+{
+  "id": 212315,
+  "titulo": "Administrador de sistemas operacionais"
+},
+{
+  "id": 212320,
+  "titulo": "Administrador em segurança da informação"
+},
+{
+  "id": 212405,
+  "titulo": "Analista de desenvolvimento de sistemas"
+},
+{
+  "id": 212410,
+  "titulo": "Analista de redes e de comunicação de dados"
+},
+{
+  "id": 212415,
+  "titulo": "Analista de sistemas de automação"
+},
+{
+  "id": 212420,
+  "titulo": "Analista de suporte computacional"
+},
+{
+  "id": 212425,
+  "titulo": "Arquiteto de soluções de tecnologia da informação"
+},
+{
+  "id": 212430,
+  "titulo": "Analista de testes de tecnologia da informação"
+},
+{
+  "id": 213105,
+  "titulo": "Físico"
+},
+{
+  "id": 213110,
+  "titulo": "Físico (acústica)"
+},
+{
+  "id": 213115,
+  "titulo": "Físico (atômica e molecular)"
+},
+{
+  "id": 213120,
+  "titulo": "Físico (cosmologia)"
+},
+{
+  "id": 213125,
+  "titulo": "Físico (estatística e matemática)"
+},
+{
+  "id": 213130,
+  "titulo": "Físico (fluidos)"
+},
+{
+  "id": 213135,
+  "titulo": "Físico (instrumentação)"
+},
+{
+  "id": 213140,
+  "titulo": "Físico (matéria condensada)"
+},
+{
+  "id": 213145,
+  "titulo": "Físico (materiais)"
+},
+{
+  "id": 213150,
+  "titulo": "Físico (medicina)"
+},
+{
+  "id": 213155,
+  "titulo": "Físico (nuclear e reatores)"
+},
+{
+  "id": 213160,
+  "titulo": "Físico (óptica)"
+},
+{
+  "id": 213165,
+  "titulo": "Físico (partículas e campos)"
+},
+{
+  "id": 213170,
+  "titulo": "Físico (plasma)"
+},
+{
+  "id": 213175,
+  "titulo": "Físico (térmica)"
+},
+{
+  "id": 213205,
+  "titulo": "Químico"
+},
+{
+  "id": 213210,
+  "titulo": "Químico industrial"
+},
+{
+  "id": 213215,
+  "titulo": "Tecnólogo em processos químicos"
+},
+{
+  "id": 213305,
+  "titulo": "Astrônomo"
+},
+{
+  "id": 213310,
+  "titulo": "Geofísico espacial"
+},
+{
+  "id": 213315,
+  "titulo": "Meteorologista"
+},
+{
+  "id": 213405,
+  "titulo": "Geólogo"
+},
+{
+  "id": 213410,
+  "titulo": "Geólogo de engenharia"
+},
+{
+  "id": 213415,
+  "titulo": "Geofísico"
+},
+{
+  "id": 213420,
+  "titulo": "Geoquímico"
+},
+{
+  "id": 213425,
+  "titulo": "Hidrogeólogo"
+},
+{
+  "id": 213430,
+  "titulo": "Paleontólogo"
+},
+{
+  "id": 213435,
+  "titulo": "Petrógrafo"
+},
+{
+  "id": 213440,
+  "titulo": "Oceanógrafo"
+},
+{
+  "id": 214005,
+  "titulo": "Engenheiro ambiental"
+},
+{
+  "id": 214010,
+  "titulo": "Tecnólogo em meio ambiente"
+},
+{
+  "id": 214105,
+  "titulo": "Arquiteto de edificações"
+},
+{
+  "id": 214110,
+  "titulo": "Arquiteto de interiores"
+},
+{
+  "id": 214115,
+  "titulo": "Arquiteto de patrimônio"
+},
+{
+  "id": 214120,
+  "titulo": "Arquiteto paisagista"
+},
+{
+  "id": 214125,
+  "titulo": "Arquiteto urbanista"
+},
+{
+  "id": 214130,
+  "titulo": "Urbanista"
+},
+{
+  "id": 214205,
+  "titulo": "Engenheiro civil"
+},
+{
+  "id": 214210,
+  "titulo": "Engenheiro civil (aeroportos)"
+},
+{
+  "id": 214215,
+  "titulo": "Engenheiro civil (edificações)"
+},
+{
+  "id": 214220,
+  "titulo": "Engenheiro civil (estruturas metálicas)"
+},
+{
+  "id": 214225,
+  "titulo": "Engenheiro civil (ferrovias e metrovias)"
+},
+{
+  "id": 214230,
+  "titulo": "Engenheiro civil (geotécnia)"
+},
+{
+  "id": 214235,
+  "titulo": "Engenheiro civil (hidrologia)"
+},
+{
+  "id": 214240,
+  "titulo": "Engenheiro civil (hidráulica)"
+},
+{
+  "id": 214245,
+  "titulo": "Engenheiro civil (pontes e viadutos)"
+},
+{
+  "id": 214250,
+  "titulo": "Engenheiro civil (portos e vias navegáveis)"
+},
+{
+  "id": 214255,
+  "titulo": "Engenheiro civil (rodovias)"
+},
+{
+  "id": 214260,
+  "titulo": "Engenheiro civil (saneamento)"
+},
+{
+  "id": 214265,
+  "titulo": "Engenheiro civil (túneis)"
+},
+{
+  "id": 214270,
+  "titulo": "Engenheiro civil (transportes e trânsito)"
+},
+{
+  "id": 214280,
+  "titulo": "Tecnólogo em construção civil"
+},
+{
+  "id": 214305,
+  "titulo": "Engenheiro eletricista"
+},
+{
+  "id": 214310,
+  "titulo": "Engenheiro eletrônico"
+},
+{
+  "id": 214315,
+  "titulo": "Engenheiro eletricista de manutenção"
+},
+{
+  "id": 214320,
+  "titulo": "Engenheiro eletricista de projetos"
+},
+{
+  "id": 214325,
+  "titulo": "Engenheiro eletrônico de manutenção"
+},
+{
+  "id": 214330,
+  "titulo": "Engenheiro eletrônico de projetos"
+},
+{
+  "id": 214335,
+  "titulo": "Engenheiro de manutenção de telecomunicações"
+},
+{
+  "id": 214340,
+  "titulo": "Engenheiro de telecomunicações"
+},
+{
+  "id": 214345,
+  "titulo": "Engenheiro projetista de telecomunicações"
+},
+{
+  "id": 214350,
+  "titulo": "Engenheiro de redes de comunicação"
+},
+{
+  "id": 214360,
+  "titulo": "Tecnólogo em eletricidade"
+},
+{
+  "id": 214365,
+  "titulo": "Tecnólogo em eletrônica"
+},
+{
+  "id": 214370,
+  "titulo": "Tecnólogo em telecomunicações"
+},
+{
+  "id": 214375,
+  "titulo": "Engenheiro de energia"
+},
+{
+  "id": 214380,
+  "titulo": "Engenheiro biomédico"
+},
+{
+  "id": 214405,
+  "titulo": "Engenheiro mecânico"
+},
+{
+  "id": 214410,
+  "titulo": "Engenheiro mecânico automotivo"
+},
+{
+  "id": 214415,
+  "titulo": "Engenheiro mecânico (energia nuclear)"
+},
+{
+  "id": 214420,
+  "titulo": "Engenheiro mecânico industrial"
+},
+{
+  "id": 214425,
+  "titulo": "Engenheiro aeronáutico"
+},
+{
+  "id": 214430,
+  "titulo": "Engenheiro naval"
+},
+{
+  "id": 214435,
+  "titulo": "Tecnólogo em fabricação mecânica"
+},
+{
+  "id": 214505,
+  "titulo": "Engenheiro químico"
+},
+{
+  "id": 214510,
+  "titulo": "Engenheiro químico (indústria química)"
+},
+{
+  "id": 214515,
+  "titulo": "Engenheiro químico (mineração, metalurgia, siderurgia, cimenteira e cerâmica)"
+},
+{
+  "id": 214520,
+  "titulo": "Engenheiro químico (papel e celulose)"
+},
+{
+  "id": 214525,
+  "titulo": "Engenheiro químico (petróleo e borracha)"
+},
+{
+  "id": 214530,
+  "titulo": "Engenheiro químico (utilidades e meio ambiente)"
+},
+{
+  "id": 214535,
+  "titulo": "Tecnólogo em produção sulcroalcooleira"
+},
+{
+  "id": 214540,
+  "titulo": "Engenheiro têxtil"
+},
+{
+  "id": 214605,
+  "titulo": "Engenheiro de materiais"
+},
+{
+  "id": 214610,
+  "titulo": "Engenheiro metalurgista"
+},
+{
+  "id": 214615,
+  "titulo": "Tecnólogo em metalurgia"
+},
+{
+  "id": 214705,
+  "titulo": "Engenheiro de minas"
+},
+{
+  "id": 214710,
+  "titulo": "Engenheiro de minas (beneficiamento)"
+},
+{
+  "id": 214715,
+  "titulo": "Engenheiro de minas (lavra a céu aberto)"
+},
+{
+  "id": 214720,
+  "titulo": "Engenheiro de minas (lavra subterrânea)"
+},
+{
+  "id": 214725,
+  "titulo": "Engenheiro de minas (pesquisa mineral)"
+},
+{
+  "id": 214730,
+  "titulo": "Engenheiro de minas (planejamento)"
+},
+{
+  "id": 214735,
+  "titulo": "Engenheiro de minas (processo)"
+},
+{
+  "id": 214740,
+  "titulo": "Engenheiro de minas (projeto)"
+},
+{
+  "id": 214745,
+  "titulo": "Tecnólogo em petróleo e gás"
+},
+{
+  "id": 214750,
+  "titulo": "Tecnólogo em rochas ornamentais"
+},
+{
+  "id": 214805,
+  "titulo": "Engenheiro agrimensor"
+},
+{
+  "id": 214810,
+  "titulo": "Engenheiro cartógrafo"
+},
+{
+  "id": 214905,
+  "titulo": "Engenheiro de produção"
+},
+{
+  "id": 214910,
+  "titulo": "Engenheiro de controle de qualidade"
+},
+{
+  "id": 214915,
+  "titulo": "Engenheiro de segurança do trabalho"
+},
+{
+  "id": 214920,
+  "titulo": "Engenheiro de riscos"
+},
+{
+  "id": 214925,
+  "titulo": "Engenheiro de tempos e movimentos"
+},
+{
+  "id": 214930,
+  "titulo": "Tecnólogo em produção industrial"
+},
+{
+  "id": 214935,
+  "titulo": "Tecnólogo em segurança do trabalho"
+},
+{
+  "id": 214940,
+  "titulo": "Higienista ocupacional"
+},
+{
+  "id": 214945,
+  "titulo": "Engenheiro de logistica"
+},
+{
+  "id": 215105,
+  "titulo": "Agente de manobra e docagem"
+},
+{
+  "id": 215110,
+  "titulo": "Capitão de manobra da marinha mercante"
+},
+{
+  "id": 215115,
+  "titulo": "Comandante da marinha mercante"
+},
+{
+  "id": 215120,
+  "titulo": "Coordenador de operações de combate à poluição no meio aquaviário"
+},
+{
+  "id": 215125,
+  "titulo": "Imediato da marinha mercante"
+},
+{
+  "id": 215130,
+  "titulo": "Inspetor de terminal"
+},
+{
+  "id": 215135,
+  "titulo": "Inspetor naval"
+},
+{
+  "id": 215140,
+  "titulo": "Oficial de quarto de navegação da marinha mercante"
+},
+{
+  "id": 215145,
+  "titulo": "Prático de portos da marinha mercante"
+},
+{
+  "id": 215150,
+  "titulo": "Vistoriador naval"
+},
+{
+  "id": 215205,
+  "titulo": "Oficial superior de máquinas da marinha mercante"
+},
+{
+  "id": 215210,
+  "titulo": "Primeiro oficial de máquinas da marinha mercante"
+},
+{
+  "id": 215215,
+  "titulo": "Segundo oficial de máquinas da marinha mercante"
+},
+{
+  "id": 215220,
+  "titulo": "Superintendente técnico no transporte aquaviário"
+},
+{
+  "id": 215305,
+  "titulo": "Piloto de aeronaves"
+},
+{
+  "id": 215310,
+  "titulo": "Piloto de ensaios em vôo"
+},
+{
+  "id": 215315,
+  "titulo": "Instrutor de vôo"
+},
+{
+  "id": 221105,
+  "titulo": "Biólogo"
+},
+{
+  "id": 221205,
+  "titulo": "Biomédico"
+},
+{
+  "id": 222105,
+  "titulo": "Engenheiro agrícola"
+},
+{
+  "id": 222110,
+  "titulo": "Engenheiro agrônomo"
+},
+{
+  "id": 222115,
+  "titulo": "Engenheiro de pesca"
+},
+{
+  "id": 222120,
+  "titulo": "Engenheiro florestal"
+},
+{
+  "id": 222125,
+  "titulo": "Tecnólogo em agronegócio"
+},
+{
+  "id": 222205,
+  "titulo": "Engenheiro de alimentos"
+},
+{
+  "id": 222215,
+  "titulo": "Tecnólogo em alimentos"
+},
+{
+  "id": 223204,
+  "titulo": "Cirurgião dentista - auditor"
+},
+{
+  "id": 223208,
+  "titulo": "Cirurgião dentista - clínico geral"
+},
+{
+  "id": 223212,
+  "titulo": "Cirurgião dentista - endodontista"
+},
+{
+  "id": 223216,
+  "titulo": "Cirurgião dentista - epidemiologista"
+},
+{
+  "id": 223220,
+  "titulo": "Cirurgião dentista - estomatologista"
+},
+{
+  "id": 223224,
+  "titulo": "Cirurgião dentista - implantodontista"
+},
+{
+  "id": 223228,
+  "titulo": "Cirurgião dentista - odontogeriatra"
+},
+{
+  "id": 223232,
+  "titulo": "Cirurgião dentista - odontologista legal"
+},
+{
+  "id": 223236,
+  "titulo": "Cirurgião dentista - odontopediatra"
+},
+{
+  "id": 223240,
+  "titulo": "Cirurgião dentista - ortopedista e ortodontista"
+},
+{
+  "id": 223244,
+  "titulo": "Cirurgião dentista - patologista bucal"
+},
+{
+  "id": 223248,
+  "titulo": "Cirurgião dentista - periodontista"
+},
+{
+  "id": 223252,
+  "titulo": "Cirurgião dentista - protesiólogo bucomaxilofacial"
+},
+{
+  "id": 223256,
+  "titulo": "Cirurgião dentista - protesista"
+},
+{
+  "id": 223260,
+  "titulo": "Cirurgião dentista - radiologista"
+},
+{
+  "id": 223264,
+  "titulo": "Cirurgião dentista - reabilitador oral"
+},
+{
+  "id": 223268,
+  "titulo": "Cirurgião dentista - traumatologista bucomaxilofacial"
+},
+{
+  "id": 223272,
+  "titulo": "Cirurgião dentista de saúde coletiva"
+},
+{
+  "id": 223276,
+  "titulo": "Cirurgião dentista - odontologia do trabalho"
+},
+{
+  "id": 223280,
+  "titulo": "Cirurgião dentista - dentística"
+},
+{
+  "id": 223284,
+  "titulo": "Cirurgião dentista - disfunção temporomandibular e dor orofacial"
+},
+{
+  "id": 223288,
+  "titulo": "Cirurgião dentista - odontologia para pacientes com necessidades especiais"
+},
+{
+  "id": 223293,
+  "titulo": "Cirurgião-dentista da estratégia de saúde da família"
+},
+{
+  "id": 223305,
+  "titulo": "Médico veterinário"
+},
+{
+  "id": 223310,
+  "titulo": "Zootecnista"
+},
+{
+  "id": 223405,
+  "titulo": "Farmacêutico"
+},
+{
+  "id": 223415,
+  "titulo": "Farmacêutico analista clínico"
+},
+{
+  "id": 223420,
+  "titulo": "Farmacêutico de alimentos"
+},
+{
+  "id": 223425,
+  "titulo": "Farmacêutico práticas integrativas e complementares"
+},
+{
+  "id": 223430,
+  "titulo": "Farmacêutico em saúde pública"
+},
+{
+  "id": 223435,
+  "titulo": "Farmacêutico industrial"
+},
+{
+  "id": 223440,
+  "titulo": "Farmacêutico toxicologista"
+},
+{
+  "id": 223445,
+  "titulo": "Farmacêutico hospitalar e clínico"
+},
+{
+  "id": 223505,
+  "titulo": "Enfermeiro"
+},
+{
+  "id": 223510,
+  "titulo": "Enfermeiro auditor"
+},
+{
+  "id": 223515,
+  "titulo": "Enfermeiro de bordo"
+},
+{
+  "id": 223520,
+  "titulo": "Enfermeiro de centro cirúrgico"
+},
+{
+  "id": 223525,
+  "titulo": "Enfermeiro de terapia intensiva"
+},
+{
+  "id": 223530,
+  "titulo": "Enfermeiro do trabalho"
+},
+{
+  "id": 223535,
+  "titulo": "Enfermeiro nefrologista"
+},
+{
+  "id": 223540,
+  "titulo": "Enfermeiro neonatologista"
+},
+{
+  "id": 223545,
+  "titulo": "Enfermeiro obstétrico"
+},
+{
+  "id": 223550,
+  "titulo": "Enfermeiro psiquiátrico"
+},
+{
+  "id": 223555,
+  "titulo": "Enfermeiro puericultor e pediátrico"
+},
+{
+  "id": 223560,
+  "titulo": "Enfermeiro sanitarista"
+},
+{
+  "id": 223565,
+  "titulo": "Enfermeiro da estratégia de saúde da família"
+},
+{
+  "id": 223570,
+  "titulo": "Perfusionista"
+},
+{
+  "id": 223575,
+  "titulo": "Obstetriz"
+},
+{
+  "id": 223580,
+  "titulo": "Enfermeiro estomaterapeuta"
+},
+{
+  "id": 223585,
+  "titulo": "Enfermeiro forense"
+},
+{
+  "id": 223605,
+  "titulo": "Fisioterapeuta geral"
+},
+{
+  "id": 223625,
+  "titulo": "Fisioterapeuta respiratória"
+},
+{
+  "id": 223630,
+  "titulo": "Fisioterapeuta neurofuncional"
+},
+{
+  "id": 223635,
+  "titulo": "Fisioterapeuta traumato-ortopédica funcional"
+},
+{
+  "id": 223640,
+  "titulo": "Fisioterapeuta osteopata"
+},
+{
+  "id": 223645,
+  "titulo": "Fisioterapeuta quiropraxista"
+},
+{
+  "id": 223650,
+  "titulo": "Fisioterapeuta acupunturista"
+},
+{
+  "id": 223655,
+  "titulo": "Fisioterapeuta esportivo"
+},
+{
+  "id": 223660,
+  "titulo": "Fisioterapeuta  do trabalho"
+},
+{
+  "id": 223705,
+  "titulo": "Dietista"
+},
+{
+  "id": 223710,
+  "titulo": "Nutricionista"
+},
+{
+  "id": 223810,
+  "titulo": "Fonoaudiólogo geral"
+},
+{
+  "id": 223815,
+  "titulo": "Fonoaudiólogo educacional"
+},
+{
+  "id": 223820,
+  "titulo": "Fonoaudiólogo em audiologia"
+},
+{
+  "id": 223825,
+  "titulo": "Fonoaudiólogo em disfagia"
+},
+{
+  "id": 223830,
+  "titulo": "Fonoaudiólogo em linguagem"
+},
+{
+  "id": 223835,
+  "titulo": "Fonoaudiólogo em motricidade orofacial"
+},
+{
+  "id": 223840,
+  "titulo": "Fonoaudiólogo em saúde coletiva"
+},
+{
+  "id": 223845,
+  "titulo": "Fonoaudiólogo em voz"
+},
+{
+  "id": 223905,
+  "titulo": "Terapeuta ocupacional"
+},
+{
+  "id": 223910,
+  "titulo": "Ortoptista"
+},
+{
+  "id": 223915,
+  "titulo": "Psicomotricista"
+},
+{
+  "id": 224105,
+  "titulo": "Avaliador físico"
+},
+{
+  "id": 224110,
+  "titulo": "Ludomotricista"
+},
+{
+  "id": 224115,
+  "titulo": "Preparador de atleta"
+},
+{
+  "id": 224120,
+  "titulo": "Preparador físico"
+},
+{
+  "id": 224125,
+  "titulo": "Técnico de desporto individual e coletivo (exceto futebol)"
+},
+{
+  "id": 224130,
+  "titulo": "Técnico de laboratório e fiscalização desportiva"
+},
+{
+  "id": 224135,
+  "titulo": "Treinador profissional de futebol"
+},
+{
+  "id": 224140,
+  "titulo": "Profissional de educação física na saúde"
+},
+{
+  "id": 225103,
+  "titulo": "Médico infectologista"
+},
+{
+  "id": 225105,
+  "titulo": "Médico acupunturista"
+},
+{
+  "id": 225106,
+  "titulo": "Médico legista"
+},
+{
+  "id": 225109,
+  "titulo": "Médico nefrologista"
+},
+{
+  "id": 225110,
+  "titulo": "Médico alergista e imunologista"
+},
+{
+  "id": 225112,
+  "titulo": "Médico neurologista"
+},
+{
+  "id": 225115,
+  "titulo": "Médico angiologista"
+},
+{
+  "id": 225118,
+  "titulo": "Médico nutrologista"
+},
+{
+  "id": 225120,
+  "titulo": "Médico cardiologista"
+},
+{
+  "id": 225121,
+  "titulo": "Médico oncologista clínico"
+},
+{
+  "id": 225122,
+  "titulo": "Médico cancerologista pediátrico"
+},
+{
+  "id": 225124,
+  "titulo": "Médico pediatra"
+},
+{
+  "id": 225125,
+  "titulo": "Médico clínico"
+},
+{
+  "id": 225127,
+  "titulo": "Médico pneumologista"
+},
+{
+  "id": 225130,
+  "titulo": "Médico de família e comunidade"
+},
+{
+  "id": 225133,
+  "titulo": "Médico psiquiatra"
+},
+{
+  "id": 225135,
+  "titulo": "Médico dermatologista"
+},
+{
+  "id": 225136,
+  "titulo": "Médico reumatologista"
+},
+{
+  "id": 225139,
+  "titulo": "Médico sanitarista"
+},
+{
+  "id": 225140,
+  "titulo": "Médico do trabalho"
+},
+{
+  "id": 225142,
+  "titulo": "Médico da estratégia de saúde da família"
+},
+{
+  "id": 225145,
+  "titulo": "Médico em medicina de tráfego"
+},
+{
+  "id": 225148,
+  "titulo": "Médico anatomopatologista"
+},
+{
+  "id": 225150,
+  "titulo": "Médico em medicina intensiva"
+},
+{
+  "id": 225151,
+  "titulo": "Médico anestesiologista"
+},
+{
+  "id": 225154,
+  "titulo": "Médico antroposófico"
+},
+{
+  "id": 225155,
+  "titulo": "Médico endocrinologista e metabologista"
+},
+{
+  "id": 225160,
+  "titulo": "Médico fisiatra"
+},
+{
+  "id": 225165,
+  "titulo": "Médico gastroenterologista"
+},
+{
+  "id": 225170,
+  "titulo": "Médico generalista"
+},
+{
+  "id": 225175,
+  "titulo": "Médico geneticista"
+},
+{
+  "id": 225180,
+  "titulo": "Médico geriatra"
+},
+{
+  "id": 225185,
+  "titulo": "Médico hematologista"
+},
+{
+  "id": 225195,
+  "titulo": "Médico homeopata"
+},
+{
+  "id": 225203,
+  "titulo": "Médico em cirurgia vascular"
+},
+{
+  "id": 225210,
+  "titulo": "Médico cirurgião cardiovascular"
+},
+{
+  "id": 225215,
+  "titulo": "Médico cirurgião de cabeça e pescoço"
+},
+{
+  "id": 225220,
+  "titulo": "Médico cirurgião do aparelho digestivo"
+},
+{
+  "id": 225225,
+  "titulo": "Médico cirurgião geral"
+},
+{
+  "id": 225230,
+  "titulo": "Médico cirurgião pediátrico"
+},
+{
+  "id": 225235,
+  "titulo": "Médico cirurgião plástico"
+},
+{
+  "id": 225240,
+  "titulo": "Médico cirurgião torácico"
+},
+{
+  "id": 225250,
+  "titulo": "Médico ginecologista e obstetra"
+},
+{
+  "id": 225255,
+  "titulo": "Médico mastologista"
+},
+{
+  "id": 225260,
+  "titulo": "Médico neurocirurgião"
+},
+{
+  "id": 225265,
+  "titulo": "Médico oftalmologista"
+},
+{
+  "id": 225270,
+  "titulo": "Médico ortopedista e traumatologista"
+},
+{
+  "id": 225275,
+  "titulo": "Médico otorrinolaringologista"
+},
+{
+  "id": 225280,
+  "titulo": "Médico coloproctologista"
+},
+{
+  "id": 225285,
+  "titulo": "Médico urologista"
+},
+{
+  "id": 225290,
+  "titulo": "Médico cancerologista cirurgíco"
+},
+{
+  "id": 225295,
+  "titulo": "Médico cirurgião da mão"
+},
+{
+  "id": 225305,
+  "titulo": "Médico citopatologista"
+},
+{
+  "id": 225310,
+  "titulo": "Médico em endoscopia"
+},
+{
+  "id": 225315,
+  "titulo": "Médico em medicina nuclear"
+},
+{
+  "id": 225320,
+  "titulo": "Médico em radiologia e diagnóstico por imagem"
+},
+{
+  "id": 225325,
+  "titulo": "Médico patologista"
+},
+{
+  "id": 225330,
+  "titulo": "Médico radioterapeuta"
+},
+{
+  "id": 225335,
+  "titulo": "Médico patologista clínico / medicina laboratorial"
+},
+{
+  "id": 225340,
+  "titulo": "Médico hemoterapeuta"
+},
+{
+  "id": 225345,
+  "titulo": "Médico hiperbarista"
+},
+{
+  "id": 225350,
+  "titulo": "Médico neurofisiologista clínico"
+},
+{
+  "id": 225355,
+  "titulo": "Médico radiologista intervencionista"
+},
+{
+  "id": 226105,
+  "titulo": "Quiropraxista"
+},
+{
+  "id": 226110,
+  "titulo": "Osteopata"
+},
+{
+  "id": 226305,
+  "titulo": "Musicoterapeuta"
+},
+{
+  "id": 226310,
+  "titulo": "Arteterapeuta"
+},
+{
+  "id": 226315,
+  "titulo": "Equoterapeuta"
+},
+{
+  "id": 226320,
+  "titulo": "Naturólogo"
+},
+{
+  "id": 231105,
+  "titulo": "Professor de nível superior na educação infantil (quatro a seis anos)"
+},
+{
+  "id": 231110,
+  "titulo": "Professor de nível superior na educação infantil (zero a três anos)"
+},
+{
+  "id": 231205,
+  "titulo": "Professor da  educação de jovens e adultos do ensino fundamental (primeira a quarta série)"
+},
+{
+  "id": 231210,
+  "titulo": "Professor de nível superior do ensino fundamental (primeira a quarta série)"
+},
+{
+  "id": 231305,
+  "titulo": "Professor de ciências exatas e naturais do ensino fundamental"
+},
+{
+  "id": 231310,
+  "titulo": "Professor de educação artística do ensino fundamental"
+},
+{
+  "id": 231315,
+  "titulo": "Professor de educação física do ensino fundamental"
+},
+{
+  "id": 231320,
+  "titulo": "Professor de geografia do ensino fundamental"
+},
+{
+  "id": 231325,
+  "titulo": "Professor de história do ensino fundamental"
+},
+{
+  "id": 231330,
+  "titulo": "Professor de língua estrangeira moderna do ensino fundamental"
+},
+{
+  "id": 231335,
+  "titulo": "Professor de língua portuguesa do ensino fundamental"
+},
+{
+  "id": 231340,
+  "titulo": "Professor de matemática do ensino fundamental"
+},
+{
+  "id": 232105,
+  "titulo": "Professor de artes no ensino médio"
+},
+{
+  "id": 232110,
+  "titulo": "Professor de biologia no ensino médio"
+},
+{
+  "id": 232115,
+  "titulo": "Professor de disciplinas pedagógicas no ensino médio"
+},
+{
+  "id": 232120,
+  "titulo": "Professor de educação física no ensino médio"
+},
+{
+  "id": 232125,
+  "titulo": "Professor de filosofia no ensino médio"
+},
+{
+  "id": 232130,
+  "titulo": "Professor de física no ensino médio"
+},
+{
+  "id": 232135,
+  "titulo": "Professor de geografia no ensino médio"
+},
+{
+  "id": 232140,
+  "titulo": "Professor de história no ensino médio"
+},
+{
+  "id": 232145,
+  "titulo": "Professor de língua e literatura brasileira no ensino médio"
+},
+{
+  "id": 232150,
+  "titulo": "Professor de língua estrangeira moderna no ensino médio"
+},
+{
+  "id": 232155,
+  "titulo": "Professor de matemática no ensino médio"
+},
+{
+  "id": 232160,
+  "titulo": "Professor de psicologia no ensino médio"
+},
+{
+  "id": 232165,
+  "titulo": "Professor de química no ensino médio"
+},
+{
+  "id": 232170,
+  "titulo": "Professor de sociologia no ensino médio"
+},
+{
+  "id": 233105,
+  "titulo": "Professor da área de meio ambiente"
+},
+{
+  "id": 233110,
+  "titulo": "Professor de desenho técnico"
+},
+{
+  "id": 233115,
+  "titulo": "Professor de técnicas agrícolas"
+},
+{
+  "id": 233120,
+  "titulo": "Professor de técnicas comerciais e secretariais"
+},
+{
+  "id": 233125,
+  "titulo": "Professor de técnicas de enfermagem"
+},
+{
+  "id": 233130,
+  "titulo": "Professor de técnicas industriais"
+},
+{
+  "id": 233135,
+  "titulo": "Professor de tecnologia e cálculo técnico"
+},
+{
+  "id": 233205,
+  "titulo": "Instrutor de aprendizagem e treinamento agropecuário"
+},
+{
+  "id": 233210,
+  "titulo": "Instrutor de aprendizagem e treinamento industrial"
+},
+{
+  "id": 233215,
+  "titulo": "Instrutor de aprendizagem e treinamento comercial"
+},
+{
+  "id": 233220,
+  "titulo": "Professor instrutor de ensino e aprendizagem agroflorestal"
+},
+{
+  "id": 233225,
+  "titulo": "Professor instrutor de ensino e aprendizagem em serviços"
+},
+{
+  "id": 234105,
+  "titulo": "Professor de matemática aplicada (no ensino superior)"
+},
+{
+  "id": 234110,
+  "titulo": "Professor de matemática pura (no ensino superior)"
+},
+{
+  "id": 234115,
+  "titulo": "Professor de estatística (no ensino superior)"
+},
+{
+  "id": 234120,
+  "titulo": "Professor de computação (no ensino superior)"
+},
+{
+  "id": 234125,
+  "titulo": "Professor de pesquisa operacional (no ensino superior)"
+},
+{
+  "id": 234205,
+  "titulo": "Professor de física (ensino superior)"
+},
+{
+  "id": 234210,
+  "titulo": "Professor de química (ensino superior)"
+},
+{
+  "id": 234215,
+  "titulo": "Professor de astronomia (ensino superior)"
+},
+{
+  "id": 234305,
+  "titulo": "Professor de arquitetura"
+},
+{
+  "id": 234310,
+  "titulo": "Professor de engenharia"
+},
+{
+  "id": 234315,
+  "titulo": "Professor de geofísica"
+},
+{
+  "id": 234320,
+  "titulo": "Professor de geologia"
+},
+{
+  "id": 234405,
+  "titulo": "Professor de ciências biológicas do ensino superior"
+},
+{
+  "id": 234410,
+  "titulo": "Professor de educação física no ensino superior"
+},
+{
+  "id": 234415,
+  "titulo": "Professor de enfermagem do ensino superior"
+},
+{
+  "id": 234420,
+  "titulo": "Professor de farmácia e bioquímica"
+},
+{
+  "id": 234425,
+  "titulo": "Professor de fisioterapia"
+},
+{
+  "id": 234430,
+  "titulo": "Professor de fonoaudiologia"
+},
+{
+  "id": 234435,
+  "titulo": "Professor de medicina"
+},
+{
+  "id": 234440,
+  "titulo": "Professor de medicina veterinária"
+},
+{
+  "id": 234445,
+  "titulo": "Professor de nutrição"
+},
+{
+  "id": 234450,
+  "titulo": "Professor de odontologia"
+},
+{
+  "id": 234455,
+  "titulo": "Professor de terapia ocupacional"
+},
+{
+  "id": 234460,
+  "titulo": "Professor de zootecnia do ensino superior"
+},
+{
+  "id": 234505,
+  "titulo": "Professor de ensino superior na área de didática"
+},
+{
+  "id": 234510,
+  "titulo": "Professor de ensino superior na área de orientação educacional"
+},
+{
+  "id": 234515,
+  "titulo": "Professor de ensino superior na área de pesquisa educacional"
+},
+{
+  "id": 234520,
+  "titulo": "Professor de ensino superior na área de prática de ensino"
+},
+{
+  "id": 234604,
+  "titulo": "Professor de língua alemã"
+},
+{
+  "id": 234608,
+  "titulo": "Professor de língua italiana"
+},
+{
+  "id": 234612,
+  "titulo": "Professor de língua francesa"
+},
+{
+  "id": 234616,
+  "titulo": "Professor de língua inglesa"
+},
+{
+  "id": 234620,
+  "titulo": "Professor de língua espanhola"
+},
+{
+  "id": 234624,
+  "titulo": "Professor de língua portuguesa"
+},
+{
+  "id": 234628,
+  "titulo": "Professor de literatura brasileira"
+},
+{
+  "id": 234632,
+  "titulo": "Professor de literatura portuguesa"
+},
+{
+  "id": 234636,
+  "titulo": "Professor de literatura alemã"
+},
+{
+  "id": 234640,
+  "titulo": "Professor de literatura comparada"
+},
+{
+  "id": 234644,
+  "titulo": "Professor de literatura espanhola"
+},
+{
+  "id": 234648,
+  "titulo": "Professor de literatura francesa"
+},
+{
+  "id": 234652,
+  "titulo": "Professor de literatura inglesa"
+},
+{
+  "id": 234656,
+  "titulo": "Professor de literatura italiana"
+},
+{
+  "id": 234660,
+  "titulo": "Professor de literatura de línguas estrangeiras modernas"
+},
+{
+  "id": 234664,
+  "titulo": "Professor de outras línguas e literaturas"
+},
+{
+  "id": 234668,
+  "titulo": "Professor de línguas estrangeiras modernas"
+},
+{
+  "id": 234672,
+  "titulo": "Professor de lingüística e lingüística aplicada"
+},
+{
+  "id": 234676,
+  "titulo": "Professor de filologia e crítica textual"
+},
+{
+  "id": 234680,
+  "titulo": "Professor de semiótica"
+},
+{
+  "id": 234684,
+  "titulo": "Professor de teoria da literatura"
+},
+{
+  "id": 234689,
+  "titulo": "Professor de língua brasileira de sinais (libras)"
+},
+{
+  "id": 234705,
+  "titulo": "Professor de antropologia do ensino superior"
+},
+{
+  "id": 234710,
+  "titulo": "Professor de arquivologia do ensino superior"
+},
+{
+  "id": 234715,
+  "titulo": "Professor de biblioteconomia do ensino superior"
+},
+{
+  "id": 234720,
+  "titulo": "Professor de ciência política do ensino superior"
+},
+{
+  "id": 234725,
+  "titulo": "Professor de comunicação social do ensino superior"
+},
+{
+  "id": 234730,
+  "titulo": "Professor de direito do ensino superior"
+},
+{
+  "id": 234735,
+  "titulo": "Professor de filosofia do ensino superior"
+},
+{
+  "id": 234740,
+  "titulo": "Professor de geografia do ensino superior"
+},
+{
+  "id": 234745,
+  "titulo": "Professor de história do ensino superior"
+},
+{
+  "id": 234750,
+  "titulo": "Professor de jornalismo"
+},
+{
+  "id": 234755,
+  "titulo": "Professor de museologia do ensino superior"
+},
+{
+  "id": 234760,
+  "titulo": "Professor de psicologia do ensino superior"
+},
+{
+  "id": 234765,
+  "titulo": "Professor de serviço social do ensino superior"
+},
+{
+  "id": 234770,
+  "titulo": "Professor de sociologia do ensino superior"
+},
+{
+  "id": 234805,
+  "titulo": "Professor de economia"
+},
+{
+  "id": 234810,
+  "titulo": "Professor de administração"
+},
+{
+  "id": 234815,
+  "titulo": "Professor de contabilidade"
+},
+{
+  "id": 234905,
+  "titulo": "Professor de artes do espetáculo no ensino superior"
+},
+{
+  "id": 234910,
+  "titulo": "Professor de artes visuais no ensino superior (artes plásticas e multimídia)"
+},
+{
+  "id": 234915,
+  "titulo": "Professor de música no ensino superior"
+},
+{
+  "id": 239205,
+  "titulo": "Professor de alunos com deficiência auditiva e surdos"
+},
+{
+  "id": 239210,
+  "titulo": "Professor de alunos com deficiência física"
+},
+{
+  "id": 239215,
+  "titulo": "Professor de alunos com deficiência mental"
+},
+{
+  "id": 239220,
+  "titulo": "Professor de alunos com deficiência múltipla"
+},
+{
+  "id": 239225,
+  "titulo": "Professor de alunos com deficiência visual"
+},
+{
+  "id": 239405,
+  "titulo": "Coordenador pedagógico"
+},
+{
+  "id": 239410,
+  "titulo": "Orientador educacional"
+},
+{
+  "id": 239415,
+  "titulo": "Pedagogo"
+},
+{
+  "id": 239420,
+  "titulo": "Professor de técnicas e recursos audiovisuais"
+},
+{
+  "id": 239425,
+  "titulo": "Psicopedagogo"
+},
+{
+  "id": 239430,
+  "titulo": "Supervisor de ensino"
+},
+{
+  "id": 239435,
+  "titulo": "Designer educacional"
+},
+{
+  "id": 239440,
+  "titulo": "Neuropsicopedagogo clinico"
+},
+{
+  "id": 239445,
+  "titulo": "Neuropsicopedagogo institucional"
+},
+{
+  "id": 241005,
+  "titulo": "Advogado"
+},
+{
+  "id": 241010,
+  "titulo": "Advogado de empresa"
+},
+{
+  "id": 241015,
+  "titulo": "Advogado (direito civil)"
+},
+{
+  "id": 241020,
+  "titulo": "Advogado (direito público)"
+},
+{
+  "id": 241025,
+  "titulo": "Advogado (direito penal)"
+},
+{
+  "id": 241030,
+  "titulo": "Advogado (áreas especiais)"
+},
+{
+  "id": 241035,
+  "titulo": "Advogado (direito do trabalho)"
+},
+{
+  "id": 241040,
+  "titulo": "Consultor jurídico"
+},
+{
+  "id": 241205,
+  "titulo": "Advogado da união"
+},
+{
+  "id": 241210,
+  "titulo": "Procurador autárquico"
+},
+{
+  "id": 241215,
+  "titulo": "Procurador da fazenda nacional"
+},
+{
+  "id": 241220,
+  "titulo": "Procurador do estado"
+},
+{
+  "id": 241225,
+  "titulo": "Procurador do município"
+},
+{
+  "id": 241230,
+  "titulo": "Procurador federal"
+},
+{
+  "id": 241235,
+  "titulo": "Procurador fundacional"
+},
+{
+  "id": 241305,
+  "titulo": "Oficial de registro de contratos marítimos"
+},
+{
+  "id": 241310,
+  "titulo": "Oficial do registro civil de pessoas jurídicas"
+},
+{
+  "id": 241315,
+  "titulo": "Oficial do registro civil de pessoas naturais"
+},
+{
+  "id": 241320,
+  "titulo": "Oficial do registro de distribuições"
+},
+{
+  "id": 241325,
+  "titulo": "Oficial do registro de imóveis"
+},
+{
+  "id": 241330,
+  "titulo": "Oficial do registro de títulos e documentos"
+},
+{
+  "id": 241335,
+  "titulo": "Tabelião de notas"
+},
+{
+  "id": 241340,
+  "titulo": "Tabelião de protestos"
+},
+{
+  "id": 241405,
+  "titulo": "Conselheiro julgador"
+},
+{
+  "id": 242205,
+  "titulo": "Procurador da república"
+},
+{
+  "id": 242210,
+  "titulo": "Procurador de justiça"
+},
+{
+  "id": 242215,
+  "titulo": "Procurador de justiça militar"
+},
+{
+  "id": 242220,
+  "titulo": "Procurador do trabalho"
+},
+{
+  "id": 242225,
+  "titulo": "Procurador regional da república"
+},
+{
+  "id": 242230,
+  "titulo": "Procurador regional do trabalho"
+},
+{
+  "id": 242235,
+  "titulo": "Promotor de justiça"
+},
+{
+  "id": 242240,
+  "titulo": "Subprocurador de justiça militar"
+},
+{
+  "id": 242245,
+  "titulo": "Subprocurador-geral da república"
+},
+{
+  "id": 242250,
+  "titulo": "Subprocurador-geral do trabalho"
+},
+{
+  "id": 242305,
+  "titulo": "Delegado de polícia"
+},
+{
+  "id": 242405,
+  "titulo": "Defensor público"
+},
+{
+  "id": 242410,
+  "titulo": "Procurador da assistência judiciária"
+},
+{
+  "id": 242905,
+  "titulo": "Oficial de inteligência"
+},
+{
+  "id": 242910,
+  "titulo": "Oficial técnico de inteligência"
+},
+{
+  "id": 251105,
+  "titulo": "Antropólogo"
+},
+{
+  "id": 251110,
+  "titulo": "Arqueólogo"
+},
+{
+  "id": 251115,
+  "titulo": "Cientista político"
+},
+{
+  "id": 251120,
+  "titulo": "Sociólogo"
+},
+{
+  "id": 251205,
+  "titulo": "Economista"
+},
+{
+  "id": 251210,
+  "titulo": "Economista agroindustrial"
+},
+{
+  "id": 251215,
+  "titulo": "Economista financeiro"
+},
+{
+  "id": 251220,
+  "titulo": "Economista industrial"
+},
+{
+  "id": 251225,
+  "titulo": "Economista do setor público"
+},
+{
+  "id": 251230,
+  "titulo": "Economista ambiental"
+},
+{
+  "id": 251235,
+  "titulo": "Economista regional e urbano"
+},
+{
+  "id": 251305,
+  "titulo": "Geógrafo"
+},
+{
+  "id": 251405,
+  "titulo": "Filósofo"
+},
+{
+  "id": 251505,
+  "titulo": "Psicólogo educacional"
+},
+{
+  "id": 251510,
+  "titulo": "Psicólogo clínico"
+},
+{
+  "id": 251515,
+  "titulo": "Psicólogo do esporte"
+},
+{
+  "id": 251520,
+  "titulo": "Psicólogo hospitalar"
+},
+{
+  "id": 251525,
+  "titulo": "Psicólogo jurídico"
+},
+{
+  "id": 251530,
+  "titulo": "Psicólogo social"
+},
+{
+  "id": 251535,
+  "titulo": "Psicólogo do trânsito"
+},
+{
+  "id": 251540,
+  "titulo": "Psicólogo do trabalho"
+},
+{
+  "id": 251545,
+  "titulo": "Neuropsicólogo"
+},
+{
+  "id": 251550,
+  "titulo": "Psicanalista"
+},
+{
+  "id": 251555,
+  "titulo": "Psicólogo acupunturista"
+},
+{
+  "id": 251605,
+  "titulo": "Assistente social"
+},
+{
+  "id": 251610,
+  "titulo": "Economista doméstico"
+},
+{
+  "id": 252105,
+  "titulo": "Administrador"
+},
+{
+  "id": 252205,
+  "titulo": "Auditor (contadores e afins)"
+},
+{
+  "id": 252210,
+  "titulo": "Contador"
+},
+{
+  "id": 252215,
+  "titulo": "Perito contábil"
+},
+{
+  "id": 252305,
+  "titulo": "Secretária(o) executiva(o)"
+},
+{
+  "id": 252310,
+  "titulo": "Secretário  bilíngüe"
+},
+{
+  "id": 252315,
+  "titulo": "Secretária trilíngüe"
+},
+{
+  "id": 252320,
+  "titulo": "Tecnólogo em secretariado escolar"
+},
+{
+  "id": 252405,
+  "titulo": "Analista de recursos humanos"
+},
+{
+  "id": 252505,
+  "titulo": "Administrador de fundos e carteiras de investimento"
+},
+{
+  "id": 252510,
+  "titulo": "Analista de câmbio"
+},
+{
+  "id": 252515,
+  "titulo": "Analista de cobrança (instituições financeiras)"
+},
+{
+  "id": 252525,
+  "titulo": "Analista de crédito (instituições financeiras)"
+},
+{
+  "id": 252530,
+  "titulo": "Analista de crédito rural"
+},
+{
+  "id": 252535,
+  "titulo": "Analista de leasing"
+},
+{
+  "id": 252540,
+  "titulo": "Analista de produtos bancários"
+},
+{
+  "id": 252545,
+  "titulo": "Analista financeiro (instituições financeiras)"
+},
+{
+  "id": 252550,
+  "titulo": "Profissional de relações com investidores"
+},
+{
+  "id": 252605,
+  "titulo": "Gestor em segurança"
+},
+{
+  "id": 252705,
+  "titulo": "Analista de pcp (programação e controle da produção)"
+},
+{
+  "id": 252710,
+  "titulo": "Analista de planejamento de materias"
+},
+{
+  "id": 252715,
+  "titulo": "Analista de logistica"
+},
+{
+  "id": 252720,
+  "titulo": "Analista de projetos logisticos"
+},
+{
+  "id": 252725,
+  "titulo": "Analista de gestão de estoque"
+},
+{
+  "id": 253110,
+  "titulo": "Redator de publicidade"
+},
+{
+  "id": 253115,
+  "titulo": "Publicitário"
+},
+{
+  "id": 253120,
+  "titulo": "Diretor de mídia (publicidade)"
+},
+{
+  "id": 253125,
+  "titulo": "Diretor de arte (publicidade)"
+},
+{
+  "id": 253130,
+  "titulo": "Diretor de criação"
+},
+{
+  "id": 253135,
+  "titulo": "Diretor de contas (publicidade)"
+},
+{
+  "id": 253140,
+  "titulo": "Agenciador de propaganda"
+},
+{
+  "id": 253205,
+  "titulo": "Gerente de captação (fundos e investimentos institucionais)"
+},
+{
+  "id": 253210,
+  "titulo": "Gerente de clientes especiais (private)"
+},
+{
+  "id": 253215,
+  "titulo": "Gerente de contas - pessoa física e jurídica"
+},
+{
+  "id": 253220,
+  "titulo": "Gerente de grandes contas (corporate)"
+},
+{
+  "id": 253225,
+  "titulo": "Operador de negócios"
+},
+{
+  "id": 253305,
+  "titulo": "Corretor de valores, ativos financeiros, mercadorias e derivativos"
+},
+{
+  "id": 253405,
+  "titulo": "Analista de mídias sociais"
+},
+{
+  "id": 253410,
+  "titulo": "Influenciador digital"
+},
+{
+  "id": 254105,
+  "titulo": "Auditor-fiscal da receita federal"
+},
+{
+  "id": 254110,
+  "titulo": "Técnico da receita federal"
+},
+{
+  "id": 254205,
+  "titulo": "Auditor-fiscal da previdência social"
+},
+{
+  "id": 254305,
+  "titulo": "Auditor-fiscal do trabalho"
+},
+{
+  "id": 254310,
+  "titulo": "Agente de higiene e segurança"
+},
+{
+  "id": 254405,
+  "titulo": "Fiscal de tributos estadual"
+},
+{
+  "id": 254410,
+  "titulo": "Fiscal de tributos municipal"
+},
+{
+  "id": 254415,
+  "titulo": "Técnico de tributos estadual"
+},
+{
+  "id": 254420,
+  "titulo": "Técnico de tributos municipal"
+},
+{
+  "id": 254505,
+  "titulo": "Fiscal de atividades urbanas"
+},
+{
+  "id": 261105,
+  "titulo": "Arquivista pesquisador (jornalismo)"
+},
+{
+  "id": 261110,
+  "titulo": "Assessor de imprensa"
+},
+{
+  "id": 261115,
+  "titulo": "Diretor de redação"
+},
+{
+  "id": 261120,
+  "titulo": "Editor"
+},
+{
+  "id": 261125,
+  "titulo": "Jornalista"
+},
+{
+  "id": 261130,
+  "titulo": "Produtor de texto"
+},
+{
+  "id": 261135,
+  "titulo": "Repórter (exclusive rádio e televisão)"
+},
+{
+  "id": 261140,
+  "titulo": "Revisor de texto"
+},
+{
+  "id": 261205,
+  "titulo": "Bibliotecário"
+},
+{
+  "id": 261210,
+  "titulo": "Documentalista"
+},
+{
+  "id": 261215,
+  "titulo": "Analista de informações (pesquisador de informações de rede)"
+},
+{
+  "id": 261305,
+  "titulo": "Arquivista"
+},
+{
+  "id": 261310,
+  "titulo": "Museólogo"
+},
+{
+  "id": 261405,
+  "titulo": "Filólogo"
+},
+{
+  "id": 261410,
+  "titulo": "Intérprete"
+},
+{
+  "id": 261415,
+  "titulo": "Lingüista"
+},
+{
+  "id": 261420,
+  "titulo": "Tradutor"
+},
+{
+  "id": 261425,
+  "titulo": "Intérprete de língua de sinais"
+},
+{
+  "id": 261430,
+  "titulo": "Audiodescritor"
+},
+{
+  "id": 261505,
+  "titulo": "Autor-roteirista"
+},
+{
+  "id": 261510,
+  "titulo": "Crítico"
+},
+{
+  "id": 261515,
+  "titulo": "Escritor de ficção"
+},
+{
+  "id": 261520,
+  "titulo": "Escritor de não ficção"
+},
+{
+  "id": 261525,
+  "titulo": "Poeta"
+},
+{
+  "id": 261530,
+  "titulo": "Redator de textos técnicos"
+},
+{
+  "id": 261605,
+  "titulo": "Editor de jornal"
+},
+{
+  "id": 261610,
+  "titulo": "Editor de livro"
+},
+{
+  "id": 261615,
+  "titulo": "Editor de mídia eletrônica"
+},
+{
+  "id": 261620,
+  "titulo": "Editor de revista"
+},
+{
+  "id": 261625,
+  "titulo": "Editor de revista científica"
+},
+{
+  "id": 261705,
+  "titulo": "Âncora de mídias audiovisuais"
+},
+{
+  "id": 261710,
+  "titulo": "Comentarista de mídias audiovisuais"
+},
+{
+  "id": 261715,
+  "titulo": "Locutor de mídias audiovisuais"
+},
+{
+  "id": 261730,
+  "titulo": "Repórter de mídias audiovisuais"
+},
+{
+  "id": 261805,
+  "titulo": "Fotógrafo"
+},
+{
+  "id": 261810,
+  "titulo": "Fotógrafo publicitário"
+},
+{
+  "id": 261815,
+  "titulo": "Fotógrafo retratista"
+},
+{
+  "id": 261820,
+  "titulo": "Repórter fotográfico"
+},
+{
+  "id": 261905,
+  "titulo": "Continuista"
+},
+{
+  "id": 261910,
+  "titulo": "Assistente de direção (tv)"
+},
+{
+  "id": 262105,
+  "titulo": "Produtor cultural"
+},
+{
+  "id": 262110,
+  "titulo": "Produtor cinematográfico"
+},
+{
+  "id": 262115,
+  "titulo": "Produtor de rádio"
+},
+{
+  "id": 262120,
+  "titulo": "Produtor de teatro"
+},
+{
+  "id": 262125,
+  "titulo": "Produtor de televisão"
+},
+{
+  "id": 262130,
+  "titulo": "Tecnólogo em produção fonográfica"
+},
+{
+  "id": 262135,
+  "titulo": "Tecnólogo em produção audiovisual"
+},
+{
+  "id": 262205,
+  "titulo": "Diretor de cinema"
+},
+{
+  "id": 262210,
+  "titulo": "Diretor de programas de rádio"
+},
+{
+  "id": 262215,
+  "titulo": "Diretor de programas de televisão"
+},
+{
+  "id": 262220,
+  "titulo": "Diretor teatral"
+},
+{
+  "id": 262225,
+  "titulo": "Diretor de programação"
+},
+{
+  "id": 262230,
+  "titulo": "Diretor de produção"
+},
+{
+  "id": 262235,
+  "titulo": "Diretor artistíco"
+},
+{
+  "id": 262305,
+  "titulo": "Cenógrafo carnavalesco e festas populares"
+},
+{
+  "id": 262310,
+  "titulo": "Cenógrafo de cinema"
+},
+{
+  "id": 262315,
+  "titulo": "Cenógrafo de eventos"
+},
+{
+  "id": 262320,
+  "titulo": "Cenógrafo de teatro"
+},
+{
+  "id": 262325,
+  "titulo": "Cenógrafo de tv"
+},
+{
+  "id": 262330,
+  "titulo": "Diretor de arte"
+},
+{
+  "id": 262405,
+  "titulo": "Artista (artes visuais)"
+},
+{
+  "id": 262410,
+  "titulo": "Desenhista industrial gráfico (designer gráfico)"
+},
+{
+  "id": 262415,
+  "titulo": "Conservador-restaurador de bens  culturais"
+},
+{
+  "id": 262420,
+  "titulo": "Desenhista industrial de produto (designer de produto)"
+},
+{
+  "id": 262425,
+  "titulo": "Desenhista industrial de produto de moda (designer de moda)"
+},
+{
+  "id": 262505,
+  "titulo": "Ator"
+},
+{
+  "id": 262605,
+  "titulo": "Compositor"
+},
+{
+  "id": 262610,
+  "titulo": "Músico arranjador"
+},
+{
+  "id": 262615,
+  "titulo": "Músico regente"
+},
+{
+  "id": 262620,
+  "titulo": "Musicólogo"
+},
+{
+  "id": 262705,
+  "titulo": "Músico intérprete cantor"
+},
+{
+  "id": 262710,
+  "titulo": "Músico intérprete instrumentista"
+},
+{
+  "id": 262805,
+  "titulo": "Assistente de coreografia"
+},
+{
+  "id": 262810,
+  "titulo": "Bailarino (exceto danças populares)"
+},
+{
+  "id": 262815,
+  "titulo": "Coreógrafo"
+},
+{
+  "id": 262820,
+  "titulo": "Dramaturgo de dança"
+},
+{
+  "id": 262825,
+  "titulo": "Ensaiador de dança"
+},
+{
+  "id": 262830,
+  "titulo": "Professor de dança"
+},
+{
+  "id": 262905,
+  "titulo": "Decorador de interiores de nível superior"
+},
+{
+  "id": 263105,
+  "titulo": "Ministro de culto religioso"
+},
+{
+  "id": 263110,
+  "titulo": "Missionário"
+},
+{
+  "id": 263115,
+  "titulo": "Teólogo"
+},
+{
+  "id": 271105,
+  "titulo": "Chefe de cozinha"
+},
+{
+  "id": 271110,
+  "titulo": "Tecnólogo em gastronomia"
+},
+{
+  "id": 300105,
+  "titulo": "Técnico em mecatrônica - automação da manufatura"
+},
+{
+  "id": 300110,
+  "titulo": "Técnico em mecatrônica - robótica"
+},
+{
+  "id": 300305,
+  "titulo": "Técnico em eletromecânica"
+},
+{
+  "id": 301105,
+  "titulo": "Técnico de laboratório industrial"
+},
+{
+  "id": 301110,
+  "titulo": "Técnico de laboratório de análises físico-químicas (materiais de construção)"
+},
+{
+  "id": 301115,
+  "titulo": "Técnico químico de petróleo"
+},
+{
+  "id": 301205,
+  "titulo": "Técnico de apoio à bioengenharia"
+},
+{
+  "id": 311105,
+  "titulo": "Técnico químico"
+},
+{
+  "id": 311110,
+  "titulo": "Técnico de celulose e papel"
+},
+{
+  "id": 311115,
+  "titulo": "Técnico em curtimento"
+},
+{
+  "id": 311205,
+  "titulo": "Técnico em petroquímica"
+},
+{
+  "id": 311305,
+  "titulo": "Técnico em materiais, produtos cerâmicos e vidros"
+},
+{
+  "id": 311405,
+  "titulo": "Técnico em borracha"
+},
+{
+  "id": 311410,
+  "titulo": "Técnico em plástico"
+},
+{
+  "id": 311505,
+  "titulo": "Técnico de controle de meio ambiente"
+},
+{
+  "id": 311510,
+  "titulo": "Técnico de meteorologia"
+},
+{
+  "id": 311515,
+  "titulo": "Técnico de utilidade (produção e distribuição de vapor, gases, óleos, combustíveis, energia)"
+},
+{
+  "id": 311520,
+  "titulo": "Técnico em tratamento de efluentes"
+},
+{
+  "id": 311605,
+  "titulo": "Técnico têxtil"
+},
+{
+  "id": 311610,
+  "titulo": "Técnico têxtil (tratamentos químicos)"
+},
+{
+  "id": 311615,
+  "titulo": "Técnico têxtil de fiação"
+},
+{
+  "id": 311620,
+  "titulo": "Técnico têxtil de malharia"
+},
+{
+  "id": 311625,
+  "titulo": "Técnico têxtil de tecelagem"
+},
+{
+  "id": 311705,
+  "titulo": "Colorista de papel"
+},
+{
+  "id": 311710,
+  "titulo": "Colorista têxtil"
+},
+{
+  "id": 311715,
+  "titulo": "Preparador de tintas"
+},
+{
+  "id": 311720,
+  "titulo": "Preparador de tintas (fábrica de tecidos)"
+},
+{
+  "id": 311725,
+  "titulo": "Tingidor de couros e peles"
+},
+{
+  "id": 312105,
+  "titulo": "Técnico de obras civis"
+},
+{
+  "id": 312205,
+  "titulo": "Técnico de estradas"
+},
+{
+  "id": 312210,
+  "titulo": "Técnico de saneamento"
+},
+{
+  "id": 312305,
+  "titulo": "Técnico em agrimensura"
+},
+{
+  "id": 312310,
+  "titulo": "Técnico em geodésia e cartografia"
+},
+{
+  "id": 312315,
+  "titulo": "Técnico em hidrografia"
+},
+{
+  "id": 312320,
+  "titulo": "Topógrafo"
+},
+{
+  "id": 313105,
+  "titulo": "Eletrotécnico"
+},
+{
+  "id": 313110,
+  "titulo": "Eletrotécnico (produção de energia)"
+},
+{
+  "id": 313115,
+  "titulo": "Eletrotécnico na fabricação, montagem e instalação de máquinas e equipamentos"
+},
+{
+  "id": 313120,
+  "titulo": "Técnico de manutenção elétrica"
+},
+{
+  "id": 313125,
+  "titulo": "Técnico de manutenção elétrica de máquina"
+},
+{
+  "id": 313130,
+  "titulo": "Técnico eletricista"
+},
+{
+  "id": 313205,
+  "titulo": "Técnico de manutenção eletrônica"
+},
+{
+  "id": 313210,
+  "titulo": "Técnico de manutenção eletrônica (circuitos de máquinas com comando numérico)"
+},
+{
+  "id": 313215,
+  "titulo": "Técnico eletrônico"
+},
+{
+  "id": 313220,
+  "titulo": "Técnico em manutenção de equipamentos de informática"
+},
+{
+  "id": 313305,
+  "titulo": "Técnico de comunicação de dados"
+},
+{
+  "id": 313310,
+  "titulo": "Técnico de rede (telecomunicações)"
+},
+{
+  "id": 313315,
+  "titulo": "Técnico de telecomunicações (telefonia)"
+},
+{
+  "id": 313320,
+  "titulo": "Técnico de transmissão (telecomunicações)"
+},
+{
+  "id": 313405,
+  "titulo": "Técnico em calibração"
+},
+{
+  "id": 313410,
+  "titulo": "Técnico em instrumentação"
+},
+{
+  "id": 313415,
+  "titulo": "Encarregado de manutenção de instrumentos de controle, medição e similares"
+},
+{
+  "id": 313505,
+  "titulo": "Técnico em fotônica"
+},
+{
+  "id": 314105,
+  "titulo": "Técnico em mecânica de precisão"
+},
+{
+  "id": 314110,
+  "titulo": "Técnico mecânico"
+},
+{
+  "id": 314115,
+  "titulo": "Técnico mecânico (calefação, ventilação e refrigeração)"
+},
+{
+  "id": 314120,
+  "titulo": "Técnico mecânico (máquinas)"
+},
+{
+  "id": 314125,
+  "titulo": "Técnico mecânico (motores)"
+},
+{
+  "id": 314205,
+  "titulo": "Técnico mecânico na fabricação de ferramentas"
+},
+{
+  "id": 314210,
+  "titulo": "Técnico mecânico na manutenção de ferramentas"
+},
+{
+  "id": 314305,
+  "titulo": "Técnico em automobilística"
+},
+{
+  "id": 314310,
+  "titulo": "Técnico mecânico (aeronaves)"
+},
+{
+  "id": 314315,
+  "titulo": "Técnico mecânico (embarcações)"
+},
+{
+  "id": 314405,
+  "titulo": "Técnico de manutenção de sistemas e instrumentos"
+},
+{
+  "id": 314410,
+  "titulo": "Técnico em manutenção de máquinas"
+},
+{
+  "id": 314610,
+  "titulo": "Técnico em caldeiraria"
+},
+{
+  "id": 314615,
+  "titulo": "Técnico em estruturas metálicas"
+},
+{
+  "id": 314620,
+  "titulo": "Técnico em soldagem"
+},
+{
+  "id": 314625,
+  "titulo": "Tecnólogo em soldagem"
+},
+{
+  "id": 314705,
+  "titulo": "Técnico de acabamento em siderurgia"
+},
+{
+  "id": 314710,
+  "titulo": "Técnico de aciaria em siderurgia"
+},
+{
+  "id": 314715,
+  "titulo": "Técnico de fundição em siderurgia"
+},
+{
+  "id": 314720,
+  "titulo": "Técnico de laminação em siderurgia"
+},
+{
+  "id": 314725,
+  "titulo": "Técnico de redução na siderurgia (primeira fusão)"
+},
+{
+  "id": 314730,
+  "titulo": "Técnico de refratário em siderurgia"
+},
+{
+  "id": 314805,
+  "titulo": "Inspetor de equipamentos"
+},
+{
+  "id": 314810,
+  "titulo": "Inspetor de fabricação"
+},
+{
+  "id": 314815,
+  "titulo": "Inspetor de ensaios não destrutivos"
+},
+{
+  "id": 314825,
+  "titulo": "Inspetor de dutos"
+},
+{
+  "id": 314830,
+  "titulo": "Inspetor de controle dimensional"
+},
+{
+  "id": 314835,
+  "titulo": "Inspetor de pintura"
+},
+{
+  "id": 314840,
+  "titulo": "Inspetor de manutenção"
+},
+{
+  "id": 314845,
+  "titulo": "Inspetor de soldagem"
+},
+{
+  "id": 316105,
+  "titulo": "Técnico em geofísica"
+},
+{
+  "id": 316110,
+  "titulo": "Técnico em geologia"
+},
+{
+  "id": 316115,
+  "titulo": "Técnico em geoquímica"
+},
+{
+  "id": 316120,
+  "titulo": "Técnico em geotecnia"
+},
+{
+  "id": 316305,
+  "titulo": "Técnico de mineração"
+},
+{
+  "id": 316310,
+  "titulo": "Técnico de mineração (óleo e petróleo)"
+},
+{
+  "id": 316315,
+  "titulo": "Técnico em processamento mineral (exceto petróleo)"
+},
+{
+  "id": 316320,
+  "titulo": "Técnico em pesquisa mineral"
+},
+{
+  "id": 316325,
+  "titulo": "Técnico de produção em refino de petróleo"
+},
+{
+  "id": 316330,
+  "titulo": "Técnico em planejamento de lavra de minas"
+},
+{
+  "id": 316335,
+  "titulo": "Desincrustador (poços de petróleo)"
+},
+{
+  "id": 316340,
+  "titulo": "Cimentador (poços de petróleo)"
+},
+{
+  "id": 317105,
+  "titulo": "Desenvolvedor web (técnico)"
+},
+{
+  "id": 317110,
+  "titulo": "Desenvolvedor de sistemas de tecnologia da informação (técnico)"
+},
+{
+  "id": 317115,
+  "titulo": "Programador de máquinas - ferramenta com comando numérico"
+},
+{
+  "id": 317120,
+  "titulo": "Desenvolvedor de multimídia"
+},
+{
+  "id": 317205,
+  "titulo": "Operador de computador"
+},
+{
+  "id": 317210,
+  "titulo": "Técnico de suporte ao usuário de tecnologia da informação"
+},
+{
+  "id": 318005,
+  "titulo": "Desenhista técnico"
+},
+{
+  "id": 318010,
+  "titulo": "Desenhista copista"
+},
+{
+  "id": 318015,
+  "titulo": "Desenhista detalhista"
+},
+{
+  "id": 318105,
+  "titulo": "Desenhista técnico (arquitetura)"
+},
+{
+  "id": 318110,
+  "titulo": "Desenhista técnico (cartografia)"
+},
+{
+  "id": 318115,
+  "titulo": "Desenhista técnico (construção civil)"
+},
+{
+  "id": 318120,
+  "titulo": "Desenhista técnico (instalações hidrossanitárias)"
+},
+{
+  "id": 318205,
+  "titulo": "Desenhista técnico mecânico"
+},
+{
+  "id": 318210,
+  "titulo": "Desenhista técnico aeronáutico"
+},
+{
+  "id": 318215,
+  "titulo": "Desenhista técnico naval"
+},
+{
+  "id": 318305,
+  "titulo": "Desenhista técnico (eletricidade e eletrônica)"
+},
+{
+  "id": 318310,
+  "titulo": "Desenhista técnico (calefação, ventilação e refrigeração)"
+},
+{
+  "id": 318405,
+  "titulo": "Desenhista técnico (artes gráficas)"
+},
+{
+  "id": 318410,
+  "titulo": "Desenhista técnico (ilustrações artísticas)"
+},
+{
+  "id": 318415,
+  "titulo": "Desenhista técnico (ilustrações técnicas)"
+},
+{
+  "id": 318420,
+  "titulo": "Desenhista técnico (indústria têxtil)"
+},
+{
+  "id": 318425,
+  "titulo": "Desenhista técnico (mobiliário)"
+},
+{
+  "id": 318430,
+  "titulo": "Desenhista técnico de embalagens, maquetes e leiautes"
+},
+{
+  "id": 318505,
+  "titulo": "Desenhista projetista de arquitetura"
+},
+{
+  "id": 318510,
+  "titulo": "Desenhista projetista de construção civil"
+},
+{
+  "id": 318605,
+  "titulo": "Desenhista projetista de máquinas"
+},
+{
+  "id": 318610,
+  "titulo": "Desenhista projetista mecânico"
+},
+{
+  "id": 318705,
+  "titulo": "Desenhista projetista de eletricidade"
+},
+{
+  "id": 318710,
+  "titulo": "Desenhista projetista eletrônico"
+},
+{
+  "id": 318805,
+  "titulo": "Projetista de móveis"
+},
+{
+  "id": 318810,
+  "titulo": "Modelista de roupas"
+},
+{
+  "id": 318815,
+  "titulo": "Modelista de calçados"
+},
+{
+  "id": 319105,
+  "titulo": "Técnico em calçados e artefatos de couro"
+},
+{
+  "id": 319110,
+  "titulo": "Técnico em confecções do vestuário"
+},
+{
+  "id": 319205,
+  "titulo": "Técnico do mobiliário"
+},
+{
+  "id": 320105,
+  "titulo": "Técnico em bioterismo"
+},
+{
+  "id": 320110,
+  "titulo": "Técnico em histologia"
+},
+{
+  "id": 321105,
+  "titulo": "Técnico agrícola"
+},
+{
+  "id": 321110,
+  "titulo": "Técnico agropecuário"
+},
+{
+  "id": 321205,
+  "titulo": "Técnico em madeira"
+},
+{
+  "id": 321210,
+  "titulo": "Técnico florestal"
+},
+{
+  "id": 321305,
+  "titulo": "Técnico em piscicultura"
+},
+{
+  "id": 321310,
+  "titulo": "Técnico em carcinicultura"
+},
+{
+  "id": 321315,
+  "titulo": "Técnico em mitilicultura"
+},
+{
+  "id": 321320,
+  "titulo": "Técnico em ranicultura"
+},
+{
+  "id": 322105,
+  "titulo": "Técnico em acupuntura"
+},
+{
+  "id": 322110,
+  "titulo": "Podólogo"
+},
+{
+  "id": 322115,
+  "titulo": "Técnico em quiropraxia"
+},
+{
+  "id": 322120,
+  "titulo": "Massoterapeuta"
+},
+{
+  "id": 322125,
+  "titulo": "Terapeuta holístico"
+},
+{
+  "id": 322130,
+  "titulo": "Esteticista"
+},
+{
+  "id": 322135,
+  "titulo": "Doula"
+},
+{
+  "id": 322140,
+  "titulo": "Instrutor de pilates"
+},
+{
+  "id": 322205,
+  "titulo": "Técnico de enfermagem"
+},
+{
+  "id": 322210,
+  "titulo": "Técnico de enfermagem de terapia intensiva"
+},
+{
+  "id": 322215,
+  "titulo": "Técnico de enfermagem do trabalho"
+},
+{
+  "id": 322220,
+  "titulo": "Técnico de enfermagem psiquiátrica"
+},
+{
+  "id": 322225,
+  "titulo": "Instrumentador cirúrgico"
+},
+{
+  "id": 322230,
+  "titulo": "Auxiliar de enfermagem"
+},
+{
+  "id": 322235,
+  "titulo": "Auxiliar de enfermagem do trabalho"
+},
+{
+  "id": 322240,
+  "titulo": "Auxiliar de saúde (navegação marítima)"
+},
+{
+  "id": 322245,
+  "titulo": "Técnico de enfermagem da estratégia de saúde da família"
+},
+{
+  "id": 322250,
+  "titulo": "Auxiliar de enfermagem da estratégia de saúde da família"
+},
+{
+  "id": 322255,
+  "titulo": "Técnico em agente comunitário de saúde"
+},
+{
+  "id": 322305,
+  "titulo": "Técnico em óptica e optometria"
+},
+{
+  "id": 322405,
+  "titulo": "Técnico em saúde bucal"
+},
+{
+  "id": 322410,
+  "titulo": "Protético dentário"
+},
+{
+  "id": 322415,
+  "titulo": "Auxiliar em saúde bucal"
+},
+{
+  "id": 322420,
+  "titulo": "Auxiliar de prótese dentária"
+},
+{
+  "id": 322425,
+  "titulo": "Técnico em saúde bucal da estratégia de saúde da família"
+},
+{
+  "id": 322430,
+  "titulo": "Auxiliar em saúde bucal da estratégia de saúde da família"
+},
+{
+  "id": 322505,
+  "titulo": "Técnico de ortopedia"
+},
+{
+  "id": 322605,
+  "titulo": "Técnico de imobilização ortopédica"
+},
+{
+  "id": 323105,
+  "titulo": "Técnico em pecuária"
+},
+{
+  "id": 324105,
+  "titulo": "Técnico em métodos eletrográficos em encefalografia"
+},
+{
+  "id": 324110,
+  "titulo": "Técnico em métodos gráficos em cardiologia"
+},
+{
+  "id": 324115,
+  "titulo": "Técnico em radiologia e imagenologia"
+},
+{
+  "id": 324120,
+  "titulo": "Tecnólogo em radiologia"
+},
+{
+  "id": 324125,
+  "titulo": "Tecnólogo oftálmico"
+},
+{
+  "id": 324130,
+  "titulo": "Técnico em espirometria"
+},
+{
+  "id": 324135,
+  "titulo": "Técnico em polissonografia"
+},
+{
+  "id": 324140,
+  "titulo": "Dosimetrista clínico"
+},
+{
+  "id": 324205,
+  "titulo": "Técnico em patologia clínica"
+},
+{
+  "id": 324215,
+  "titulo": "Citotécnico"
+},
+{
+  "id": 324220,
+  "titulo": "Técnico em hemoterapia"
+},
+{
+  "id": 325005,
+  "titulo": "Enólogo"
+},
+{
+  "id": 325010,
+  "titulo": "Aromista"
+},
+{
+  "id": 325015,
+  "titulo": "Perfumista"
+},
+{
+  "id": 325105,
+  "titulo": "Auxiliar técnico em laboratório de farmácia"
+},
+{
+  "id": 325110,
+  "titulo": "Técnico em laboratório de farmácia"
+},
+{
+  "id": 325115,
+  "titulo": "Técnico em farmácia"
+},
+{
+  "id": 325205,
+  "titulo": "Técnico de alimentos"
+},
+{
+  "id": 325210,
+  "titulo": "Técnico em nutrição e dietética"
+},
+{
+  "id": 325305,
+  "titulo": "Técnico em biotecnologia"
+},
+{
+  "id": 325310,
+  "titulo": "Técnico em imunobiológicos"
+},
+{
+  "id": 328105,
+  "titulo": "Embalsamador"
+},
+{
+  "id": 328110,
+  "titulo": "Taxidermista"
+},
+{
+  "id": 331105,
+  "titulo": "Professor de nível médio na educação infantil"
+},
+{
+  "id": 331110,
+  "titulo": "Auxiliar de desenvolvimento infantil"
+},
+{
+  "id": 331205,
+  "titulo": "Professor de nível médio no ensino fundamental"
+},
+{
+  "id": 331305,
+  "titulo": "Professor de nível médio no ensino profissionalizante"
+},
+{
+  "id": 332105,
+  "titulo": "Professor leigo no ensino fundamental"
+},
+{
+  "id": 332205,
+  "titulo": "Professor prático no ensino profissionalizante"
+},
+{
+  "id": 333105,
+  "titulo": "Instrutor de auto-escola"
+},
+{
+  "id": 333110,
+  "titulo": "Instrutor de cursos livres"
+},
+{
+  "id": 333115,
+  "titulo": "Professores de cursos livres"
+},
+{
+  "id": 334105,
+  "titulo": "Inspetor de alunos de escola privada"
+},
+{
+  "id": 334110,
+  "titulo": "Inspetor de alunos de escola pública"
+},
+{
+  "id": 334115,
+  "titulo": "Monitor de transporte escolar"
+},
+{
+  "id": 341105,
+  "titulo": "Piloto comercial (exceto linhas aéreas)"
+},
+{
+  "id": 341110,
+  "titulo": "Piloto comercial de helicóptero (exceto linhas aéreas)"
+},
+{
+  "id": 341115,
+  "titulo": "Mecânico de vôo"
+},
+{
+  "id": 341120,
+  "titulo": "Piloto agrícola"
+},
+{
+  "id": 341205,
+  "titulo": "Contramestre de cabotagem"
+},
+{
+  "id": 341210,
+  "titulo": "Mestre de cabotagem"
+},
+{
+  "id": 341215,
+  "titulo": "Mestre fluvial"
+},
+{
+  "id": 341220,
+  "titulo": "Patrão de pesca de alto-mar"
+},
+{
+  "id": 341225,
+  "titulo": "Patrão de pesca na navegação interior"
+},
+{
+  "id": 341230,
+  "titulo": "Piloto fluvial"
+},
+{
+  "id": 341235,
+  "titulo": "Técnico em sinalização náutica"
+},
+{
+  "id": 341240,
+  "titulo": "Técnicos em manobras em equipamentos de convés"
+},
+{
+  "id": 341245,
+  "titulo": "Técnico em sinais navais"
+},
+{
+  "id": 341250,
+  "titulo": "Auxiliar técnico de sinalização nautica"
+},
+{
+  "id": 341305,
+  "titulo": "Condutor maquinista motorista fluvial"
+},
+{
+  "id": 341310,
+  "titulo": "Condutor de máquinas"
+},
+{
+  "id": 341315,
+  "titulo": "Eletricista de bordo"
+},
+{
+  "id": 341320,
+  "titulo": "Condutor de máquinas (bombeador)"
+},
+{
+  "id": 341325,
+  "titulo": "Condutor de máquinas (mecânico)"
+},
+{
+  "id": 342105,
+  "titulo": "Analista de transporte em comércio exterior"
+},
+{
+  "id": 342110,
+  "titulo": "Operador de transporte multimodal"
+},
+{
+  "id": 342115,
+  "titulo": "Controlador de serviços de máquinas e veículos"
+},
+{
+  "id": 342120,
+  "titulo": "Afretador"
+},
+{
+  "id": 342125,
+  "titulo": "Tecnólogo em logística de transporte"
+},
+{
+  "id": 342205,
+  "titulo": "Ajudante de despachante aduaneiro"
+},
+{
+  "id": 342210,
+  "titulo": "Despachante aduaneiro"
+},
+{
+  "id": 342215,
+  "titulo": "Analista de desembaraço aduaneiro"
+},
+{
+  "id": 342305,
+  "titulo": "Chefe de serviço de transporte rodoviário (passageiros e cargas)"
+},
+{
+  "id": 342310,
+  "titulo": "Inspetor de serviços de transportes rodoviários (passageiros e cargas)"
+},
+{
+  "id": 342315,
+  "titulo": "Supervisor de carga e descarga"
+},
+{
+  "id": 342405,
+  "titulo": "Agente de estação (ferrovia e metrô)"
+},
+{
+  "id": 342410,
+  "titulo": "Operador de centro de controle (ferrovia e metrô)"
+},
+{
+  "id": 342505,
+  "titulo": "Controlador de tráfego aéreo"
+},
+{
+  "id": 342510,
+  "titulo": "Despachante operacional de vôo"
+},
+{
+  "id": 342515,
+  "titulo": "Fiscal de aviação civil (fac)"
+},
+{
+  "id": 342530,
+  "titulo": "Inspetor de aviação civil"
+},
+{
+  "id": 342535,
+  "titulo": "Operador de atendimento aeroviário"
+},
+{
+  "id": 342540,
+  "titulo": "Supervisor da administração de aeroportos"
+},
+{
+  "id": 342545,
+  "titulo": "Supervisor de empresa aérea em aeroportos"
+},
+{
+  "id": 342550,
+  "titulo": "Agente de proteção de aviação civil"
+},
+{
+  "id": 342555,
+  "titulo": "Fiscal de pista de aeroporto"
+},
+{
+  "id": 342560,
+  "titulo": "Operador de rampa ( transporte aéreo)"
+},
+{
+  "id": 342605,
+  "titulo": "Chefe de estação portuária"
+},
+{
+  "id": 342610,
+  "titulo": "Supervisor de operações portuárias"
+},
+{
+  "id": 351105,
+  "titulo": "Técnico de contabilidade"
+},
+{
+  "id": 351110,
+  "titulo": "Chefe de contabilidade (técnico)"
+},
+{
+  "id": 351115,
+  "titulo": "Consultor contábil (técnico)"
+},
+{
+  "id": 351305,
+  "titulo": "Técnico em administração"
+},
+{
+  "id": 351310,
+  "titulo": "Técnico em administração de comércio exterior"
+},
+{
+  "id": 351315,
+  "titulo": "Agente de recrutamento e seleção"
+},
+{
+  "id": 351405,
+  "titulo": "Escrevente"
+},
+{
+  "id": 351410,
+  "titulo": "Escrivão judicial"
+},
+{
+  "id": 351415,
+  "titulo": "Escrivão extra - judicial"
+},
+{
+  "id": 351420,
+  "titulo": "Escrivão de polícia"
+},
+{
+  "id": 351425,
+  "titulo": "Oficial de justiça"
+},
+{
+  "id": 351430,
+  "titulo": "Auxiliar de serviços jurídicos"
+},
+{
+  "id": 351435,
+  "titulo": "Mediador de conflitos"
+},
+{
+  "id": 351440,
+  "titulo": "Árbitro extrajudicial"
+},
+{
+  "id": 351505,
+  "titulo": "Técnico em secretariado"
+},
+{
+  "id": 351510,
+  "titulo": "Taquígrafo"
+},
+{
+  "id": 351515,
+  "titulo": "Estenotipista"
+},
+{
+  "id": 351605,
+  "titulo": "Técnico em segurança do trabalho"
+},
+{
+  "id": 351610,
+  "titulo": "Técnico em higiene ocupacional"
+},
+{
+  "id": 351705,
+  "titulo": "Analista de seguros (técnico)"
+},
+{
+  "id": 351710,
+  "titulo": "Analista de sinistros"
+},
+{
+  "id": 351715,
+  "titulo": "Assistente comercial de seguros"
+},
+{
+  "id": 351720,
+  "titulo": "Assistente técnico de seguros"
+},
+{
+  "id": 351725,
+  "titulo": "Inspetor de risco"
+},
+{
+  "id": 351730,
+  "titulo": "Inspetor de sinistros"
+},
+{
+  "id": 351735,
+  "titulo": "Técnico de resseguros"
+},
+{
+  "id": 351740,
+  "titulo": "Técnico de seguros"
+},
+{
+  "id": 351805,
+  "titulo": "Detetive profissional"
+},
+{
+  "id": 351810,
+  "titulo": "Investigador de polícia"
+},
+{
+  "id": 351815,
+  "titulo": "Papiloscopista policial"
+},
+{
+  "id": 351905,
+  "titulo": "Agente de inteligência"
+},
+{
+  "id": 351910,
+  "titulo": "Agente técnico de inteligência"
+},
+{
+  "id": 352205,
+  "titulo": "Agente de defesa ambiental"
+},
+{
+  "id": 352210,
+  "titulo": "Agente de saúde pública"
+},
+{
+  "id": 352305,
+  "titulo": "Metrologista"
+},
+{
+  "id": 352310,
+  "titulo": "Agente fiscal de qualidade"
+},
+{
+  "id": 352315,
+  "titulo": "Agente fiscal metrológico"
+},
+{
+  "id": 352320,
+  "titulo": "Agente fiscal têxtil"
+},
+{
+  "id": 352405,
+  "titulo": "Agente de direitos autorais"
+},
+{
+  "id": 352410,
+  "titulo": "Avaliador de produtos dos meios de comunicação"
+},
+{
+  "id": 352420,
+  "titulo": "Técnico em direitos autorais"
+},
+{
+  "id": 353205,
+  "titulo": "Técnico de operações e serviços bancários - câmbio"
+},
+{
+  "id": 353210,
+  "titulo": "Técnico de operações e serviços bancários - crédito imobiliário"
+},
+{
+  "id": 353215,
+  "titulo": "Técnico de operações e serviços bancários - crédito rural"
+},
+{
+  "id": 353220,
+  "titulo": "Técnico de operações e serviços bancários - leasing"
+},
+{
+  "id": 353225,
+  "titulo": "Técnico de operações e serviços bancários - renda fixa e variável"
+},
+{
+  "id": 353230,
+  "titulo": "Tesoureiro de banco"
+},
+{
+  "id": 353235,
+  "titulo": "Chefe de serviços bancários"
+},
+{
+  "id": 354120,
+  "titulo": "Agente de vendas de serviços"
+},
+{
+  "id": 354125,
+  "titulo": "Assistente de vendas"
+},
+{
+  "id": 354130,
+  "titulo": "Promotor de vendas especializado"
+},
+{
+  "id": 354135,
+  "titulo": "Técnico de vendas"
+},
+{
+  "id": 354140,
+  "titulo": "Técnico em atendimento e vendas"
+},
+{
+  "id": 354145,
+  "titulo": "Vendedor pracista"
+},
+{
+  "id": 354150,
+  "titulo": "Propagandista de produtos famacêuticos"
+},
+{
+  "id": 354205,
+  "titulo": "Comprador"
+},
+{
+  "id": 354210,
+  "titulo": "Supervisor de compras"
+},
+{
+  "id": 354305,
+  "titulo": "Analista de exportação e importação"
+},
+{
+  "id": 354405,
+  "titulo": "Leiloeiro"
+},
+{
+  "id": 354410,
+  "titulo": "Avaliador de imóveis"
+},
+{
+  "id": 354415,
+  "titulo": "Avaliador de bens móveis"
+},
+{
+  "id": 354505,
+  "titulo": "Corretor de seguros"
+},
+{
+  "id": 354605,
+  "titulo": "Corretor de imóveis"
+},
+{
+  "id": 354610,
+  "titulo": "Corretor de grãos"
+},
+{
+  "id": 354705,
+  "titulo": "Representante comercial autônomo"
+},
+{
+  "id": 354805,
+  "titulo": "Técnico em turismo"
+},
+{
+  "id": 354810,
+  "titulo": "Operador de turismo"
+},
+{
+  "id": 354815,
+  "titulo": "Agente de viagem"
+},
+{
+  "id": 354820,
+  "titulo": "Organizador de evento"
+},
+{
+  "id": 354825,
+  "titulo": "Cerimonialista"
+},
+{
+  "id": 371105,
+  "titulo": "Auxiliar de biblioteca"
+},
+{
+  "id": 371110,
+  "titulo": "Técnico em biblioteconomia"
+},
+{
+  "id": 371205,
+  "titulo": "Colecionador de selos e moedas"
+},
+{
+  "id": 371210,
+  "titulo": "Técnico em museologia"
+},
+{
+  "id": 371305,
+  "titulo": "Técnico em programação visual"
+},
+{
+  "id": 371310,
+  "titulo": "Técnico gráfico"
+},
+{
+  "id": 371405,
+  "titulo": "Recreador de acantonamento"
+},
+{
+  "id": 371410,
+  "titulo": "Recreador"
+},
+{
+  "id": 372105,
+  "titulo": "Diretor de fotografia"
+},
+{
+  "id": 372110,
+  "titulo": "Iluminador (televisão)"
+},
+{
+  "id": 372115,
+  "titulo": "Operador de câmera de televisão"
+},
+{
+  "id": 372205,
+  "titulo": "Operador de rede de teleprocessamento"
+},
+{
+  "id": 372210,
+  "titulo": "Radiotelegrafista"
+},
+{
+  "id": 373105,
+  "titulo": "Operador de mídia audiovisual"
+},
+{
+  "id": 373130,
+  "titulo": "Técnico de sistemas audiovisuais"
+},
+{
+  "id": 373135,
+  "titulo": "Operador de controle mestre"
+},
+{
+  "id": 373140,
+  "titulo": "Coordenador de programação"
+},
+{
+  "id": 373145,
+  "titulo": "Assistente de operações audiovisuais"
+},
+{
+  "id": 373220,
+  "titulo": "Supervisor técnico operacional de sistemas de televisão e produtoras de vídeo"
+},
+{
+  "id": 373225,
+  "titulo": "Supervisor de operações (mídias audiovisuais)"
+},
+{
+  "id": 373230,
+  "titulo": "Supervisor técnico (mídias audiovisuais)"
+},
+{
+  "id": 374105,
+  "titulo": "Técnico em gravação de áudio"
+},
+{
+  "id": 374110,
+  "titulo": "Técnico em instalação de equipamentos de áudio"
+},
+{
+  "id": 374115,
+  "titulo": "Técnico em masterização de áudio"
+},
+{
+  "id": 374120,
+  "titulo": "Projetista de som"
+},
+{
+  "id": 374125,
+  "titulo": "Técnico em sonorização"
+},
+{
+  "id": 374130,
+  "titulo": "Técnico em mixagem de áudio"
+},
+{
+  "id": 374135,
+  "titulo": "Projetista de sistemas de áudio"
+},
+{
+  "id": 374140,
+  "titulo": "Microfonista"
+},
+{
+  "id": 374145,
+  "titulo": "Dj (disc jockey)"
+},
+{
+  "id": 374150,
+  "titulo": "Sonoplasta"
+},
+{
+  "id": 374155,
+  "titulo": "Analista musical"
+},
+{
+  "id": 374205,
+  "titulo": "Cenotécnico (cinema, vídeo, televisão, teatro e espetáculos)"
+},
+{
+  "id": 374210,
+  "titulo": "Maquinista de cinema e vídeo"
+},
+{
+  "id": 374215,
+  "titulo": "Maquinista de teatro e espetáculos"
+},
+{
+  "id": 374305,
+  "titulo": "Operador de projetor cinematográfico"
+},
+{
+  "id": 374310,
+  "titulo": "Operador-mantenedor de projetor cinematográfico"
+},
+{
+  "id": 374405,
+  "titulo": "Editor de mídia audiovisual"
+},
+{
+  "id": 374410,
+  "titulo": "Finalizador de filmes"
+},
+{
+  "id": 374415,
+  "titulo": "Finalizador de vídeo"
+},
+{
+  "id": 374420,
+  "titulo": "Montador de filmes"
+},
+{
+  "id": 374425,
+  "titulo": "Diretor de imagens (tv)"
+},
+{
+  "id": 375105,
+  "titulo": "Designer de interiores"
+},
+{
+  "id": 375110,
+  "titulo": "Designer de vitrines"
+},
+{
+  "id": 375115,
+  "titulo": "Visual merchandiser"
+},
+{
+  "id": 375120,
+  "titulo": "Decorador de eventos"
+},
+{
+  "id": 375125,
+  "titulo": "Produtor de moda"
+},
+{
+  "id": 375130,
+  "titulo": "Profissional de organização (personal organizer)"
+},
+{
+  "id": 376105,
+  "titulo": "Dançarino tradicional"
+},
+{
+  "id": 376110,
+  "titulo": "Dançarino popular"
+},
+{
+  "id": 376205,
+  "titulo": "Acrobata"
+},
+{
+  "id": 376210,
+  "titulo": "Artista aéreo"
+},
+{
+  "id": 376215,
+  "titulo": "Artista de circo (outros)"
+},
+{
+  "id": 376220,
+  "titulo": "Contorcionista"
+},
+{
+  "id": 376225,
+  "titulo": "Domador de animais (circense)"
+},
+{
+  "id": 376230,
+  "titulo": "Equilibrista"
+},
+{
+  "id": 376235,
+  "titulo": "Mágico"
+},
+{
+  "id": 376240,
+  "titulo": "Malabarista"
+},
+{
+  "id": 376245,
+  "titulo": "Palhaço"
+},
+{
+  "id": 376250,
+  "titulo": "Titeriteiro"
+},
+{
+  "id": 376255,
+  "titulo": "Trapezista"
+},
+{
+  "id": 376305,
+  "titulo": "Apresentador de eventos"
+},
+{
+  "id": 376310,
+  "titulo": "Apresentador de festas populares"
+},
+{
+  "id": 376315,
+  "titulo": "Apresentador de programas de rádio"
+},
+{
+  "id": 376320,
+  "titulo": "Apresentador de programas de televisão"
+},
+{
+  "id": 376325,
+  "titulo": "Apresentador de circo"
+},
+{
+  "id": 376330,
+  "titulo": "Mestre de cerimonias"
+},
+{
+  "id": 376405,
+  "titulo": "Modelo artístico"
+},
+{
+  "id": 376410,
+  "titulo": "Modelo de modas"
+},
+{
+  "id": 376415,
+  "titulo": "Modelo publicitário"
+},
+{
+  "id": 377105,
+  "titulo": "Atleta profissional (outras modalidades)"
+},
+{
+  "id": 377110,
+  "titulo": "Atleta profissional de futebol"
+},
+{
+  "id": 377115,
+  "titulo": "Atleta profissional de golfe"
+},
+{
+  "id": 377120,
+  "titulo": "Atleta profissional de luta"
+},
+{
+  "id": 377125,
+  "titulo": "Atleta profissional de tênis"
+},
+{
+  "id": 377130,
+  "titulo": "Jóquei"
+},
+{
+  "id": 377135,
+  "titulo": "Piloto de competição automobilística"
+},
+{
+  "id": 377140,
+  "titulo": "Profissional de atletismo"
+},
+{
+  "id": 377145,
+  "titulo": "Pugilista"
+},
+{
+  "id": 377205,
+  "titulo": "Árbitro desportivo"
+},
+{
+  "id": 377210,
+  "titulo": "Árbitro de atletismo"
+},
+{
+  "id": 377215,
+  "titulo": "Árbitro de basquete"
+},
+{
+  "id": 377220,
+  "titulo": "Árbitro de futebol"
+},
+{
+  "id": 377225,
+  "titulo": "Árbitro de futebol de salão"
+},
+{
+  "id": 377230,
+  "titulo": "Árbitro de judô"
+},
+{
+  "id": 377235,
+  "titulo": "Árbitro de karatê"
+},
+{
+  "id": 377240,
+  "titulo": "Árbitro de poló aquático"
+},
+{
+  "id": 377245,
+  "titulo": "Árbitro de vôlei"
+},
+{
+  "id": 391105,
+  "titulo": "Cronoanalista"
+},
+{
+  "id": 391110,
+  "titulo": "Cronometrista"
+},
+{
+  "id": 391115,
+  "titulo": "Controlador de entrada e saída"
+},
+{
+  "id": 391120,
+  "titulo": "Planejista"
+},
+{
+  "id": 391125,
+  "titulo": "Técnico de planejamento de produção"
+},
+{
+  "id": 391130,
+  "titulo": "Técnico de planejamento e programação da manutenção"
+},
+{
+  "id": 391135,
+  "titulo": "Técnico de matéria-prima e material"
+},
+{
+  "id": 391140,
+  "titulo": "Analista de manutenção (equipamentos aéreos)"
+},
+{
+  "id": 391145,
+  "titulo": "Analista de planejamento de manutenção"
+},
+{
+  "id": 391205,
+  "titulo": "Inspetor de qualidade"
+},
+{
+  "id": 391210,
+  "titulo": "Técnico de garantia da qualidade"
+},
+{
+  "id": 391215,
+  "titulo": "Operador de inspeção de qualidade"
+},
+{
+  "id": 391220,
+  "titulo": "Técnico de painel de controle"
+},
+{
+  "id": 391225,
+  "titulo": "Escolhedor de papel"
+},
+{
+  "id": 391230,
+  "titulo": "Técnico operacional de serviços de correios"
+},
+{
+  "id": 395105,
+  "titulo": "Técnico de apoio em pesquisa e desenvolvimento (exceto agropecuário e florestal)"
+},
+{
+  "id": 395110,
+  "titulo": "Técnico de apoio em pesquisa e desenvolvimento agropecuário florestal"
+},
+{
+  "id": 410105,
+  "titulo": "Supervisor administrativo"
+},
+{
+  "id": 410205,
+  "titulo": "Supervisor de almoxarifado"
+},
+{
+  "id": 410210,
+  "titulo": "Supervisor de câmbio"
+},
+{
+  "id": 410215,
+  "titulo": "Supervisor de contas a pagar"
+},
+{
+  "id": 410220,
+  "titulo": "Supervisor de controle patrimonial"
+},
+{
+  "id": 410225,
+  "titulo": "Supervisor de crédito e cobrança"
+},
+{
+  "id": 410230,
+  "titulo": "Supervisor de orçamento"
+},
+{
+  "id": 410235,
+  "titulo": "Supervisor de tesouraria"
+},
+{
+  "id": 410240,
+  "titulo": "Supervisor de logística"
+},
+{
+  "id": 411005,
+  "titulo": "Auxiliar de escritório"
+},
+{
+  "id": 411010,
+  "titulo": "Assistente administrativo"
+},
+{
+  "id": 411015,
+  "titulo": "Atendente de judiciário"
+},
+{
+  "id": 411020,
+  "titulo": "Auxiliar de judiciário"
+},
+{
+  "id": 411025,
+  "titulo": "Auxiliar de cartório"
+},
+{
+  "id": 411030,
+  "titulo": "Auxiliar de pessoal"
+},
+{
+  "id": 411035,
+  "titulo": "Auxiliar de estatística"
+},
+{
+  "id": 411040,
+  "titulo": "Auxiliar de seguros"
+},
+{
+  "id": 411045,
+  "titulo": "Auxiliar de serviços de importação e exportação"
+},
+{
+  "id": 411050,
+  "titulo": "Agente de microcrédito"
+},
+{
+  "id": 411055,
+  "titulo": "Captador de recursos"
+},
+{
+  "id": 412105,
+  "titulo": "Datilógrafo"
+},
+{
+  "id": 412110,
+  "titulo": "Digitador"
+},
+{
+  "id": 412115,
+  "titulo": "Operador de mensagens de telecomunicações (correios)"
+},
+{
+  "id": 412120,
+  "titulo": "Supervisor de digitação e operação"
+},
+{
+  "id": 412205,
+  "titulo": "Contínuo"
+},
+{
+  "id": 413105,
+  "titulo": "Analista de folha de pagamento"
+},
+{
+  "id": 413110,
+  "titulo": "Auxiliar de contabilidade"
+},
+{
+  "id": 413115,
+  "titulo": "Auxiliar de faturamento"
+},
+{
+  "id": 413205,
+  "titulo": "Atendente de agência"
+},
+{
+  "id": 413210,
+  "titulo": "Caixa de banco"
+},
+{
+  "id": 413215,
+  "titulo": "Compensador de banco"
+},
+{
+  "id": 413220,
+  "titulo": "Conferente de serviços bancários"
+},
+{
+  "id": 413225,
+  "titulo": "Escriturário de banco"
+},
+{
+  "id": 413230,
+  "titulo": "Operador de cobrança bancária"
+},
+{
+  "id": 414105,
+  "titulo": "Almoxarife"
+},
+{
+  "id": 414110,
+  "titulo": "Armazenista"
+},
+{
+  "id": 414115,
+  "titulo": "Balanceiro"
+},
+{
+  "id": 414120,
+  "titulo": "Conferente mercadoria (exceto carga e descarga)"
+},
+{
+  "id": 414125,
+  "titulo": "Estoquista"
+},
+{
+  "id": 414135,
+  "titulo": "Expedidor de mercadorias"
+},
+{
+  "id": 414140,
+  "titulo": "Auxiliar de logistica"
+},
+{
+  "id": 414205,
+  "titulo": "Apontador de mão-de-obra"
+},
+{
+  "id": 414210,
+  "titulo": "Apontador de produção"
+},
+{
+  "id": 414215,
+  "titulo": "Conferente de carga e descarga"
+},
+{
+  "id": 415105,
+  "titulo": "Arquivista de documentos"
+},
+{
+  "id": 415115,
+  "titulo": "Codificador de dados"
+},
+{
+  "id": 415120,
+  "titulo": "Fitotecário"
+},
+{
+  "id": 415125,
+  "titulo": "Kardexista"
+},
+{
+  "id": 415130,
+  "titulo": "Operador de máquina copiadora (exceto operador de gráfica rápida)"
+},
+{
+  "id": 415205,
+  "titulo": "Carteiro"
+},
+{
+  "id": 415210,
+  "titulo": "Operador de triagem e transbordo"
+},
+{
+  "id": 415215,
+  "titulo": "Entregador de publicações"
+},
+{
+  "id": 415305,
+  "titulo": "Registrador de câncer"
+},
+{
+  "id": 415310,
+  "titulo": "Analista de informação em saúde"
+},
+{
+  "id": 420105,
+  "titulo": "Supervisor de caixas e bilheteiros (exceto caixa de banco)"
+},
+{
+  "id": 420110,
+  "titulo": "Supervisor de cobrança"
+},
+{
+  "id": 420115,
+  "titulo": "Supervisor de coletadores de apostas e de jogos"
+},
+{
+  "id": 420120,
+  "titulo": "Supervisor de entrevistadores e recenseadores"
+},
+{
+  "id": 420125,
+  "titulo": "Supervisor de recepcionistas"
+},
+{
+  "id": 420130,
+  "titulo": "Supervisor de telefonistas"
+},
+{
+  "id": 420135,
+  "titulo": "Supervisor de telemarketing e atendimento"
+},
+{
+  "id": 421105,
+  "titulo": "Atendente comercial (agência postal)"
+},
+{
+  "id": 421110,
+  "titulo": "Bilheteiro de transportes coletivos"
+},
+{
+  "id": 421115,
+  "titulo": "Bilheteiro no serviço de diversões"
+},
+{
+  "id": 421120,
+  "titulo": "Emissor de passagens"
+},
+{
+  "id": 421125,
+  "titulo": "Operador de caixa"
+},
+{
+  "id": 421205,
+  "titulo": "Recebedor de apostas (loteria)"
+},
+{
+  "id": 421210,
+  "titulo": "Recebedor de apostas (turfe)"
+},
+{
+  "id": 421305,
+  "titulo": "Cobrador externo"
+},
+{
+  "id": 421310,
+  "titulo": "Cobrador interno"
+},
+{
+  "id": 421315,
+  "titulo": "Localizador (cobrador)"
+},
+{
+  "id": 422105,
+  "titulo": "Recepcionista, em geral"
+},
+{
+  "id": 422110,
+  "titulo": "Recepcionista de consultório médico ou dentário"
+},
+{
+  "id": 422115,
+  "titulo": "Recepcionista de seguro saúde"
+},
+{
+  "id": 422120,
+  "titulo": "Recepcionista de hotel"
+},
+{
+  "id": 422125,
+  "titulo": "Recepcionista de banco"
+},
+{
+  "id": 422130,
+  "titulo": "Concierge"
+},
+{
+  "id": 422205,
+  "titulo": "Telefonista"
+},
+{
+  "id": 422210,
+  "titulo": "Teleoperador"
+},
+{
+  "id": 422220,
+  "titulo": "Operador de rádio-chamada"
+},
+{
+  "id": 422305,
+  "titulo": "Operador de telemarketing ativo"
+},
+{
+  "id": 422310,
+  "titulo": "Operador de telemarketing ativo e receptivo"
+},
+{
+  "id": 422315,
+  "titulo": "Operador de telemarketing receptivo"
+},
+{
+  "id": 422320,
+  "titulo": "Operador de telemarketing técnico"
+},
+{
+  "id": 422330,
+  "titulo": "Teleatendente de emergência"
+},
+{
+  "id": 422335,
+  "titulo": "Monitor de teleatendimento"
+},
+{
+  "id": 423105,
+  "titulo": "Despachante documentalista"
+},
+{
+  "id": 423110,
+  "titulo": "Despachante de trânsito"
+},
+{
+  "id": 423115,
+  "titulo": "Vistoriador veicular"
+},
+{
+  "id": 424105,
+  "titulo": "Entrevistador censitário e de pesquisas amostrais"
+},
+{
+  "id": 424110,
+  "titulo": "Entrevistador de pesquisa de opinião e mídia"
+},
+{
+  "id": 424115,
+  "titulo": "Entrevistador de pesquisas de mercado"
+},
+{
+  "id": 424120,
+  "titulo": "Entrevistador de preços"
+},
+{
+  "id": 424125,
+  "titulo": "Escriturário  em  estatística"
+},
+{
+  "id": 424130,
+  "titulo": "Entrevistador social"
+},
+{
+  "id": 424205,
+  "titulo": "Coordenador de provas (concurso, avaliação, exame)"
+},
+{
+  "id": 424210,
+  "titulo": "Aplicador de provas (concurso, avaliação,exame)"
+},
+{
+  "id": 510105,
+  "titulo": "Supervisor de transportes"
+},
+{
+  "id": 510110,
+  "titulo": "Administrador de edifícios"
+},
+{
+  "id": 510115,
+  "titulo": "Supervisor de andar"
+},
+{
+  "id": 510120,
+  "titulo": "Chefe de portaria de hotel"
+},
+{
+  "id": 510130,
+  "titulo": "Chefe de bar"
+},
+{
+  "id": 510135,
+  "titulo": "Maître"
+},
+{
+  "id": 510205,
+  "titulo": "Supervisor de lavanderia"
+},
+{
+  "id": 510305,
+  "titulo": "Supervisor de bombeiros"
+},
+{
+  "id": 510310,
+  "titulo": "Supervisor de vigilantes"
+},
+{
+  "id": 511105,
+  "titulo": "Comissário de vôo"
+},
+{
+  "id": 511110,
+  "titulo": "Comissário de trem"
+},
+{
+  "id": 511115,
+  "titulo": "Taifeiro (exceto militares)"
+},
+{
+  "id": 511205,
+  "titulo": "Fiscal de transportes coletivos (exceto trem)"
+},
+{
+  "id": 511210,
+  "titulo": "Despachante de transportes coletivos (exceto trem)"
+},
+{
+  "id": 511215,
+  "titulo": "Cobrador de transportes coletivos (exceto trem)"
+},
+{
+  "id": 511220,
+  "titulo": "Bilheteiro (estações de metrô, ferroviárias e assemelhadas)"
+},
+{
+  "id": 511405,
+  "titulo": "Guia de turismo"
+},
+{
+  "id": 511505,
+  "titulo": "Condutor de turismo de aventura"
+},
+{
+  "id": 511510,
+  "titulo": "Condutor de turismo de pesca"
+},
+{
+  "id": 511515,
+  "titulo": "Condutor turismo náutico"
+},
+{
+  "id": 512105,
+  "titulo": "Empregado  doméstico  nos serviços gerais"
+},
+{
+  "id": 512110,
+  "titulo": "Empregado doméstico  arrumador"
+},
+{
+  "id": 512115,
+  "titulo": "Empregado doméstico  faxineiro"
+},
+{
+  "id": 512120,
+  "titulo": "Empregado doméstico diarista"
+},
+{
+  "id": 513105,
+  "titulo": "Mordomo de residência"
+},
+{
+  "id": 513110,
+  "titulo": "Mordomo de hotelaria"
+},
+{
+  "id": 513115,
+  "titulo": "Governanta de hotelaria"
+},
+{
+  "id": 513205,
+  "titulo": "Cozinheiro geral"
+},
+{
+  "id": 513210,
+  "titulo": "Cozinheiro do serviço doméstico"
+},
+{
+  "id": 513215,
+  "titulo": "Cozinheiro industrial"
+},
+{
+  "id": 513220,
+  "titulo": "Cozinheiro de hospital"
+},
+{
+  "id": 513225,
+  "titulo": "Cozinheiro de embarcações"
+},
+{
+  "id": 513305,
+  "titulo": "Camareiro de teatro"
+},
+{
+  "id": 513310,
+  "titulo": "Camareiro de televisão"
+},
+{
+  "id": 513315,
+  "titulo": "Camareiro  de hotel"
+},
+{
+  "id": 513320,
+  "titulo": "Camareiro de embarcações"
+},
+{
+  "id": 513325,
+  "titulo": "Guarda-roupeiro de cinema"
+},
+{
+  "id": 513405,
+  "titulo": "Garçom"
+},
+{
+  "id": 513410,
+  "titulo": "Sommelier"
+},
+{
+  "id": 513415,
+  "titulo": "Cumim"
+},
+{
+  "id": 513420,
+  "titulo": "Barman"
+},
+{
+  "id": 513425,
+  "titulo": "Copeiro"
+},
+{
+  "id": 513430,
+  "titulo": "Copeiro de hospital"
+},
+{
+  "id": 513435,
+  "titulo": "Atendente de lanchonete"
+},
+{
+  "id": 513440,
+  "titulo": "Barista"
+},
+{
+  "id": 513505,
+  "titulo": "Auxiliar nos serviços de alimentação"
+},
+{
+  "id": 513605,
+  "titulo": "Churrasqueiro"
+},
+{
+  "id": 513610,
+  "titulo": "Pizzaiolo"
+},
+{
+  "id": 513615,
+  "titulo": "Sushiman"
+},
+{
+  "id": 514105,
+  "titulo": "Ascensorista"
+},
+{
+  "id": 514110,
+  "titulo": "Garagista"
+},
+{
+  "id": 514115,
+  "titulo": "Sacristão"
+},
+{
+  "id": 514120,
+  "titulo": "Zelador de edifício"
+},
+{
+  "id": 514205,
+  "titulo": "Coletor de lixo domiciliar"
+},
+{
+  "id": 514215,
+  "titulo": "Varredor de rua"
+},
+{
+  "id": 514225,
+  "titulo": "Trabalhador de serviços de limpeza e conservação de áreas públicas"
+},
+{
+  "id": 514230,
+  "titulo": "Coletor de resíduos sólidos de serviços de saúde"
+},
+{
+  "id": 514305,
+  "titulo": "Limpador de vidros"
+},
+{
+  "id": 514310,
+  "titulo": "Auxiliar de manutenção predial"
+},
+{
+  "id": 514315,
+  "titulo": "Limpador de fachadas"
+},
+{
+  "id": 514320,
+  "titulo": "Faxineiro"
+},
+{
+  "id": 514325,
+  "titulo": "Trabalhador da manutenção de edificações"
+},
+{
+  "id": 514330,
+  "titulo": "Limpador de piscinas"
+},
+{
+  "id": 515105,
+  "titulo": "Agente comunitário de saúde"
+},
+{
+  "id": 515110,
+  "titulo": "Atendente de enfermagem"
+},
+{
+  "id": 515115,
+  "titulo": "Parteira leiga"
+},
+{
+  "id": 515120,
+  "titulo": "Visitador sanitário"
+},
+{
+  "id": 515125,
+  "titulo": "Agente indígena de saúde"
+},
+{
+  "id": 515130,
+  "titulo": "Agente indígena de saneamento"
+},
+{
+  "id": 515135,
+  "titulo": "Socorrista (exceto médicos e enfermeiros)"
+},
+{
+  "id": 515140,
+  "titulo": "Agente de combate às endemias"
+},
+{
+  "id": 515205,
+  "titulo": "Auxiliar de banco de sangue"
+},
+{
+  "id": 515210,
+  "titulo": "Auxiliar de farmácia de manipulação"
+},
+{
+  "id": 515215,
+  "titulo": "Auxiliar de laboratório de análises clínicas"
+},
+{
+  "id": 515220,
+  "titulo": "Auxiliar de laboratório de imunobiológicos"
+},
+{
+  "id": 515225,
+  "titulo": "Auxiliar de produção farmacêutica"
+},
+{
+  "id": 515305,
+  "titulo": "Educador social"
+},
+{
+  "id": 515310,
+  "titulo": "Agente de ação social"
+},
+{
+  "id": 515315,
+  "titulo": "Monitor de dependente químico"
+},
+{
+  "id": 515320,
+  "titulo": "Conselheiro tutelar"
+},
+{
+  "id": 515325,
+  "titulo": "Sócioeducador"
+},
+{
+  "id": 515330,
+  "titulo": "Monitor de ressocialização prisional"
+},
+{
+  "id": 516105,
+  "titulo": "Barbeiro"
+},
+{
+  "id": 516110,
+  "titulo": "Cabeleireiro"
+},
+{
+  "id": 516120,
+  "titulo": "Manicure/pedicure"
+},
+{
+  "id": 516125,
+  "titulo": "Maquiador"
+},
+{
+  "id": 516130,
+  "titulo": "Maquiador de caracterização"
+},
+{
+  "id": 516145,
+  "titulo": "Designer de unhas"
+},
+{
+  "id": 516150,
+  "titulo": "Designer de sobrancelhas"
+},
+{
+  "id": 516155,
+  "titulo": "Designer de cílios"
+},
+{
+  "id": 516205,
+  "titulo": "Babá"
+},
+{
+  "id": 516210,
+  "titulo": "Cuidador de idosos"
+},
+{
+  "id": 516215,
+  "titulo": "Mãe social"
+},
+{
+  "id": 516220,
+  "titulo": "Cuidador em saúde"
+},
+{
+  "id": 516305,
+  "titulo": "Lavadeiro, em geral"
+},
+{
+  "id": 516310,
+  "titulo": "Lavador de roupas  a maquina"
+},
+{
+  "id": 516315,
+  "titulo": "Lavador de artefatos de tapeçaria"
+},
+{
+  "id": 516320,
+  "titulo": "Limpador a seco, à máquina"
+},
+{
+  "id": 516325,
+  "titulo": "Passador de roupas em geral"
+},
+{
+  "id": 516330,
+  "titulo": "Tingidor de roupas"
+},
+{
+  "id": 516335,
+  "titulo": "Conferente-expedidor de roupas (lavanderias)"
+},
+{
+  "id": 516340,
+  "titulo": "Atendente de lavanderia"
+},
+{
+  "id": 516345,
+  "titulo": "Auxiliar de lavanderia"
+},
+{
+  "id": 516405,
+  "titulo": "Lavador de roupas"
+},
+{
+  "id": 516410,
+  "titulo": "Limpador de roupas a seco, à mão"
+},
+{
+  "id": 516415,
+  "titulo": "Passador de roupas, à mão"
+},
+{
+  "id": 516505,
+  "titulo": "Agente funerário"
+},
+{
+  "id": 516605,
+  "titulo": "Operador de forno (serviços funerários)"
+},
+{
+  "id": 516610,
+  "titulo": "Sepultador"
+},
+{
+  "id": 516705,
+  "titulo": "Astrólogo"
+},
+{
+  "id": 516710,
+  "titulo": "Numerólogo"
+},
+{
+  "id": 516805,
+  "titulo": "Esotérico"
+},
+{
+  "id": 516810,
+  "titulo": "Paranormal"
+},
+{
+  "id": 516905,
+  "titulo": "Tatuador"
+},
+{
+  "id": 516910,
+  "titulo": "Micropigmentador"
+},
+{
+  "id": 516915,
+  "titulo": "Body piercer"
+},
+{
+  "id": 517105,
+  "titulo": "Bombeiro de aeródromo"
+},
+{
+  "id": 517110,
+  "titulo": "Bombeiro civil"
+},
+{
+  "id": 517115,
+  "titulo": "Salva-vidas"
+},
+{
+  "id": 517120,
+  "titulo": "Brigadista florestal"
+},
+{
+  "id": 517125,
+  "titulo": "Chefe de brigada"
+},
+{
+  "id": 517130,
+  "titulo": "Agente de proteção e defesa civil"
+},
+{
+  "id": 517205,
+  "titulo": "Agente de polícia federal"
+},
+{
+  "id": 517210,
+  "titulo": "Policial rodoviário federal"
+},
+{
+  "id": 517215,
+  "titulo": "Guarda-civil municipal"
+},
+{
+  "id": 517220,
+  "titulo": "Agente de trânsito"
+},
+{
+  "id": 517225,
+  "titulo": "Policial legislativo"
+},
+{
+  "id": 517230,
+  "titulo": "Policial penal"
+},
+{
+  "id": 517235,
+  "titulo": "Guarda portuário"
+},
+{
+  "id": 517305,
+  "titulo": "Vigilante de proteção de aeroporto"
+},
+{
+  "id": 517310,
+  "titulo": "Agente de segurança"
+},
+{
+  "id": 517320,
+  "titulo": "Vigia florestal"
+},
+{
+  "id": 517325,
+  "titulo": "Vigia portuário"
+},
+{
+  "id": 517330,
+  "titulo": "Vigilante"
+},
+{
+  "id": 517405,
+  "titulo": "Porteiro (hotel)"
+},
+{
+  "id": 517410,
+  "titulo": "Porteiro de edifícios"
+},
+{
+  "id": 517415,
+  "titulo": "Agente de portaria"
+},
+{
+  "id": 517420,
+  "titulo": "Vigia"
+},
+{
+  "id": 517425,
+  "titulo": "Fiscal de loja"
+},
+{
+  "id": 519105,
+  "titulo": "Ciclista mensageiro"
+},
+{
+  "id": 519110,
+  "titulo": "Motofretista"
+},
+{
+  "id": 519115,
+  "titulo": "Mototaxista"
+},
+{
+  "id": 519205,
+  "titulo": "Catador de material reciclável"
+},
+{
+  "id": 519210,
+  "titulo": "Selecionador de material reciclável"
+},
+{
+  "id": 519215,
+  "titulo": "Operador de prensa de material reciclável"
+},
+{
+  "id": 519305,
+  "titulo": "Auxiliar de veterinário"
+},
+{
+  "id": 519310,
+  "titulo": "Esteticista de animais domésticos"
+},
+{
+  "id": 519315,
+  "titulo": "Banhista de animais domésticos"
+},
+{
+  "id": 519320,
+  "titulo": "Tosador de animais domésticos"
+},
+{
+  "id": 519805,
+  "titulo": "Profissional do sexo"
+},
+{
+  "id": 519905,
+  "titulo": "Cartazeiro"
+},
+{
+  "id": 519910,
+  "titulo": "Controlador de pragas"
+},
+{
+  "id": 519915,
+  "titulo": "Engraxate"
+},
+{
+  "id": 519920,
+  "titulo": "Gandula"
+},
+{
+  "id": 519925,
+  "titulo": "Guardador de veículos"
+},
+{
+  "id": 519930,
+  "titulo": "Lavador de garrafas, vidros e outros utensílios"
+},
+{
+  "id": 519935,
+  "titulo": "Lavador de veículos"
+},
+{
+  "id": 519940,
+  "titulo": "Leiturista"
+},
+{
+  "id": 519945,
+  "titulo": "Recepcionista de casas de espetáculos"
+},
+{
+  "id": 520105,
+  "titulo": "Supervisor de vendas de serviços"
+},
+{
+  "id": 520110,
+  "titulo": "Supervisor de vendas comercial"
+},
+{
+  "id": 521105,
+  "titulo": "Vendedor em comércio atacadista"
+},
+{
+  "id": 521110,
+  "titulo": "Vendedor de comércio varejista"
+},
+{
+  "id": 521115,
+  "titulo": "Promotor de vendas"
+},
+{
+  "id": 521120,
+  "titulo": "Demonstrador de mercadorias"
+},
+{
+  "id": 521125,
+  "titulo": "Repositor de mercadorias"
+},
+{
+  "id": 521130,
+  "titulo": "Atendente de farmácia - balconista"
+},
+{
+  "id": 521135,
+  "titulo": "Frentista"
+},
+{
+  "id": 521140,
+  "titulo": "Atendente de lojas e mercados"
+},
+{
+  "id": 523105,
+  "titulo": "Instalador de cortinas e persianas, portas sanfonadas e boxe"
+},
+{
+  "id": 523110,
+  "titulo": "Instalador de som e acessórios de veículos"
+},
+{
+  "id": 523115,
+  "titulo": "Chaveiro"
+},
+{
+  "id": 523120,
+  "titulo": "Aplicador de vinil autoadesivo"
+},
+{
+  "id": 523125,
+  "titulo": "Estampador de placa de identificação veicular (epiv)"
+},
+{
+  "id": 524105,
+  "titulo": "Vendedor em domicílio"
+},
+{
+  "id": 524205,
+  "titulo": "Feirante"
+},
+{
+  "id": 524210,
+  "titulo": "Jornaleiro (em banca de jornal)"
+},
+{
+  "id": 524215,
+  "titulo": "Vendedor  permissionário"
+},
+{
+  "id": 524305,
+  "titulo": "Vendedor ambulante"
+},
+{
+  "id": 524310,
+  "titulo": "Pipoqueiro ambulante"
+},
+{
+  "id": 524315,
+  "titulo": "Baiana de acarajé"
+},
+{
+  "id": 611005,
+  "titulo": "Produtor agropecuário, em geral"
+},
+{
+  "id": 612005,
+  "titulo": "Produtor agrícola polivalente"
+},
+{
+  "id": 612105,
+  "titulo": "Produtor de arroz"
+},
+{
+  "id": 612110,
+  "titulo": "Produtor de cana-de-açúcar"
+},
+{
+  "id": 612115,
+  "titulo": "Produtor de cereais de inverno"
+},
+{
+  "id": 612120,
+  "titulo": "Produtor de gramíneas forrageiras"
+},
+{
+  "id": 612125,
+  "titulo": "Produtor de milho e sorgo"
+},
+{
+  "id": 612205,
+  "titulo": "Produtor de algodão"
+},
+{
+  "id": 612210,
+  "titulo": "Produtor de curauá"
+},
+{
+  "id": 612215,
+  "titulo": "Produtor de juta"
+},
+{
+  "id": 612220,
+  "titulo": "Produtor de rami"
+},
+{
+  "id": 612225,
+  "titulo": "Produtor de sisal"
+},
+{
+  "id": 612305,
+  "titulo": "Produtor na olericultura de legumes"
+},
+{
+  "id": 612310,
+  "titulo": "Produtor na olericultura de raízes, bulbos e tubérculos"
+},
+{
+  "id": 612315,
+  "titulo": "Produtor na olericultura de talos, folhas e flores"
+},
+{
+  "id": 612320,
+  "titulo": "Produtor na olericultura de frutos e sementes"
+},
+{
+  "id": 612405,
+  "titulo": "Produtor de flores de corte"
+},
+{
+  "id": 612410,
+  "titulo": "Produtor de flores em vaso"
+},
+{
+  "id": 612415,
+  "titulo": "Produtor de forrações"
+},
+{
+  "id": 612420,
+  "titulo": "Produtor de plantas ornamentais"
+},
+{
+  "id": 612505,
+  "titulo": "Produtor de árvores frutíferas"
+},
+{
+  "id": 612510,
+  "titulo": "Produtor de espécies frutíferas rasteiras"
+},
+{
+  "id": 612515,
+  "titulo": "Produtor de espécies frutíferas trepadeiras"
+},
+{
+  "id": 612605,
+  "titulo": "Cafeicultor"
+},
+{
+  "id": 612610,
+  "titulo": "Produtor de cacau"
+},
+{
+  "id": 612615,
+  "titulo": "Produtor de erva-mate"
+},
+{
+  "id": 612620,
+  "titulo": "Produtor de fumo"
+},
+{
+  "id": 612625,
+  "titulo": "Produtor de guaraná"
+},
+{
+  "id": 612705,
+  "titulo": "Produtor da cultura de amendoim"
+},
+{
+  "id": 612710,
+  "titulo": "Produtor da cultura de canola"
+},
+{
+  "id": 612715,
+  "titulo": "Produtor da cultura de coco-da-baia"
+},
+{
+  "id": 612720,
+  "titulo": "Produtor da cultura de dendê"
+},
+{
+  "id": 612725,
+  "titulo": "Produtor da cultura de girassol"
+},
+{
+  "id": 612730,
+  "titulo": "Produtor da cultura de linho"
+},
+{
+  "id": 612735,
+  "titulo": "Produtor da cultura de mamona"
+},
+{
+  "id": 612740,
+  "titulo": "Produtor da cultura de soja"
+},
+{
+  "id": 612805,
+  "titulo": "Produtor de especiarias"
+},
+{
+  "id": 612810,
+  "titulo": "Produtor de plantas aromáticas e medicinais"
+},
+{
+  "id": 613005,
+  "titulo": "Criador em pecuária polivalente"
+},
+{
+  "id": 613010,
+  "titulo": "Criador de animais domésticos"
+},
+{
+  "id": 613105,
+  "titulo": "Criador de asininos e muares"
+},
+{
+  "id": 613110,
+  "titulo": "Criador de bovinos (corte)"
+},
+{
+  "id": 613115,
+  "titulo": "Criador de bovinos (leite)"
+},
+{
+  "id": 613120,
+  "titulo": "Criador de bubalinos (corte)"
+},
+{
+  "id": 613125,
+  "titulo": "Criador de bubalinos (leite)"
+},
+{
+  "id": 613130,
+  "titulo": "Criador de eqüínos"
+},
+{
+  "id": 613205,
+  "titulo": "Criador de caprinos"
+},
+{
+  "id": 613210,
+  "titulo": "Criador de ovinos"
+},
+{
+  "id": 613215,
+  "titulo": "Criador de suínos"
+},
+{
+  "id": 613305,
+  "titulo": "Avicultor"
+},
+{
+  "id": 613310,
+  "titulo": "Cunicultor"
+},
+{
+  "id": 613405,
+  "titulo": "Apicultor"
+},
+{
+  "id": 613410,
+  "titulo": "Criador de animais produtores de veneno"
+},
+{
+  "id": 613415,
+  "titulo": "Minhocultor"
+},
+{
+  "id": 613420,
+  "titulo": "Sericultor"
+},
+{
+  "id": 620105,
+  "titulo": "Supervisor de exploração agrícola"
+},
+{
+  "id": 620110,
+  "titulo": "Supervisor de exploração agropecuária"
+},
+{
+  "id": 620115,
+  "titulo": "Supervisor de exploração pecuária"
+},
+{
+  "id": 621005,
+  "titulo": "Trabalhador agropecuário em geral"
+},
+{
+  "id": 622005,
+  "titulo": "Caseiro (agricultura)"
+},
+{
+  "id": 622010,
+  "titulo": "Jardineiro"
+},
+{
+  "id": 622015,
+  "titulo": "Trabalhador na produção de mudas e sementes"
+},
+{
+  "id": 622020,
+  "titulo": "Trabalhador volante da agricultura"
+},
+{
+  "id": 622105,
+  "titulo": "Trabalhador da cultura de arroz"
+},
+{
+  "id": 622110,
+  "titulo": "Trabalhador da cultura de cana-de-açúcar"
+},
+{
+  "id": 622115,
+  "titulo": "Trabalhador da cultura de milho e sorgo"
+},
+{
+  "id": 622120,
+  "titulo": "Trabalhador da cultura de trigo, aveia, cevada e triticale"
+},
+{
+  "id": 622205,
+  "titulo": "Trabalhador da cultura de algodão"
+},
+{
+  "id": 622210,
+  "titulo": "Trabalhador da cultura de sisal"
+},
+{
+  "id": 622215,
+  "titulo": "Trabalhador da cultura do rami"
+},
+{
+  "id": 622305,
+  "titulo": "Trabalhador na olericultura (frutos e sementes)"
+},
+{
+  "id": 622310,
+  "titulo": "Trabalhador na olericultura (legumes)"
+},
+{
+  "id": 622315,
+  "titulo": "Trabalhador na olericultura (raízes, bulbos e tubérculos)"
+},
+{
+  "id": 622320,
+  "titulo": "Trabalhador na olericultura (talos, folhas e flores)"
+},
+{
+  "id": 622405,
+  "titulo": "Trabalhador no cultivo de flores e folhagens de corte"
+},
+{
+  "id": 622410,
+  "titulo": "Trabalhador no cultivo de flores em vaso"
+},
+{
+  "id": 622415,
+  "titulo": "Trabalhador no cultivo de forrações"
+},
+{
+  "id": 622420,
+  "titulo": "Trabalhador no cultivo de mudas"
+},
+{
+  "id": 622425,
+  "titulo": "Trabalhador no cultivo de plantas ornamentais"
+},
+{
+  "id": 622505,
+  "titulo": "Trabalhador no cultivo de árvores frutíferas"
+},
+{
+  "id": 622510,
+  "titulo": "Trabalhador no cultivo de espécies frutíferas rasteiras"
+},
+{
+  "id": 622515,
+  "titulo": "Trabalhador no cultivo de trepadeiras frutíferas"
+},
+{
+  "id": 622605,
+  "titulo": "Trabalhador da cultura de cacau"
+},
+{
+  "id": 622610,
+  "titulo": "Trabalhador da cultura de café"
+},
+{
+  "id": 622615,
+  "titulo": "Trabalhador da cultura de erva-mate"
+},
+{
+  "id": 622620,
+  "titulo": "Trabalhador da cultura de fumo"
+},
+{
+  "id": 622625,
+  "titulo": "Trabalhador da cultura de guaraná"
+},
+{
+  "id": 622705,
+  "titulo": "Trabalhador na cultura de amendoim"
+},
+{
+  "id": 622710,
+  "titulo": "Trabalhador na cultura de canola"
+},
+{
+  "id": 622715,
+  "titulo": "Trabalhador na cultura de coco-da-baía"
+},
+{
+  "id": 622720,
+  "titulo": "Trabalhador na cultura de dendê"
+},
+{
+  "id": 622725,
+  "titulo": "Trabalhador na cultura de mamona"
+},
+{
+  "id": 622730,
+  "titulo": "Trabalhador na cultura de soja"
+},
+{
+  "id": 622735,
+  "titulo": "Trabalhador na cultura do girassol"
+},
+{
+  "id": 622740,
+  "titulo": "Trabalhador na cultura do linho"
+},
+{
+  "id": 622805,
+  "titulo": "Trabalhador da cultura de especiarias"
+},
+{
+  "id": 622810,
+  "titulo": "Trabalhador da cultura de plantas aromáticas e medicinais"
+},
+{
+  "id": 623005,
+  "titulo": "Adestrador de animais"
+},
+{
+  "id": 623010,
+  "titulo": "Inseminador"
+},
+{
+  "id": 623015,
+  "titulo": "Trabalhador de pecuária polivalente"
+},
+{
+  "id": 623020,
+  "titulo": "Tratador de animais"
+},
+{
+  "id": 623025,
+  "titulo": "Casqueador de animais"
+},
+{
+  "id": 623030,
+  "titulo": "Ferrador de animais"
+},
+{
+  "id": 623105,
+  "titulo": "Trabalhador da pecuária (asininos e muares)"
+},
+{
+  "id": 623110,
+  "titulo": "Trabalhador da pecuária (bovinos corte)"
+},
+{
+  "id": 623115,
+  "titulo": "Trabalhador da pecuária (bovinos leite)"
+},
+{
+  "id": 623120,
+  "titulo": "Trabalhador da pecuária (bubalinos)"
+},
+{
+  "id": 623125,
+  "titulo": "Trabalhador da pecuária (eqüinos)"
+},
+{
+  "id": 623205,
+  "titulo": "Trabalhador da caprinocultura"
+},
+{
+  "id": 623210,
+  "titulo": "Trabalhador da ovinocultura"
+},
+{
+  "id": 623215,
+  "titulo": "Trabalhador da suinocultura"
+},
+{
+  "id": 623305,
+  "titulo": "Trabalhador da avicultura de corte"
+},
+{
+  "id": 623310,
+  "titulo": "Trabalhador da avicultura de postura"
+},
+{
+  "id": 623315,
+  "titulo": "Operador de incubadora"
+},
+{
+  "id": 623320,
+  "titulo": "Trabalhador da cunicultura"
+},
+{
+  "id": 623325,
+  "titulo": "Sexador"
+},
+{
+  "id": 623405,
+  "titulo": "Trabalhador em criatórios de animais produtores de veneno"
+},
+{
+  "id": 623410,
+  "titulo": "Trabalhador na apicultura"
+},
+{
+  "id": 623415,
+  "titulo": "Trabalhador na minhocultura"
+},
+{
+  "id": 623420,
+  "titulo": "Trabalhador na sericicultura"
+},
+{
+  "id": 630105,
+  "titulo": "Supervisor da aqüicultura"
+},
+{
+  "id": 630110,
+  "titulo": "Supervisor da área florestal"
+},
+{
+  "id": 631005,
+  "titulo": "Catador de caranguejos e siris"
+},
+{
+  "id": 631010,
+  "titulo": "Catador de mariscos"
+},
+{
+  "id": 631015,
+  "titulo": "Pescador artesanal de lagostas"
+},
+{
+  "id": 631020,
+  "titulo": "Pescador artesanal de peixes e camarões"
+},
+{
+  "id": 631105,
+  "titulo": "Pescador artesanal de água doce"
+},
+{
+  "id": 631205,
+  "titulo": "Pescador industrial"
+},
+{
+  "id": 631210,
+  "titulo": "Pescador profissional"
+},
+{
+  "id": 631305,
+  "titulo": "Criador de camarões"
+},
+{
+  "id": 631310,
+  "titulo": "Criador de jacarés"
+},
+{
+  "id": 631315,
+  "titulo": "Criador de mexilhões"
+},
+{
+  "id": 631320,
+  "titulo": "Criador de ostras"
+},
+{
+  "id": 631325,
+  "titulo": "Criador de peixes"
+},
+{
+  "id": 631330,
+  "titulo": "Criador de quelônios"
+},
+{
+  "id": 631335,
+  "titulo": "Criador de rãs"
+},
+{
+  "id": 631405,
+  "titulo": "Gelador industrial"
+},
+{
+  "id": 631410,
+  "titulo": "Gelador profissional"
+},
+{
+  "id": 631415,
+  "titulo": "Proeiro"
+},
+{
+  "id": 631420,
+  "titulo": "Redeiro (pesca)"
+},
+{
+  "id": 632005,
+  "titulo": "Guia florestal"
+},
+{
+  "id": 632010,
+  "titulo": "Raizeiro"
+},
+{
+  "id": 632015,
+  "titulo": "Viveirista florestal"
+},
+{
+  "id": 632105,
+  "titulo": "Classificador de toras"
+},
+{
+  "id": 632110,
+  "titulo": "Cubador de madeira"
+},
+{
+  "id": 632115,
+  "titulo": "Identificador florestal"
+},
+{
+  "id": 632120,
+  "titulo": "Operador de motosserra"
+},
+{
+  "id": 632125,
+  "titulo": "Trabalhador de extração florestal, em geral"
+},
+{
+  "id": 632205,
+  "titulo": "Seringueiro"
+},
+{
+  "id": 632210,
+  "titulo": "Trabalhador da exploração de espécies produtoras de gomas não elásticas"
+},
+{
+  "id": 632215,
+  "titulo": "Trabalhador da exploração de resinas"
+},
+{
+  "id": 632305,
+  "titulo": "Trabalhador da exploração de andiroba"
+},
+{
+  "id": 632310,
+  "titulo": "Trabalhador da exploração de babaçu"
+},
+{
+  "id": 632315,
+  "titulo": "Trabalhador da exploração de bacaba"
+},
+{
+  "id": 632320,
+  "titulo": "Trabalhador da exploração de buriti"
+},
+{
+  "id": 632325,
+  "titulo": "Trabalhador da exploração de carnaúba"
+},
+{
+  "id": 632330,
+  "titulo": "Trabalhador da exploração de coco-da-praia"
+},
+{
+  "id": 632335,
+  "titulo": "Trabalhador da exploração de copaíba"
+},
+{
+  "id": 632340,
+  "titulo": "Trabalhador da exploração de malva (pãina)"
+},
+{
+  "id": 632345,
+  "titulo": "Trabalhador da exploração de murumuru"
+},
+{
+  "id": 632350,
+  "titulo": "Trabalhador da exploração de oiticica"
+},
+{
+  "id": 632355,
+  "titulo": "Trabalhador da exploração de ouricuri"
+},
+{
+  "id": 632360,
+  "titulo": "Trabalhador da exploração de pequi"
+},
+{
+  "id": 632365,
+  "titulo": "Trabalhador da exploração de piaçava"
+},
+{
+  "id": 632370,
+  "titulo": "Trabalhador da exploração de tucum"
+},
+{
+  "id": 632405,
+  "titulo": "Trabalhador da exploração de açaí"
+},
+{
+  "id": 632410,
+  "titulo": "Trabalhador da exploração de castanha"
+},
+{
+  "id": 632415,
+  "titulo": "Trabalhador da exploração de pinhão"
+},
+{
+  "id": 632420,
+  "titulo": "Trabalhador da exploração de pupunha"
+},
+{
+  "id": 632505,
+  "titulo": "Trabalhador da exploração de árvores e arbustos produtores de substâncias aromát., Medic. E tóxicas"
+},
+{
+  "id": 632510,
+  "titulo": "Trabalhador da exploração de cipós produtores de substâncias aromáticas, medicinais e tóxicas"
+},
+{
+  "id": 632515,
+  "titulo": "Trabalhador da exploração de madeiras tanantes"
+},
+{
+  "id": 632520,
+  "titulo": "Trabalhador da exploração de raízes produtoras de substâncias aromáticas, medicinais e tóxicas"
+},
+{
+  "id": 632525,
+  "titulo": "Trabalhador da extração de substâncias aromáticas, medicinais e tóxicas, em geral"
+},
+{
+  "id": 632605,
+  "titulo": "Carvoeiro"
+},
+{
+  "id": 632610,
+  "titulo": "Carbonizador"
+},
+{
+  "id": 632615,
+  "titulo": "Ajudante de carvoaria"
+},
+{
+  "id": 641005,
+  "titulo": "Operador de colheitadeira"
+},
+{
+  "id": 641010,
+  "titulo": "Operador de máquinas de beneficiamento de produtos agrícolas"
+},
+{
+  "id": 641015,
+  "titulo": "Tratorista agrícola"
+},
+{
+  "id": 642005,
+  "titulo": "Operador de colhedor florestal"
+},
+{
+  "id": 642010,
+  "titulo": "Operador de máquinas florestais estáticas"
+},
+{
+  "id": 642015,
+  "titulo": "Operador de trator florestal"
+},
+{
+  "id": 643005,
+  "titulo": "Trabalhador na operação de sistema de irrigação localizada (microaspersão e gotejamento)"
+},
+{
+  "id": 643010,
+  "titulo": "Trabalhador na operação de sistema de irrigação por aspersão (pivô central)"
+},
+{
+  "id": 643015,
+  "titulo": "Trabalhador na operação de sistemas convencionais de irrigação por aspersão"
+},
+{
+  "id": 643020,
+  "titulo": "Trabalhador na operação de sistemas de irrigação e aspersão (alto propelido)"
+},
+{
+  "id": 643025,
+  "titulo": "Trabalhador na operação de sistemas de irrigação por superfície e drenagem"
+},
+{
+  "id": 710105,
+  "titulo": "Supervisor de apoio operacional na mineração"
+},
+{
+  "id": 710110,
+  "titulo": "Supervisor de extração de sal"
+},
+{
+  "id": 710115,
+  "titulo": "Supervisor de perfuração e desmonte"
+},
+{
+  "id": 710120,
+  "titulo": "Supervisor de produção na mineração"
+},
+{
+  "id": 710125,
+  "titulo": "Supervisor de transporte na mineração"
+},
+{
+  "id": 710205,
+  "titulo": "Mestre (construção civil)"
+},
+{
+  "id": 710210,
+  "titulo": "Mestre de linhas (ferrovias)"
+},
+{
+  "id": 710215,
+  "titulo": "Inspetor de terraplenagem"
+},
+{
+  "id": 710220,
+  "titulo": "Supervisor de usina de concreto"
+},
+{
+  "id": 710225,
+  "titulo": "Fiscal de pátio de usina de concreto"
+},
+{
+  "id": 711105,
+  "titulo": "Amostrador de minérios"
+},
+{
+  "id": 711110,
+  "titulo": "Canteiro"
+},
+{
+  "id": 711115,
+  "titulo": "Destroçador de pedra"
+},
+{
+  "id": 711120,
+  "titulo": "Detonador"
+},
+{
+  "id": 711125,
+  "titulo": "Escorador de minas"
+},
+{
+  "id": 711130,
+  "titulo": "Mineiro"
+},
+{
+  "id": 711205,
+  "titulo": "Operador de caminhão (minas e pedreiras)"
+},
+{
+  "id": 711210,
+  "titulo": "Operador de carregadeira"
+},
+{
+  "id": 711215,
+  "titulo": "Operador de máquina cortadora (minas e pedreiras)"
+},
+{
+  "id": 711220,
+  "titulo": "Operador de máquina de extração contínua (minas de carvão)"
+},
+{
+  "id": 711225,
+  "titulo": "Operador de máquina perfuradora (minas e pedreiras)"
+},
+{
+  "id": 711230,
+  "titulo": "Operador de máquina perfuratriz"
+},
+{
+  "id": 711235,
+  "titulo": "Operador de motoniveladora (extração de minerais sólidos)"
+},
+{
+  "id": 711240,
+  "titulo": "Operador de schutthecar"
+},
+{
+  "id": 711245,
+  "titulo": "Operador de trator (minas e pedreiras)"
+},
+{
+  "id": 711305,
+  "titulo": "Operador de sonda de percussão"
+},
+{
+  "id": 711310,
+  "titulo": "Operador de sonda rotativa"
+},
+{
+  "id": 711315,
+  "titulo": "Sondador (poços de petróleo e gás)"
+},
+{
+  "id": 711320,
+  "titulo": "Sondador de poços (exceto de petróleo e gás)"
+},
+{
+  "id": 711325,
+  "titulo": "Plataformista (petróleo)"
+},
+{
+  "id": 711330,
+  "titulo": "Torrista (petróleo)"
+},
+{
+  "id": 711405,
+  "titulo": "Garimpeiro"
+},
+{
+  "id": 711410,
+  "titulo": "Operador de salina (sal marinho)"
+},
+{
+  "id": 712105,
+  "titulo": "Moleiro de minérios"
+},
+{
+  "id": 712110,
+  "titulo": "Operador de aparelho de flotação"
+},
+{
+  "id": 712115,
+  "titulo": "Operador de aparelho de precipitação (minas de ouro ou prata)"
+},
+{
+  "id": 712120,
+  "titulo": "Operador de britador de mandíbulas"
+},
+{
+  "id": 712125,
+  "titulo": "Operador de espessador"
+},
+{
+  "id": 712130,
+  "titulo": "Operador de jig (minas)"
+},
+{
+  "id": 712135,
+  "titulo": "Operador de peneiras hidráulicas"
+},
+{
+  "id": 712205,
+  "titulo": "Cortador de pedras"
+},
+{
+  "id": 712210,
+  "titulo": "Gravador de inscrições em pedra"
+},
+{
+  "id": 712215,
+  "titulo": "Gravador de relevos em pedra"
+},
+{
+  "id": 712220,
+  "titulo": "Polidor de pedras"
+},
+{
+  "id": 712225,
+  "titulo": "Torneiro (lavra de pedra)"
+},
+{
+  "id": 712230,
+  "titulo": "Traçador de pedras"
+},
+{
+  "id": 715105,
+  "titulo": "Operador de bate-estacas"
+},
+{
+  "id": 715110,
+  "titulo": "Operador de compactadora de solos"
+},
+{
+  "id": 715115,
+  "titulo": "Operador de escavadeira"
+},
+{
+  "id": 715120,
+  "titulo": "Operador de máquina de abrir valas"
+},
+{
+  "id": 715125,
+  "titulo": "Operador de máquinas de construção civil e mineração"
+},
+{
+  "id": 715130,
+  "titulo": "Operador de motoniveladora"
+},
+{
+  "id": 715135,
+  "titulo": "Operador de pá carregadeira"
+},
+{
+  "id": 715140,
+  "titulo": "Operador de pavimentadora (asfalto, concreto e materiais similares)"
+},
+{
+  "id": 715145,
+  "titulo": "Operador de trator de lâmina"
+},
+{
+  "id": 715205,
+  "titulo": "Calceteiro"
+},
+{
+  "id": 715210,
+  "titulo": "Pedreiro"
+},
+{
+  "id": 715215,
+  "titulo": "Pedreiro (chaminés industriais)"
+},
+{
+  "id": 715220,
+  "titulo": "Pedreiro (material refratário)"
+},
+{
+  "id": 715225,
+  "titulo": "Pedreiro (mineração)"
+},
+{
+  "id": 715230,
+  "titulo": "Pedreiro de edificações"
+},
+{
+  "id": 715305,
+  "titulo": "Armador de estrutura de concreto"
+},
+{
+  "id": 715310,
+  "titulo": "Moldador de corpos de prova em usinas de concreto"
+},
+{
+  "id": 715315,
+  "titulo": "Armador de estrutura de concreto armado"
+},
+{
+  "id": 715405,
+  "titulo": "Operador de betoneira"
+},
+{
+  "id": 715410,
+  "titulo": "Operador de bomba de concreto"
+},
+{
+  "id": 715415,
+  "titulo": "Operador de central de concreto"
+},
+{
+  "id": 715420,
+  "titulo": "Operador de usina de asfalto"
+},
+{
+  "id": 715505,
+  "titulo": "Carpinteiro"
+},
+{
+  "id": 715510,
+  "titulo": "Carpinteiro (esquadrias)"
+},
+{
+  "id": 715515,
+  "titulo": "Carpinteiro (cenários)"
+},
+{
+  "id": 715520,
+  "titulo": "Carpinteiro (mineração)"
+},
+{
+  "id": 715525,
+  "titulo": "Carpinteiro de obras"
+},
+{
+  "id": 715530,
+  "titulo": "Carpinteiro (telhados)"
+},
+{
+  "id": 715535,
+  "titulo": "Carpinteiro de fôrmas para concreto"
+},
+{
+  "id": 715540,
+  "titulo": "Carpinteiro de obras civis de arte (pontes, túneis, barragens)"
+},
+{
+  "id": 715545,
+  "titulo": "Montador de andaimes (edificações)"
+},
+{
+  "id": 715605,
+  "titulo": "Eletricista de instalações (cenários)"
+},
+{
+  "id": 715610,
+  "titulo": "Eletricista de instalações (edifícios)"
+},
+{
+  "id": 715615,
+  "titulo": "Eletricista de instalações"
+},
+{
+  "id": 715705,
+  "titulo": "Aplicador de asfalto impermeabilizante (coberturas)"
+},
+{
+  "id": 715710,
+  "titulo": "Instalador de isolantes acústicos"
+},
+{
+  "id": 715715,
+  "titulo": "Instalador de isolantes térmicos (refrigeração e climatização)"
+},
+{
+  "id": 715720,
+  "titulo": "Instalador de isolantes térmicos de caldeira e tubulações"
+},
+{
+  "id": 715725,
+  "titulo": "Instalador de material isolante, a mão (edificações)"
+},
+{
+  "id": 715730,
+  "titulo": "Instalador de material isolante, à máquina (edificações)"
+},
+{
+  "id": 716105,
+  "titulo": "Acabador de superfícies de concreto"
+},
+{
+  "id": 716110,
+  "titulo": "Revestidor de superfícies de concreto"
+},
+{
+  "id": 716205,
+  "titulo": "Telhador (telhas de argila e materiais similares)"
+},
+{
+  "id": 716210,
+  "titulo": "Telhador (telhas de cimento-amianto)"
+},
+{
+  "id": 716215,
+  "titulo": "Telhador (telhas metálicas)"
+},
+{
+  "id": 716220,
+  "titulo": "Telhador (telhas plásticas)"
+},
+{
+  "id": 716305,
+  "titulo": "Vidraceiro"
+},
+{
+  "id": 716310,
+  "titulo": "Vidraceiro (edificações)"
+},
+{
+  "id": 716315,
+  "titulo": "Vidraceiro (vitrais)"
+},
+{
+  "id": 716405,
+  "titulo": "Gesseiro"
+},
+{
+  "id": 716505,
+  "titulo": "Assoalhador"
+},
+{
+  "id": 716510,
+  "titulo": "Assentador de revestimentos cerâmicos"
+},
+{
+  "id": 716515,
+  "titulo": "Pastilheiro"
+},
+{
+  "id": 716520,
+  "titulo": "Lustrador de piso"
+},
+{
+  "id": 716525,
+  "titulo": "Marmorista (construção)"
+},
+{
+  "id": 716530,
+  "titulo": "Mosaísta"
+},
+{
+  "id": 716535,
+  "titulo": "Taqueiro"
+},
+{
+  "id": 716540,
+  "titulo": "Rejuntador de revestimentos"
+},
+{
+  "id": 716605,
+  "titulo": "Calafetador"
+},
+{
+  "id": 716610,
+  "titulo": "Pintor de obras"
+},
+{
+  "id": 716615,
+  "titulo": "Revestidor de interiores (papel, material plástico e emborrachados)"
+},
+{
+  "id": 717005,
+  "titulo": "Demolidor de edificações"
+},
+{
+  "id": 717010,
+  "titulo": "Operador de martelete"
+},
+{
+  "id": 717015,
+  "titulo": "Poceiro (edificações)"
+},
+{
+  "id": 717020,
+  "titulo": "Servente de obras"
+},
+{
+  "id": 717025,
+  "titulo": "Vibradorista"
+},
+{
+  "id": 720105,
+  "titulo": "Mestre (afiador de ferramentas)"
+},
+{
+  "id": 720110,
+  "titulo": "Mestre de caldeiraria"
+},
+{
+  "id": 720115,
+  "titulo": "Mestre de ferramentaria"
+},
+{
+  "id": 720120,
+  "titulo": "Mestre de forjaria"
+},
+{
+  "id": 720125,
+  "titulo": "Mestre de fundição"
+},
+{
+  "id": 720130,
+  "titulo": "Mestre de galvanoplastia"
+},
+{
+  "id": 720135,
+  "titulo": "Mestre de pintura (tratamento de superfícies)"
+},
+{
+  "id": 720140,
+  "titulo": "Mestre de soldagem"
+},
+{
+  "id": 720145,
+  "titulo": "Mestre de trefilação de metais"
+},
+{
+  "id": 720150,
+  "titulo": "Mestre de usinagem"
+},
+{
+  "id": 720155,
+  "titulo": "Mestre serralheiro"
+},
+{
+  "id": 720160,
+  "titulo": "Supervisor de controle de tratamento térmico"
+},
+{
+  "id": 720205,
+  "titulo": "Mestre (construção naval)"
+},
+{
+  "id": 720210,
+  "titulo": "Mestre (indústria de automotores e material de transportes)"
+},
+{
+  "id": 720215,
+  "titulo": "Mestre (indústria de máquinas e outros equipamentos mecânicos)"
+},
+{
+  "id": 720220,
+  "titulo": "Mestre de construção de fornos"
+},
+{
+  "id": 721105,
+  "titulo": "Ferramenteiro"
+},
+{
+  "id": 721110,
+  "titulo": "Ferramenteiro de mandris, calibradores e outros dispositivos"
+},
+{
+  "id": 721115,
+  "titulo": "Modelador de metais (fundição)"
+},
+{
+  "id": 721205,
+  "titulo": "Operador de máquina de eletroerosão"
+},
+{
+  "id": 721210,
+  "titulo": "Operador de máquinas operatrizes"
+},
+{
+  "id": 721215,
+  "titulo": "Operador de máquinas-ferramenta convencionais"
+},
+{
+  "id": 721220,
+  "titulo": "Operador de usinagem convencional por abrasão"
+},
+{
+  "id": 721225,
+  "titulo": "Preparador de máquinas-ferramenta"
+},
+{
+  "id": 721305,
+  "titulo": "Afiador de cardas"
+},
+{
+  "id": 721310,
+  "titulo": "Afiador de cutelaria"
+},
+{
+  "id": 721315,
+  "titulo": "Afiador de ferramentas"
+},
+{
+  "id": 721320,
+  "titulo": "Afiador de serras"
+},
+{
+  "id": 721325,
+  "titulo": "Polidor de metais"
+},
+{
+  "id": 721405,
+  "titulo": "Operador de centro de usinagem com comando numérico"
+},
+{
+  "id": 721410,
+  "titulo": "Operador de fresadora com comando numérico"
+},
+{
+  "id": 721415,
+  "titulo": "Operador de mandriladora com comando numérico"
+},
+{
+  "id": 721420,
+  "titulo": "Operador de máquina eletroerosão, à fio, com comando numérico"
+},
+{
+  "id": 721425,
+  "titulo": "Operador de retificadora com comando numérico"
+},
+{
+  "id": 721430,
+  "titulo": "Operador de torno com comando numérico"
+},
+{
+  "id": 722105,
+  "titulo": "Forjador"
+},
+{
+  "id": 722110,
+  "titulo": "Forjador a martelo"
+},
+{
+  "id": 722115,
+  "titulo": "Forjador prensista"
+},
+{
+  "id": 722205,
+  "titulo": "Fundidor de metais"
+},
+{
+  "id": 722210,
+  "titulo": "Operador de lingotamento"
+},
+{
+  "id": 722215,
+  "titulo": "Operador de acabamento de peças fundidas"
+},
+{
+  "id": 722220,
+  "titulo": "Operador de máquina de fundição"
+},
+{
+  "id": 722230,
+  "titulo": "Operador de vazamento"
+},
+{
+  "id": 722235,
+  "titulo": "Preparador de panelas"
+},
+{
+  "id": 722305,
+  "titulo": "Macheiro, a mão"
+},
+{
+  "id": 722310,
+  "titulo": "Macheiro, a  máquina"
+},
+{
+  "id": 722315,
+  "titulo": "Moldador, a  mão"
+},
+{
+  "id": 722320,
+  "titulo": "Moldador, a  máquina"
+},
+{
+  "id": 722325,
+  "titulo": "Operador de equipamentos de preparação de areia"
+},
+{
+  "id": 722330,
+  "titulo": "Operador de máquina de moldar automatizada"
+},
+{
+  "id": 722405,
+  "titulo": "Cableador"
+},
+{
+  "id": 722410,
+  "titulo": "Estirador de tubos de metal sem costura"
+},
+{
+  "id": 722415,
+  "titulo": "Trefilador de metais, à máquina"
+},
+{
+  "id": 723105,
+  "titulo": "Cementador de metais"
+},
+{
+  "id": 723110,
+  "titulo": "Normalizador de metais e de compósitos"
+},
+{
+  "id": 723115,
+  "titulo": "Operador de equipamento para resfriamento"
+},
+{
+  "id": 723120,
+  "titulo": "Operador de forno de tratamento térmico de metais"
+},
+{
+  "id": 723125,
+  "titulo": "Temperador de metais e de compósitos"
+},
+{
+  "id": 723205,
+  "titulo": "Decapador"
+},
+{
+  "id": 723210,
+  "titulo": "Fosfatizador"
+},
+{
+  "id": 723215,
+  "titulo": "Galvanizador"
+},
+{
+  "id": 723220,
+  "titulo": "Metalizador a pistola"
+},
+{
+  "id": 723225,
+  "titulo": "Metalizador (banho quente)"
+},
+{
+  "id": 723230,
+  "titulo": "Operador de máquina recobridora de arame"
+},
+{
+  "id": 723235,
+  "titulo": "Operador de zincagem (processo eletrolítico)"
+},
+{
+  "id": 723240,
+  "titulo": "Oxidador"
+},
+{
+  "id": 723305,
+  "titulo": "Operador de equipamento de secagem de pintura"
+},
+{
+  "id": 723310,
+  "titulo": "Pintor a pincel e rolo (exceto obras e estruturas metálicas)"
+},
+{
+  "id": 723315,
+  "titulo": "Pintor de estruturas metálicas"
+},
+{
+  "id": 723320,
+  "titulo": "Pintor de veículos (fabricação)"
+},
+{
+  "id": 723325,
+  "titulo": "Pintor por imersão"
+},
+{
+  "id": 723330,
+  "titulo": "Pintor, a  pistola (exceto obras e estruturas metálicas)"
+},
+{
+  "id": 724105,
+  "titulo": "Assentador de canalização (edificações)"
+},
+{
+  "id": 724110,
+  "titulo": "Encanador"
+},
+{
+  "id": 724115,
+  "titulo": "Instalador de tubulações"
+},
+{
+  "id": 724120,
+  "titulo": "Instalador de tubulações (aeronaves)"
+},
+{
+  "id": 724125,
+  "titulo": "Instalador de tubulações (embarcações)"
+},
+{
+  "id": 724130,
+  "titulo": "Instalador de tubulações de gás combustível (produção e distribuição)"
+},
+{
+  "id": 724135,
+  "titulo": "Instalador de tubulações de vapor (produção e distribuição)"
+},
+{
+  "id": 724205,
+  "titulo": "Montador de estruturas metálicas"
+},
+{
+  "id": 724210,
+  "titulo": "Montador de estruturas metálicas de embarcações"
+},
+{
+  "id": 724215,
+  "titulo": "Rebitador a  martelo pneumático"
+},
+{
+  "id": 724220,
+  "titulo": "Preparador de estruturas metálicas"
+},
+{
+  "id": 724225,
+  "titulo": "Riscador de estruturas metálicas"
+},
+{
+  "id": 724230,
+  "titulo": "Rebitador, a  mão"
+},
+{
+  "id": 724305,
+  "titulo": "Brasador"
+},
+{
+  "id": 724310,
+  "titulo": "Oxicortador a mão e a  máquina"
+},
+{
+  "id": 724315,
+  "titulo": "Soldador"
+},
+{
+  "id": 724320,
+  "titulo": "Soldador a  oxigás"
+},
+{
+  "id": 724325,
+  "titulo": "Soldador elétrico"
+},
+{
+  "id": 724405,
+  "titulo": "Caldeireiro (chapas de cobre)"
+},
+{
+  "id": 724410,
+  "titulo": "Caldeireiro (chapas de ferro e aço)"
+},
+{
+  "id": 724415,
+  "titulo": "Chapeador"
+},
+{
+  "id": 724420,
+  "titulo": "Chapeador de carrocerias metálicas (fabricação)"
+},
+{
+  "id": 724425,
+  "titulo": "Chapeador naval"
+},
+{
+  "id": 724430,
+  "titulo": "Chapeador de aeronaves"
+},
+{
+  "id": 724435,
+  "titulo": "Funileiro industrial"
+},
+{
+  "id": 724440,
+  "titulo": "Serralheiro"
+},
+{
+  "id": 724505,
+  "titulo": "Operador de máquina de cilindrar chapas"
+},
+{
+  "id": 724510,
+  "titulo": "Operador de máquina de dobrar chapas"
+},
+{
+  "id": 724515,
+  "titulo": "Prensista (operador de prensa)"
+},
+{
+  "id": 724605,
+  "titulo": "Operador de laços de cabos de aço"
+},
+{
+  "id": 724610,
+  "titulo": "Trançador de cabos de aço"
+},
+{
+  "id": 725005,
+  "titulo": "Ajustador ferramenteiro"
+},
+{
+  "id": 725010,
+  "titulo": "Ajustador mecânico"
+},
+{
+  "id": 725015,
+  "titulo": "Ajustador mecânico (usinagem em bancada e em máquinas-ferramentas)"
+},
+{
+  "id": 725020,
+  "titulo": "Ajustador mecânico em bancada"
+},
+{
+  "id": 725025,
+  "titulo": "Ajustador naval (reparo e construção)"
+},
+{
+  "id": 725030,
+  "titulo": "Operador de manutenção e recarga de extintor de incêndio"
+},
+{
+  "id": 725105,
+  "titulo": "Montador de máquinas, motores e acessórios (montagem em série)"
+},
+{
+  "id": 725205,
+  "titulo": "Montador de máquinas"
+},
+{
+  "id": 725210,
+  "titulo": "Montador de máquinas gráficas"
+},
+{
+  "id": 725215,
+  "titulo": "Montador de máquinas operatrizes para madeira"
+},
+{
+  "id": 725220,
+  "titulo": "Montador de máquinas têxteis"
+},
+{
+  "id": 725225,
+  "titulo": "Montador de máquinas-ferramentas (usinagem de metais)"
+},
+{
+  "id": 725305,
+  "titulo": "Montador de equipamento de levantamento"
+},
+{
+  "id": 725310,
+  "titulo": "Montador de máquinas agrícolas"
+},
+{
+  "id": 725315,
+  "titulo": "Montador de máquinas de minas e pedreiras"
+},
+{
+  "id": 725320,
+  "titulo": "Montador de máquinas de terraplenagem"
+},
+{
+  "id": 725405,
+  "titulo": "Mecânico montador de motores de aeronaves"
+},
+{
+  "id": 725410,
+  "titulo": "Mecânico montador de motores de embarcações"
+},
+{
+  "id": 725415,
+  "titulo": "Mecânico montador de motores de explosão e diesel"
+},
+{
+  "id": 725420,
+  "titulo": "Mecânico montador de turboalimentadores"
+},
+{
+  "id": 725505,
+  "titulo": "Montador de veículos (linha de montagem)"
+},
+{
+  "id": 725510,
+  "titulo": "Operador de time de montagem"
+},
+{
+  "id": 725605,
+  "titulo": "Montador de estruturas de aeronaves"
+},
+{
+  "id": 725610,
+  "titulo": "Montador de sistemas de combustível de aeronaves"
+},
+{
+  "id": 725705,
+  "titulo": "Mecânico de refrigeração"
+},
+{
+  "id": 730105,
+  "titulo": "Supervisor de montagem e instalação eletroeletrônica"
+},
+{
+  "id": 731105,
+  "titulo": "Montador de equipamentos eletrônicos (aparelhos médicos)"
+},
+{
+  "id": 731110,
+  "titulo": "Montador de equipamentos eletrônicos (computadores e equipamentos auxiliares)"
+},
+{
+  "id": 731115,
+  "titulo": "Montador de equipamentos elétricos (instrumentos de medição)"
+},
+{
+  "id": 731120,
+  "titulo": "Montador de equipamentos elétricos (aparelhos eletrodomésticos)"
+},
+{
+  "id": 731125,
+  "titulo": "Montador de equipamentos elétricos (centrais elétricas)"
+},
+{
+  "id": 731130,
+  "titulo": "Montador de equipamentos elétricos (motores e dínamos)"
+},
+{
+  "id": 731135,
+  "titulo": "Montador de equipamentos elétricos"
+},
+{
+  "id": 731140,
+  "titulo": "Montador de equipamentos eletrônicos (instalações de sinalização)"
+},
+{
+  "id": 731145,
+  "titulo": "Montador de equipamentos eletrônicos (máquinas industriais)"
+},
+{
+  "id": 731150,
+  "titulo": "Montador de equipamentos eletrônicos"
+},
+{
+  "id": 731155,
+  "titulo": "Montador de equipamentos elétricos (elevadores e equipamentos similares)"
+},
+{
+  "id": 731160,
+  "titulo": "Montador de equipamentos elétricos (transformadores)"
+},
+{
+  "id": 731165,
+  "titulo": "Bobinador eletricista, à mão"
+},
+{
+  "id": 731170,
+  "titulo": "Bobinador eletricista, à máquina"
+},
+{
+  "id": 731175,
+  "titulo": "Operador de linha de montagem (aparelhos elétricos)"
+},
+{
+  "id": 731180,
+  "titulo": "Operador de linha de montagem (aparelhos eletrônicos)"
+},
+{
+  "id": 731205,
+  "titulo": "Montador de equipamentos eletrônicos (estação de rádio, tv e equipamentos de radar)"
+},
+{
+  "id": 731305,
+  "titulo": "Instalador-reparador de equipamentos de comutação em telefonia"
+},
+{
+  "id": 731310,
+  "titulo": "Instalador-reparador de equipamentos de energia em telefonia"
+},
+{
+  "id": 731315,
+  "titulo": "Instalador-reparador de equipamentos de transmissão em telefonia"
+},
+{
+  "id": 731320,
+  "titulo": "Instalador-reparador de linhas e aparelhos de telecomunicações"
+},
+{
+  "id": 731325,
+  "titulo": "Instalador-reparador de redes e cabos telefônicos"
+},
+{
+  "id": 731330,
+  "titulo": "Reparador de aparelhos de telecomunicações em laboratório"
+},
+{
+  "id": 732105,
+  "titulo": "Eletricista de manutenção de linhas elétricas, telefônicas e de comunicação de dados"
+},
+{
+  "id": 732110,
+  "titulo": "Emendador de cabos elétricos e telefônicos (aéreos e subterrâneos)"
+},
+{
+  "id": 732115,
+  "titulo": "Examinador de cabos, linhas elétricas e telefônicas"
+},
+{
+  "id": 732120,
+  "titulo": "Instalador de linhas elétricas de alta e baixa - tensão (rede aérea e subterrânea)"
+},
+{
+  "id": 732125,
+  "titulo": "Instalador eletricista (tração de veículos)"
+},
+{
+  "id": 732130,
+  "titulo": "Instalador-reparador de redes telefônicas e de comunicação de dados"
+},
+{
+  "id": 732135,
+  "titulo": "Ligador de linhas telefônicas"
+},
+{
+  "id": 732140,
+  "titulo": "Instalador de sistemas fotovoltaicos"
+},
+{
+  "id": 740105,
+  "titulo": "Supervisor da mecânica de precisão"
+},
+{
+  "id": 740110,
+  "titulo": "Supervisor de fabricação de instrumentos musicais"
+},
+{
+  "id": 741105,
+  "titulo": "Ajustador de instrumentos de precisão"
+},
+{
+  "id": 741110,
+  "titulo": "Montador de instrumentos de óptica"
+},
+{
+  "id": 741115,
+  "titulo": "Montador de instrumentos de precisão"
+},
+{
+  "id": 741120,
+  "titulo": "Relojoeiro (fabricação)"
+},
+{
+  "id": 741125,
+  "titulo": "Relojoeiro (reparação)"
+},
+{
+  "id": 742105,
+  "titulo": "Afinador de instrumentos musicais"
+},
+{
+  "id": 742110,
+  "titulo": "Confeccionador de acordeão"
+},
+{
+  "id": 742115,
+  "titulo": "Confeccionador de instrumentos de corda"
+},
+{
+  "id": 742120,
+  "titulo": "Confeccionador de instrumentos de percussão (pele, couro ou plástico)"
+},
+{
+  "id": 742125,
+  "titulo": "Confeccionador de instrumentos de sopro (madeira)"
+},
+{
+  "id": 742130,
+  "titulo": "Confeccionador de instrumentos de sopro (metal)"
+},
+{
+  "id": 742135,
+  "titulo": "Confeccionador de órgão"
+},
+{
+  "id": 742140,
+  "titulo": "Confeccionador de piano"
+},
+{
+  "id": 750105,
+  "titulo": "Supervisor de joalheria"
+},
+{
+  "id": 750205,
+  "titulo": "Supervisor da indústria de minerais não metálicos (exceto os derivados de petróleo e carvão)"
+},
+{
+  "id": 751005,
+  "titulo": "Engastador (jóias)"
+},
+{
+  "id": 751010,
+  "titulo": "Joalheiro"
+},
+{
+  "id": 751015,
+  "titulo": "Joalheiro (reparações)"
+},
+{
+  "id": 751020,
+  "titulo": "Lapidador (jóias)"
+},
+{
+  "id": 751105,
+  "titulo": "Bate-folha a  máquina"
+},
+{
+  "id": 751110,
+  "titulo": "Fundidor (joalheria e ourivesaria)"
+},
+{
+  "id": 751115,
+  "titulo": "Gravador (joalheria e ourivesaria)"
+},
+{
+  "id": 751120,
+  "titulo": "Laminador de metais preciosos a  mão"
+},
+{
+  "id": 751125,
+  "titulo": "Ourives"
+},
+{
+  "id": 751130,
+  "titulo": "Trefilador (joalheria e ourivesaria)"
+},
+{
+  "id": 752105,
+  "titulo": "Artesão modelador (vidros)"
+},
+{
+  "id": 752110,
+  "titulo": "Moldador (vidros)"
+},
+{
+  "id": 752115,
+  "titulo": "Soprador de vidro"
+},
+{
+  "id": 752120,
+  "titulo": "Transformador de tubos de vidro"
+},
+{
+  "id": 752205,
+  "titulo": "Aplicador serigráfico em vidros"
+},
+{
+  "id": 752210,
+  "titulo": "Cortador de vidro"
+},
+{
+  "id": 752215,
+  "titulo": "Gravador de vidro a  água-forte"
+},
+{
+  "id": 752220,
+  "titulo": "Gravador de vidro a  esmeril"
+},
+{
+  "id": 752225,
+  "titulo": "Gravador de vidro a  jato de areia"
+},
+{
+  "id": 752230,
+  "titulo": "Lapidador de vidros e cristais"
+},
+{
+  "id": 752235,
+  "titulo": "Surfassagista"
+},
+{
+  "id": 752305,
+  "titulo": "Ceramista"
+},
+{
+  "id": 752310,
+  "titulo": "Ceramista (torno de pedal e motor)"
+},
+{
+  "id": 752315,
+  "titulo": "Ceramista (torno semi-automático)"
+},
+{
+  "id": 752320,
+  "titulo": "Ceramista modelador"
+},
+{
+  "id": 752325,
+  "titulo": "Ceramista moldador"
+},
+{
+  "id": 752330,
+  "titulo": "Ceramista prensador"
+},
+{
+  "id": 752405,
+  "titulo": "Decorador de cerâmica"
+},
+{
+  "id": 752410,
+  "titulo": "Decorador de vidro"
+},
+{
+  "id": 752415,
+  "titulo": "Decorador de vidro à pincel"
+},
+{
+  "id": 752420,
+  "titulo": "Operador de esmaltadeira"
+},
+{
+  "id": 752425,
+  "titulo": "Operador de espelhamento"
+},
+{
+  "id": 752430,
+  "titulo": "Pintor de cerâmica, a  pincel"
+},
+{
+  "id": 760105,
+  "titulo": "Contramestre de acabamento (indústria têxtil)"
+},
+{
+  "id": 760110,
+  "titulo": "Contramestre de fiação (indústria têxtil)"
+},
+{
+  "id": 760115,
+  "titulo": "Contramestre de malharia (indústria têxtil)"
+},
+{
+  "id": 760120,
+  "titulo": "Contramestre de tecelagem (indústria têxtil)"
+},
+{
+  "id": 760125,
+  "titulo": "Mestre (indústria têxtil e de confecções)"
+},
+{
+  "id": 760205,
+  "titulo": "Supervisor de curtimento"
+},
+{
+  "id": 760305,
+  "titulo": "Encarregado de corte na confecção do vestuário"
+},
+{
+  "id": 760310,
+  "titulo": "Encarregado de costura na confecção do vestuário"
+},
+{
+  "id": 760405,
+  "titulo": "Supervisor  (indústria de calçados e artefatos de couro)"
+},
+{
+  "id": 760505,
+  "titulo": "Supervisor da confecção de artefatos de tecidos, couros e afins"
+},
+{
+  "id": 760605,
+  "titulo": "Supervisor das artes gráficas  (indústria editorial e gráfica)"
+},
+{
+  "id": 761005,
+  "titulo": "Operador polivalente da indústria têxtil"
+},
+{
+  "id": 761105,
+  "titulo": "Classificador de fibras têxteis"
+},
+{
+  "id": 761110,
+  "titulo": "Lavador de lã"
+},
+{
+  "id": 761205,
+  "titulo": "Operador de abertura (fiação)"
+},
+{
+  "id": 761210,
+  "titulo": "Operador de binadeira"
+},
+{
+  "id": 761215,
+  "titulo": "Operador de bobinadeira"
+},
+{
+  "id": 761220,
+  "titulo": "Operador de cardas"
+},
+{
+  "id": 761225,
+  "titulo": "Operador de conicaleira"
+},
+{
+  "id": 761230,
+  "titulo": "Operador de filatório"
+},
+{
+  "id": 761235,
+  "titulo": "Operador de laminadeira e reunideira"
+},
+{
+  "id": 761240,
+  "titulo": "Operador de maçaroqueira"
+},
+{
+  "id": 761245,
+  "titulo": "Operador de open-end"
+},
+{
+  "id": 761250,
+  "titulo": "Operador de passador (fiação)"
+},
+{
+  "id": 761255,
+  "titulo": "Operador de penteadeira"
+},
+{
+  "id": 761260,
+  "titulo": "Operador de retorcedeira"
+},
+{
+  "id": 761303,
+  "titulo": "Tecelão (redes)"
+},
+{
+  "id": 761306,
+  "titulo": "Tecelão (rendas e bordados)"
+},
+{
+  "id": 761309,
+  "titulo": "Tecelão (tear automático)"
+},
+{
+  "id": 761312,
+  "titulo": "Tecelão (tear jacquard)"
+},
+{
+  "id": 761315,
+  "titulo": "Tecelão (tear mecânico de maquineta)"
+},
+{
+  "id": 761318,
+  "titulo": "Tecelão (tear mecânico de xadrez)"
+},
+{
+  "id": 761321,
+  "titulo": "Tecelão (tear mecânico liso)"
+},
+{
+  "id": 761324,
+  "titulo": "Tecelão (tear mecânico, exceto jacquard)"
+},
+{
+  "id": 761327,
+  "titulo": "Tecelão de malhas, a  máquina"
+},
+{
+  "id": 761330,
+  "titulo": "Tecelão de malhas (máquina circular)"
+},
+{
+  "id": 761333,
+  "titulo": "Tecelão de malhas (máquina retilínea)"
+},
+{
+  "id": 761336,
+  "titulo": "Tecelão de meias, a  máquina"
+},
+{
+  "id": 761339,
+  "titulo": "Tecelão de meias (máquina circular)"
+},
+{
+  "id": 761342,
+  "titulo": "Tecelão de meias (máquina retilínea)"
+},
+{
+  "id": 761345,
+  "titulo": "Tecelão de tapetes, a  máquina"
+},
+{
+  "id": 761348,
+  "titulo": "Operador de engomadeira de urdume"
+},
+{
+  "id": 761351,
+  "titulo": "Operador de espuladeira"
+},
+{
+  "id": 761354,
+  "titulo": "Operador de máquina de cordoalha"
+},
+{
+  "id": 761357,
+  "titulo": "Operador de urdideira"
+},
+{
+  "id": 761360,
+  "titulo": "Passamaneiro a  máquina"
+},
+{
+  "id": 761363,
+  "titulo": "Remetedor de fios"
+},
+{
+  "id": 761366,
+  "titulo": "Picotador de cartões jacquard"
+},
+{
+  "id": 761405,
+  "titulo": "Alvejador (tecidos)"
+},
+{
+  "id": 761410,
+  "titulo": "Estampador de tecido"
+},
+{
+  "id": 761415,
+  "titulo": "Operador de calandras (tecidos)"
+},
+{
+  "id": 761420,
+  "titulo": "Operador de chamuscadeira de tecidos"
+},
+{
+  "id": 761425,
+  "titulo": "Operador de impermeabilizador de tecidos"
+},
+{
+  "id": 761430,
+  "titulo": "Operador de máquina de lavar fios e tecidos"
+},
+{
+  "id": 761435,
+  "titulo": "Operador de rameuse"
+},
+{
+  "id": 761805,
+  "titulo": "Inspetor de estamparia (produção têxtil)"
+},
+{
+  "id": 761810,
+  "titulo": "Revisor de fios (produção têxtil)"
+},
+{
+  "id": 761815,
+  "titulo": "Revisor de tecidos acabados"
+},
+{
+  "id": 761820,
+  "titulo": "Revisor de tecidos crus"
+},
+{
+  "id": 762005,
+  "titulo": "Trabalhador polivalente do curtimento de couros e peles"
+},
+{
+  "id": 762105,
+  "titulo": "Classificador de peles"
+},
+{
+  "id": 762110,
+  "titulo": "Descarnador de couros e peles, à maquina"
+},
+{
+  "id": 762115,
+  "titulo": "Estirador de couros e peles (preparação)"
+},
+{
+  "id": 762120,
+  "titulo": "Fuloneiro"
+},
+{
+  "id": 762125,
+  "titulo": "Rachador de couros e peles"
+},
+{
+  "id": 762205,
+  "titulo": "Curtidor (couros e peles)"
+},
+{
+  "id": 762210,
+  "titulo": "Classificador de couros"
+},
+{
+  "id": 762215,
+  "titulo": "Enxugador de couros"
+},
+{
+  "id": 762220,
+  "titulo": "Rebaixador de couros"
+},
+{
+  "id": 762305,
+  "titulo": "Estirador de couros e peles (acabamento)"
+},
+{
+  "id": 762310,
+  "titulo": "Fuloneiro no acabamento de couros e peles"
+},
+{
+  "id": 762315,
+  "titulo": "Lixador de couros e peles"
+},
+{
+  "id": 762320,
+  "titulo": "Matizador de couros e peles"
+},
+{
+  "id": 762325,
+  "titulo": "Operador de máquinas do acabamento de couros e peles"
+},
+{
+  "id": 762330,
+  "titulo": "Prensador de couros e peles"
+},
+{
+  "id": 762335,
+  "titulo": "Palecionador de couros e peles"
+},
+{
+  "id": 762340,
+  "titulo": "Preparador de couros curtidos"
+},
+{
+  "id": 762345,
+  "titulo": "Vaqueador de couros e peles"
+},
+{
+  "id": 763005,
+  "titulo": "Alfaiate"
+},
+{
+  "id": 763010,
+  "titulo": "Costureira de peças sob encomenda"
+},
+{
+  "id": 763015,
+  "titulo": "Costureira de reparação de roupas"
+},
+{
+  "id": 763020,
+  "titulo": "Costureiro de roupa de couro e pele"
+},
+{
+  "id": 763105,
+  "titulo": "Auxiliar de corte (preparação da confecção de roupas)"
+},
+{
+  "id": 763110,
+  "titulo": "Cortador de roupas"
+},
+{
+  "id": 763115,
+  "titulo": "Enfestador de roupas"
+},
+{
+  "id": 763120,
+  "titulo": "Riscador de roupas"
+},
+{
+  "id": 763125,
+  "titulo": "Ajudante de confecção"
+},
+{
+  "id": 763205,
+  "titulo": "Costureiro de roupas de couro e pele, a  máquina na  confecção em série"
+},
+{
+  "id": 763210,
+  "titulo": "Costureiro na confecção em série"
+},
+{
+  "id": 763215,
+  "titulo": "Costureiro, a  máquina  na confecção em série"
+},
+{
+  "id": 763305,
+  "titulo": "Arrematadeira"
+},
+{
+  "id": 763310,
+  "titulo": "Bordador, à máquina"
+},
+{
+  "id": 763315,
+  "titulo": "Marcador de peças confeccionadas para bordar"
+},
+{
+  "id": 763320,
+  "titulo": "Operador de máquina de costura de acabamento"
+},
+{
+  "id": 763325,
+  "titulo": "Passadeira de peças confeccionadas"
+},
+{
+  "id": 764005,
+  "titulo": "Trabalhador polivalente da confecção de calçados"
+},
+{
+  "id": 764105,
+  "titulo": "Cortador de calçados, a  máquina (exceto solas e palmilhas)"
+},
+{
+  "id": 764110,
+  "titulo": "Cortador de solas e palmilhas, a  máquina"
+},
+{
+  "id": 764115,
+  "titulo": "Preparador de calçados"
+},
+{
+  "id": 764120,
+  "titulo": "Preparador de solas e palmilhas"
+},
+{
+  "id": 764205,
+  "titulo": "Costurador de calçados, a  máquina"
+},
+{
+  "id": 764210,
+  "titulo": "Montador de calçados"
+},
+{
+  "id": 764305,
+  "titulo": "Acabador de calçados"
+},
+{
+  "id": 765005,
+  "titulo": "Confeccionador de artefatos de couro (exceto sapatos)"
+},
+{
+  "id": 765010,
+  "titulo": "Chapeleiro de senhoras"
+},
+{
+  "id": 765015,
+  "titulo": "Boneleiro"
+},
+{
+  "id": 765105,
+  "titulo": "Cortador de artefatos de couro (exceto roupas e calçados)"
+},
+{
+  "id": 765110,
+  "titulo": "Cortador de tapeçaria"
+},
+{
+  "id": 765205,
+  "titulo": "Colchoeiro (confecção de colchões)"
+},
+{
+  "id": 765215,
+  "titulo": "Confeccionador de brinquedos de pano"
+},
+{
+  "id": 765225,
+  "titulo": "Confeccionador de velas náuticas, barracas e toldos"
+},
+{
+  "id": 765230,
+  "titulo": "Estofador de aviões"
+},
+{
+  "id": 765235,
+  "titulo": "Estofador de móveis"
+},
+{
+  "id": 765240,
+  "titulo": "Tapeceiro de autos"
+},
+{
+  "id": 765310,
+  "titulo": "Costurador de artefatos de couro, a  máquina (exceto roupas e calçados)"
+},
+{
+  "id": 765315,
+  "titulo": "Montador de artefatos de couro (exceto roupas e calçados)"
+},
+{
+  "id": 765405,
+  "titulo": "Trabalhador do acabamento de artefatos de tecidos e couros"
+},
+{
+  "id": 766105,
+  "titulo": "Copiador de chapa"
+},
+{
+  "id": 766115,
+  "titulo": "Gravador de matriz para flexografia (clicherista)"
+},
+{
+  "id": 766120,
+  "titulo": "Editor de texto e imagem"
+},
+{
+  "id": 766125,
+  "titulo": "Montador de fotolito (analógico e digital)"
+},
+{
+  "id": 766130,
+  "titulo": "Gravador de matriz para rotogravura (eletromecânico e químico)"
+},
+{
+  "id": 766135,
+  "titulo": "Gravador de matriz calcográfica"
+},
+{
+  "id": 766140,
+  "titulo": "Gravador de matriz serigráfica"
+},
+{
+  "id": 766145,
+  "titulo": "Operador de sistemas de prova (analógico e digital)"
+},
+{
+  "id": 766150,
+  "titulo": "Operador de processo de tratamento de imagem"
+},
+{
+  "id": 766155,
+  "titulo": "Programador visual gráfico"
+},
+{
+  "id": 766205,
+  "titulo": "Impressor (serigrafia)"
+},
+{
+  "id": 766210,
+  "titulo": "Impressor calcográfico"
+},
+{
+  "id": 766215,
+  "titulo": "Impressor de ofsete (plano e rotativo)"
+},
+{
+  "id": 766220,
+  "titulo": "Impressor de rotativa"
+},
+{
+  "id": 766225,
+  "titulo": "Impressor de rotogravura"
+},
+{
+  "id": 766230,
+  "titulo": "Impressor digital"
+},
+{
+  "id": 766235,
+  "titulo": "Impressor flexográfico"
+},
+{
+  "id": 766240,
+  "titulo": "Impressor letterset"
+},
+{
+  "id": 766245,
+  "titulo": "Impressor tampográfico"
+},
+{
+  "id": 766250,
+  "titulo": "Impressor tipográfico"
+},
+{
+  "id": 766305,
+  "titulo": "Acabador de embalagens (flexíveis e cartotécnicas)"
+},
+{
+  "id": 766310,
+  "titulo": "Impressor de corte e vinco"
+},
+{
+  "id": 766315,
+  "titulo": "Operador de acabamento (indústria gráfica)"
+},
+{
+  "id": 766320,
+  "titulo": "Operador de guilhotina (corte de papel)"
+},
+{
+  "id": 766325,
+  "titulo": "Preparador de matrizes de corte e vinco"
+},
+{
+  "id": 766405,
+  "titulo": "Laboratorista fotográfico"
+},
+{
+  "id": 766410,
+  "titulo": "Revelador de filmes fotográficos, em preto e branco"
+},
+{
+  "id": 766415,
+  "titulo": "Revelador de filmes fotográficos, em cores"
+},
+{
+  "id": 766420,
+  "titulo": "Auxiliar de radiologia (revelação fotográfica)"
+},
+{
+  "id": 768105,
+  "titulo": "Tecelão (tear manual)"
+},
+{
+  "id": 768110,
+  "titulo": "Tecelão de tapetes, a  mão"
+},
+{
+  "id": 768115,
+  "titulo": "Tricoteiro, à mão"
+},
+{
+  "id": 768120,
+  "titulo": "Redeiro"
+},
+{
+  "id": 768125,
+  "titulo": "Chapeleiro (chapéus de palha)"
+},
+{
+  "id": 768130,
+  "titulo": "Crocheteiro, a  mão"
+},
+{
+  "id": 768205,
+  "titulo": "Bordador, a  mão"
+},
+{
+  "id": 768210,
+  "titulo": "Cerzidor"
+},
+{
+  "id": 768305,
+  "titulo": "Artífice do couro"
+},
+{
+  "id": 768310,
+  "titulo": "Cortador de calçados, a  mão (exceto solas)"
+},
+{
+  "id": 768315,
+  "titulo": "Costurador de artefatos de couro, a  mão (exceto roupas e calçados)"
+},
+{
+  "id": 768320,
+  "titulo": "Sapateiro (calçados sob medida)"
+},
+{
+  "id": 768325,
+  "titulo": "Seleiro"
+},
+{
+  "id": 768605,
+  "titulo": "Tipógrafo"
+},
+{
+  "id": 768610,
+  "titulo": "Linotipista"
+},
+{
+  "id": 768615,
+  "titulo": "Monotipista"
+},
+{
+  "id": 768620,
+  "titulo": "Paginador"
+},
+{
+  "id": 768625,
+  "titulo": "Pintor de letreiros"
+},
+{
+  "id": 768630,
+  "titulo": "Confeccionador de carimbos de borracha"
+},
+{
+  "id": 768705,
+  "titulo": "Gravador, à mão (encadernação)"
+},
+{
+  "id": 768710,
+  "titulo": "Restaurador de livros"
+},
+{
+  "id": 770105,
+  "titulo": "Mestre (indústria de madeira e mobiliário)"
+},
+{
+  "id": 770110,
+  "titulo": "Mestre carpinteiro"
+},
+{
+  "id": 771105,
+  "titulo": "Marceneiro"
+},
+{
+  "id": 771110,
+  "titulo": "Modelador de madeira"
+},
+{
+  "id": 771115,
+  "titulo": "Maquetista na marcenaria"
+},
+{
+  "id": 771120,
+  "titulo": "Tanoeiro"
+},
+{
+  "id": 772105,
+  "titulo": "Classificador de madeira"
+},
+{
+  "id": 772110,
+  "titulo": "Impregnador de madeira"
+},
+{
+  "id": 772115,
+  "titulo": "Secador de madeira"
+},
+{
+  "id": 773105,
+  "titulo": "Cortador de laminados de madeira"
+},
+{
+  "id": 773110,
+  "titulo": "Operador de serras no desdobramento de madeira"
+},
+{
+  "id": 773115,
+  "titulo": "Serrador de bordas no desdobramento de madeira"
+},
+{
+  "id": 773120,
+  "titulo": "Serrador de madeira"
+},
+{
+  "id": 773125,
+  "titulo": "Serrador de madeira (serra circular múltipla)"
+},
+{
+  "id": 773130,
+  "titulo": "Serrador de madeira (serra de fita múltipla)"
+},
+{
+  "id": 773205,
+  "titulo": "Operador de máquina intercaladora de placas (compensados)"
+},
+{
+  "id": 773210,
+  "titulo": "Prensista de aglomerados"
+},
+{
+  "id": 773215,
+  "titulo": "Prensista de compensados"
+},
+{
+  "id": 773220,
+  "titulo": "Preparador de aglomerantes"
+},
+{
+  "id": 773305,
+  "titulo": "Operador de desempenadeira na usinagem convencional de madeira"
+},
+{
+  "id": 773310,
+  "titulo": "Operador de entalhadeira (usinagem de madeira)"
+},
+{
+  "id": 773315,
+  "titulo": "Operador de fresadora (usinagem de madeira)"
+},
+{
+  "id": 773320,
+  "titulo": "Operador de lixadeira (usinagem de madeira)"
+},
+{
+  "id": 773325,
+  "titulo": "Operador de máquina de usinagem madeira, em geral"
+},
+{
+  "id": 773330,
+  "titulo": "Operador de molduradora (usinagem de madeira)"
+},
+{
+  "id": 773335,
+  "titulo": "Operador de plaina desengrossadeira"
+},
+{
+  "id": 773340,
+  "titulo": "Operador de serras (usinagem de madeira)"
+},
+{
+  "id": 773345,
+  "titulo": "Operador de torno automático (usinagem de madeira)"
+},
+{
+  "id": 773350,
+  "titulo": "Operador de tupia (usinagem de madeira)"
+},
+{
+  "id": 773355,
+  "titulo": "Torneiro na usinagem convencional de madeira"
+},
+{
+  "id": 773405,
+  "titulo": "Operador de máquina bordatriz"
+},
+{
+  "id": 773410,
+  "titulo": "Operador de máquina de cortina d´água (produção de móveis)"
+},
+{
+  "id": 773415,
+  "titulo": "Operador de máquina de usinagem de madeira (produção em série)"
+},
+{
+  "id": 773420,
+  "titulo": "Operador de prensa de alta freqüência na usinagem de madeira"
+},
+{
+  "id": 773505,
+  "titulo": "Operador de centro de usinagem de madeira (cnc)"
+},
+{
+  "id": 773510,
+  "titulo": "Operador de máquinas de usinar madeira (cnc)"
+},
+{
+  "id": 774105,
+  "titulo": "Montador de móveis e artefatos de madeira"
+},
+{
+  "id": 775105,
+  "titulo": "Entalhador  de madeira"
+},
+{
+  "id": 775110,
+  "titulo": "Folheador de móveis de madeira"
+},
+{
+  "id": 775115,
+  "titulo": "Lustrador de peças de madeira"
+},
+{
+  "id": 775120,
+  "titulo": "Marcheteiro"
+},
+{
+  "id": 776405,
+  "titulo": "Cesteiro"
+},
+{
+  "id": 776410,
+  "titulo": "Confeccionador de escovas, pincéis e produtos similares (a mão)"
+},
+{
+  "id": 776415,
+  "titulo": "Confeccionador de escovas, pincéis e produtos similares (a máquina)"
+},
+{
+  "id": 776420,
+  "titulo": "Confeccionador de móveis de vime, junco e bambu"
+},
+{
+  "id": 776425,
+  "titulo": "Esteireiro"
+},
+{
+  "id": 776430,
+  "titulo": "Vassoureiro"
+},
+{
+  "id": 777105,
+  "titulo": "Carpinteiro naval (construção de pequenas embarcações)"
+},
+{
+  "id": 777110,
+  "titulo": "Carpinteiro naval (embarcações)"
+},
+{
+  "id": 777115,
+  "titulo": "Carpinteiro naval (estaleiros)"
+},
+{
+  "id": 777205,
+  "titulo": "Carpinteiro de carretas"
+},
+{
+  "id": 777210,
+  "titulo": "Carpinteiro de carrocerias"
+},
+{
+  "id": 780105,
+  "titulo": "Supervisor de embalagem e etiquetagem"
+},
+{
+  "id": 781105,
+  "titulo": "Condutor de processos robotizados de pintura"
+},
+{
+  "id": 781110,
+  "titulo": "Condutor de processos robotizados de soldagem"
+},
+{
+  "id": 781305,
+  "titulo": "Operador de veículos subaquáticos controlados remotamente"
+},
+{
+  "id": 781310,
+  "titulo": "Operador de aeronaves não tripuladas"
+},
+{
+  "id": 781705,
+  "titulo": "Mergulhador profissional (raso e profundo)"
+},
+{
+  "id": 782105,
+  "titulo": "Operador de draga"
+},
+{
+  "id": 782110,
+  "titulo": "Operador de guindaste (fixo)"
+},
+{
+  "id": 782115,
+  "titulo": "Operador de guindaste móvel"
+},
+{
+  "id": 782120,
+  "titulo": "Operador de máquina rodoferroviária"
+},
+{
+  "id": 782125,
+  "titulo": "Operador de monta-cargas (construção civil)"
+},
+{
+  "id": 782130,
+  "titulo": "Operador de ponte rolante"
+},
+{
+  "id": 782135,
+  "titulo": "Operador de pórtico rolante"
+},
+{
+  "id": 782140,
+  "titulo": "Operador de talha elétrica"
+},
+{
+  "id": 782145,
+  "titulo": "Sinaleiro (ponte-rolante)"
+},
+{
+  "id": 782205,
+  "titulo": "Guincheiro (construção civil)"
+},
+{
+  "id": 782210,
+  "titulo": "Operador de docagem"
+},
+{
+  "id": 782220,
+  "titulo": "Operador de empilhadeira"
+},
+{
+  "id": 782305,
+  "titulo": "Motorista de carro de passeio"
+},
+{
+  "id": 782310,
+  "titulo": "Motorista de furgão ou veículo similar"
+},
+{
+  "id": 782315,
+  "titulo": "Motorista de táxi"
+},
+{
+  "id": 782320,
+  "titulo": "Condutor de ambulância"
+},
+{
+  "id": 782405,
+  "titulo": "Motorista de ônibus rodoviário"
+},
+{
+  "id": 782410,
+  "titulo": "Motorista de ônibus urbano"
+},
+{
+  "id": 782415,
+  "titulo": "Motorista de trólebus"
+},
+{
+  "id": 782505,
+  "titulo": "Caminhoneiro autônomo (rotas regionais e internacionais)"
+},
+{
+  "id": 782510,
+  "titulo": "Motorista de caminhão (rotas regionais e internacionais)"
+},
+{
+  "id": 782515,
+  "titulo": "Motorista operacional de guincho"
+},
+{
+  "id": 782605,
+  "titulo": "Operador de trem de metrô"
+},
+{
+  "id": 782610,
+  "titulo": "Maquinista de trem"
+},
+{
+  "id": 782615,
+  "titulo": "Maquinista de trem metropolitano"
+},
+{
+  "id": 782620,
+  "titulo": "Motorneiro"
+},
+{
+  "id": 782625,
+  "titulo": "Auxiliar de maquinista de trem"
+},
+{
+  "id": 782630,
+  "titulo": "Operador de teleférico (passageiros)"
+},
+{
+  "id": 782705,
+  "titulo": "Marinheiro de convés (marítimo e fluviário)"
+},
+{
+  "id": 782710,
+  "titulo": "Marinheiro de máquinas"
+},
+{
+  "id": 782715,
+  "titulo": "Moço de convés (marítimo e fluviário)"
+},
+{
+  "id": 782720,
+  "titulo": "Moço de máquinas (marítimo e fluviário)"
+},
+{
+  "id": 782725,
+  "titulo": "Marinheiro de esporte e recreio"
+},
+{
+  "id": 782730,
+  "titulo": "Marinheiro auxiliar de convés (marítimo e aquaviario)"
+},
+{
+  "id": 782735,
+  "titulo": "Marinheiro auxiliar de máquinas (marítimo e aquaviário)"
+},
+{
+  "id": 782805,
+  "titulo": "Condutor de veículos de tração animal (ruas e estradas)"
+},
+{
+  "id": 782810,
+  "titulo": "Tropeiro"
+},
+{
+  "id": 782815,
+  "titulo": "Boiadeiro"
+},
+{
+  "id": 782820,
+  "titulo": "Condutor de veículos a pedais"
+},
+{
+  "id": 783105,
+  "titulo": "Agente de pátio"
+},
+{
+  "id": 783110,
+  "titulo": "Manobrador"
+},
+{
+  "id": 783205,
+  "titulo": "Carregador (aeronaves)"
+},
+{
+  "id": 783210,
+  "titulo": "Carregador (armazém)"
+},
+{
+  "id": 783215,
+  "titulo": "Carregador (veículos de transportes terrestres)"
+},
+{
+  "id": 783220,
+  "titulo": "Estivador"
+},
+{
+  "id": 783225,
+  "titulo": "Ajudante de motorista"
+},
+{
+  "id": 783230,
+  "titulo": "Bloqueiro (trabalhador portuário)"
+},
+{
+  "id": 783235,
+  "titulo": "Trabalhador portuário de capatazia"
+},
+{
+  "id": 783240,
+  "titulo": "Amarrador e desamarrado de embarcações"
+},
+{
+  "id": 784105,
+  "titulo": "Embalador, a mão"
+},
+{
+  "id": 784110,
+  "titulo": "Embalador, a máquina"
+},
+{
+  "id": 784115,
+  "titulo": "Operador de máquina de etiquetar"
+},
+{
+  "id": 784120,
+  "titulo": "Operador de máquina de envasar líquidos"
+},
+{
+  "id": 784125,
+  "titulo": "Operador de prensa de enfardamento"
+},
+{
+  "id": 784205,
+  "titulo": "Alimentador de linha de produção"
+},
+{
+  "id": 791105,
+  "titulo": "Artesão bordador"
+},
+{
+  "id": 791110,
+  "titulo": "Artesão ceramista"
+},
+{
+  "id": 791115,
+  "titulo": "Artesão com material reciclável"
+},
+{
+  "id": 791120,
+  "titulo": "Artesão confeccionador de biojóias e ecojóias"
+},
+{
+  "id": 791125,
+  "titulo": "Artesão do couro"
+},
+{
+  "id": 791130,
+  "titulo": "Artesão escultor"
+},
+{
+  "id": 791135,
+  "titulo": "Artesão moveleiro (exceto reciclado)"
+},
+{
+  "id": 791140,
+  "titulo": "Artesão tecelão"
+},
+{
+  "id": 791145,
+  "titulo": "Artesão trançador"
+},
+{
+  "id": 791150,
+  "titulo": "Artesão crocheteiro"
+},
+{
+  "id": 791155,
+  "titulo": "Artesão tricoteiro"
+},
+{
+  "id": 791160,
+  "titulo": "Artesão rendeiro"
+},
+{
+  "id": 810105,
+  "titulo": "Mestre (indústria petroquímica e carboquímica)"
+},
+{
+  "id": 810110,
+  "titulo": "Mestre de produção química"
+},
+{
+  "id": 810205,
+  "titulo": "Mestre (indústria de borracha e plástico)"
+},
+{
+  "id": 810305,
+  "titulo": "Mestre de produção farmacêutica"
+},
+{
+  "id": 811005,
+  "titulo": "Operador de processos químicos e petroquímicos"
+},
+{
+  "id": 811010,
+  "titulo": "Operador de sala de controle de instalações químicas, petroquímicas e afins"
+},
+{
+  "id": 811105,
+  "titulo": "Moleiro (tratamentos químicos e afins)"
+},
+{
+  "id": 811110,
+  "titulo": "Operador de máquina misturadeira (tratamentos químicos e afins)"
+},
+{
+  "id": 811115,
+  "titulo": "Operador de britadeira (tratamentos químicos e afins)"
+},
+{
+  "id": 811120,
+  "titulo": "Operador de concentração"
+},
+{
+  "id": 811125,
+  "titulo": "Trabalhador da fabricação de resinas e vernizes"
+},
+{
+  "id": 811130,
+  "titulo": "Trabalhador de fabricação de tintas"
+},
+{
+  "id": 811205,
+  "titulo": "Operador de calcinação (tratamento químico e afins)"
+},
+{
+  "id": 811215,
+  "titulo": "Operador de tratamento químico de materiais radioativos"
+},
+{
+  "id": 811305,
+  "titulo": "Operador de centrifugadora (tratamentos químicos e afins)"
+},
+{
+  "id": 811310,
+  "titulo": "Operador de exploração de petróleo"
+},
+{
+  "id": 811315,
+  "titulo": "Operador de filtro de secagem (mineração)"
+},
+{
+  "id": 811320,
+  "titulo": "Operador de filtro de tambor rotativo (tratamentos químicos e afins)"
+},
+{
+  "id": 811325,
+  "titulo": "Operador de filtro-esteira (mineração)"
+},
+{
+  "id": 811330,
+  "titulo": "Operador de filtro-prensa (tratamentos químicos e afins)"
+},
+{
+  "id": 811335,
+  "titulo": "Operador de filtros de parafina (tratamentos químicos e afins)"
+},
+{
+  "id": 811405,
+  "titulo": "Destilador de madeira"
+},
+{
+  "id": 811410,
+  "titulo": "Destilador de produtos químicos (exceto petróleo)"
+},
+{
+  "id": 811415,
+  "titulo": "Operador de alambique de funcionamento contínuo (produtos químicos, exceto petróleo)"
+},
+{
+  "id": 811420,
+  "titulo": "Operador de aparelho de reação e conversão (produtos químicos, exceto petróleo)"
+},
+{
+  "id": 811425,
+  "titulo": "Operador de equipamento de destilação de álcool"
+},
+{
+  "id": 811430,
+  "titulo": "Operador de evaporador na destilação"
+},
+{
+  "id": 811505,
+  "titulo": "Operador de painel de controle (refinação de petróleo)"
+},
+{
+  "id": 811510,
+  "titulo": "Operador de transferência e estocagem - na refinação do petróleo"
+},
+{
+  "id": 811605,
+  "titulo": "Operador de britador de coque"
+},
+{
+  "id": 811610,
+  "titulo": "Operador de carro de apagamento e coque"
+},
+{
+  "id": 811615,
+  "titulo": "Operador de destilação e subprodutos de coque"
+},
+{
+  "id": 811620,
+  "titulo": "Operador de enfornamento e desenfornamento de coque"
+},
+{
+  "id": 811625,
+  "titulo": "Operador de exaustor (coqueria)"
+},
+{
+  "id": 811630,
+  "titulo": "Operador de painel de controle"
+},
+{
+  "id": 811635,
+  "titulo": "Operador de preservação e controle térmico"
+},
+{
+  "id": 811640,
+  "titulo": "Operador de reator de coque de petróleo"
+},
+{
+  "id": 811645,
+  "titulo": "Operador de refrigeração (coqueria)"
+},
+{
+  "id": 811650,
+  "titulo": "Operador de sistema de reversão (coqueria)"
+},
+{
+  "id": 811705,
+  "titulo": "Bamburista"
+},
+{
+  "id": 811710,
+  "titulo": "Calandrista de borracha"
+},
+{
+  "id": 811715,
+  "titulo": "Confeccionador de pneumáticos"
+},
+{
+  "id": 811725,
+  "titulo": "Confeccionador de velas por imersão"
+},
+{
+  "id": 811735,
+  "titulo": "Confeccionador de velas por moldagem"
+},
+{
+  "id": 811745,
+  "titulo": "Laminador de plástico"
+},
+{
+  "id": 811750,
+  "titulo": "Moldador de borracha por compressão"
+},
+{
+  "id": 811760,
+  "titulo": "Moldador de plástico por compressão"
+},
+{
+  "id": 811770,
+  "titulo": "Moldador de plástico por injeção"
+},
+{
+  "id": 811775,
+  "titulo": "Trefilador de borracha"
+},
+{
+  "id": 811805,
+  "titulo": "Operador de máquina de produtos farmacêuticos"
+},
+{
+  "id": 811810,
+  "titulo": "Drageador (medicamentos)"
+},
+{
+  "id": 811815,
+  "titulo": "Operador de máquina de fabricação de cosméticos"
+},
+{
+  "id": 811820,
+  "titulo": "Operador de máquina de fabricação de produtos de higiene e limpeza (sabão, sabonete, detergente, absorvente, fraldas cotonetes e outros)"
+},
+{
+  "id": 812105,
+  "titulo": "Pirotécnico"
+},
+{
+  "id": 812110,
+  "titulo": "Trabalhador da fabricação de munição e explosivos"
+},
+{
+  "id": 813105,
+  "titulo": "Cilindrista (petroquímica e afins)"
+},
+{
+  "id": 813110,
+  "titulo": "Operador de calandra (química, petroquímica e afins)"
+},
+{
+  "id": 813115,
+  "titulo": "Operador de extrusora (química, petroquímica e afins)"
+},
+{
+  "id": 813120,
+  "titulo": "Operador de processo (química, petroquímica e afins)"
+},
+{
+  "id": 813125,
+  "titulo": "Operador de produção (química, petroquímica e afins)"
+},
+{
+  "id": 813130,
+  "titulo": "Técnico de operação (química, petroquímica e afins)"
+},
+{
+  "id": 818105,
+  "titulo": "Assistente de laboratório industrial"
+},
+{
+  "id": 818110,
+  "titulo": "Auxiliar de laboratório de análises físico-químicas"
+},
+{
+  "id": 820105,
+  "titulo": "Mestre de siderurgia"
+},
+{
+  "id": 820110,
+  "titulo": "Mestre de aciaria"
+},
+{
+  "id": 820115,
+  "titulo": "Mestre de alto-forno"
+},
+{
+  "id": 820120,
+  "titulo": "Mestre de forno elétrico"
+},
+{
+  "id": 820125,
+  "titulo": "Mestre de laminação"
+},
+{
+  "id": 820205,
+  "titulo": "Supervisor de fabricação de produtos cerâmicos, porcelanatos e afins"
+},
+{
+  "id": 820210,
+  "titulo": "Supervisor de fabricação de produtos de vidro"
+},
+{
+  "id": 821105,
+  "titulo": "Operador de centro de controle ( sinterização)"
+},
+{
+  "id": 821110,
+  "titulo": "Operador de máquina de sinterizar"
+},
+{
+  "id": 821205,
+  "titulo": "Forneiro e operador (alto-forno)"
+},
+{
+  "id": 821210,
+  "titulo": "Forneiro e operador (conversor a oxigênio)"
+},
+{
+  "id": 821215,
+  "titulo": "Forneiro e operador (forno elétrico)"
+},
+{
+  "id": 821220,
+  "titulo": "Forneiro e operador (refino de metais não-ferrosos)"
+},
+{
+  "id": 821225,
+  "titulo": "Forneiro e operador de forno de redução direta"
+},
+{
+  "id": 821230,
+  "titulo": "Operador de aciaria (basculamento de convertedor)"
+},
+{
+  "id": 821235,
+  "titulo": "Operador de aciaria (dessulfuração de gusa)"
+},
+{
+  "id": 821240,
+  "titulo": "Operador de aciaria (recebimento de gusa)"
+},
+{
+  "id": 821245,
+  "titulo": "Operador de área de corrida"
+},
+{
+  "id": 821250,
+  "titulo": "Operador de desgaseificação"
+},
+{
+  "id": 821255,
+  "titulo": "Soprador de convertedor"
+},
+{
+  "id": 821305,
+  "titulo": "Operador de laminador"
+},
+{
+  "id": 821310,
+  "titulo": "Operador de laminador de barras a frio"
+},
+{
+  "id": 821315,
+  "titulo": "Operador de laminador de barras a quente"
+},
+{
+  "id": 821320,
+  "titulo": "Operador de laminador de metais não-ferrosos"
+},
+{
+  "id": 821325,
+  "titulo": "Operador de laminador de tubos"
+},
+{
+  "id": 821330,
+  "titulo": "Operador de montagem de cilindros e mancais"
+},
+{
+  "id": 821335,
+  "titulo": "Recuperador de guias e cilindros"
+},
+{
+  "id": 821405,
+  "titulo": "Encarregado de acabamento de chapas e metais  (têmpera)"
+},
+{
+  "id": 821410,
+  "titulo": "Escarfador"
+},
+{
+  "id": 821415,
+  "titulo": "Marcador de produtos (siderúrgico e metalúrgico)"
+},
+{
+  "id": 821420,
+  "titulo": "Operador de bobinadeira de tiras a quente, no acabamento de chapas e metais"
+},
+{
+  "id": 821425,
+  "titulo": "Operador de cabine de laminação (fio-máquina)"
+},
+{
+  "id": 821430,
+  "titulo": "Operador de escória e sucata"
+},
+{
+  "id": 821435,
+  "titulo": "Operador de jato abrasivo"
+},
+{
+  "id": 821440,
+  "titulo": "Operador de tesoura mecânica e máquina de corte, no acabamento de chapas e metais"
+},
+{
+  "id": 821445,
+  "titulo": "Preparador de sucata e aparas"
+},
+{
+  "id": 821450,
+  "titulo": "Rebarbador de metal"
+},
+{
+  "id": 822105,
+  "titulo": "Forneiro de cubilô"
+},
+{
+  "id": 822110,
+  "titulo": "Forneiro de forno-poço"
+},
+{
+  "id": 822115,
+  "titulo": "Forneiro de fundição (forno de redução)"
+},
+{
+  "id": 822120,
+  "titulo": "Forneiro de reaquecimento e tratamento térmico na metalurgia"
+},
+{
+  "id": 822125,
+  "titulo": "Forneiro de revérbero"
+},
+{
+  "id": 823105,
+  "titulo": "Preparador de massa (fabricação de abrasivos)"
+},
+{
+  "id": 823110,
+  "titulo": "Preparador de massa (fabricação de vidro)"
+},
+{
+  "id": 823115,
+  "titulo": "Preparador de massa de argila"
+},
+{
+  "id": 823120,
+  "titulo": "Preparador de barbotina"
+},
+{
+  "id": 823125,
+  "titulo": "Preparador de esmaltes (cerâmica)"
+},
+{
+  "id": 823130,
+  "titulo": "Preparador de aditivos"
+},
+{
+  "id": 823135,
+  "titulo": "Operador de atomizador"
+},
+{
+  "id": 823210,
+  "titulo": "Extrusor de fios ou fibras de vidro"
+},
+{
+  "id": 823215,
+  "titulo": "Forneiro na fundição de vidro"
+},
+{
+  "id": 823220,
+  "titulo": "Forneiro no recozimento de vidro"
+},
+{
+  "id": 823230,
+  "titulo": "Moldador de abrasivos na fabricação de cerâmica, vidro e porcelana"
+},
+{
+  "id": 823235,
+  "titulo": "Operador de banho metálico de vidro por flutuação"
+},
+{
+  "id": 823240,
+  "titulo": "Operador de máquina de soprar vidro"
+},
+{
+  "id": 823245,
+  "titulo": "Operador de máquina extrusora de varetas e tubos de vidro"
+},
+{
+  "id": 823250,
+  "titulo": "Operador de prensa de moldar vidro"
+},
+{
+  "id": 823255,
+  "titulo": "Temperador de vidro"
+},
+{
+  "id": 823265,
+  "titulo": "Trabalhador na fabricação de produtos abrasivos"
+},
+{
+  "id": 823305,
+  "titulo": "Classificador e empilhador de tijolos refratários"
+},
+{
+  "id": 823315,
+  "titulo": "Forneiro (materiais de construção)"
+},
+{
+  "id": 823320,
+  "titulo": "Trabalhador da elaboração de pré-fabricados (cimento amianto)"
+},
+{
+  "id": 823325,
+  "titulo": "Trabalhador da elaboração de pré-fabricados (concreto armado)"
+},
+{
+  "id": 823330,
+  "titulo": "Trabalhador da fabricação de pedras artificiais"
+},
+{
+  "id": 828105,
+  "titulo": "Oleiro (fabricação de telhas)"
+},
+{
+  "id": 828110,
+  "titulo": "Oleiro (fabricação de tijolos)"
+},
+{
+  "id": 830105,
+  "titulo": "Mestre (indústria de celulose, papel e papelão)"
+},
+{
+  "id": 831105,
+  "titulo": "Cilindreiro na preparação de pasta para fabricação de papel"
+},
+{
+  "id": 831110,
+  "titulo": "Operador de branqueador de pasta para fabricação de papel"
+},
+{
+  "id": 831115,
+  "titulo": "Operador de digestor de pasta para fabricação de papel"
+},
+{
+  "id": 831120,
+  "titulo": "Operador de lavagem e depuração de pasta para fabricação de papel"
+},
+{
+  "id": 831125,
+  "titulo": "Operador de máquina de secar celulose"
+},
+{
+  "id": 832105,
+  "titulo": "Calandrista de papel"
+},
+{
+  "id": 832110,
+  "titulo": "Operador de cortadeira de papel"
+},
+{
+  "id": 832115,
+  "titulo": "Operador de máquina de fabricar papel  (fase úmida)"
+},
+{
+  "id": 832120,
+  "titulo": "Operador de máquina de fabricar papel (fase seca)"
+},
+{
+  "id": 832125,
+  "titulo": "Operador de máquina de fabricar papel e papelão"
+},
+{
+  "id": 832135,
+  "titulo": "Operador de rebobinadeira na fabricação de papel e papelão"
+},
+{
+  "id": 833105,
+  "titulo": "Cartonageiro, a máquina"
+},
+{
+  "id": 833110,
+  "titulo": "Confeccionador de bolsas, sacos e sacolas e papel, a máquina"
+},
+{
+  "id": 833115,
+  "titulo": "Confeccionador de sacos de celofane, a máquina"
+},
+{
+  "id": 833120,
+  "titulo": "Operador de máquina de cortar e dobrar papelão"
+},
+{
+  "id": 833125,
+  "titulo": "Operador de prensa de embutir papelão"
+},
+{
+  "id": 833205,
+  "titulo": "Cartonageiro, a mão (caixas de papelão)"
+},
+{
+  "id": 840105,
+  "titulo": "Supervisor de produção da indústria alimentícia"
+},
+{
+  "id": 840110,
+  "titulo": "Supervisor da indústria de bebidas"
+},
+{
+  "id": 840115,
+  "titulo": "Supervisor da indústria de fumo"
+},
+{
+  "id": 840120,
+  "titulo": "Chefe de confeitaria"
+},
+{
+  "id": 841105,
+  "titulo": "Moleiro de cereais (exceto arroz)"
+},
+{
+  "id": 841110,
+  "titulo": "Moleiro de especiarias"
+},
+{
+  "id": 841115,
+  "titulo": "Operador de processo de moagem"
+},
+{
+  "id": 841205,
+  "titulo": "Moedor de sal"
+},
+{
+  "id": 841210,
+  "titulo": "Refinador de sal"
+},
+{
+  "id": 841305,
+  "titulo": "Operador de cristalização na refinação de açucar"
+},
+{
+  "id": 841310,
+  "titulo": "Operador de equipamentos de refinação de açúcar (processo contínuo)"
+},
+{
+  "id": 841315,
+  "titulo": "Operador de moenda na fabricação de açúcar"
+},
+{
+  "id": 841320,
+  "titulo": "Operador de tratamento de calda na refinação de açúcar"
+},
+{
+  "id": 841408,
+  "titulo": "Cozinhador (conservação de alimentos)"
+},
+{
+  "id": 841416,
+  "titulo": "Cozinhador de carnes"
+},
+{
+  "id": 841420,
+  "titulo": "Cozinhador de frutas e legumes"
+},
+{
+  "id": 841428,
+  "titulo": "Cozinhador de pescado"
+},
+{
+  "id": 841432,
+  "titulo": "Desidratador de alimentos"
+},
+{
+  "id": 841440,
+  "titulo": "Esterilizador de alimentos"
+},
+{
+  "id": 841444,
+  "titulo": "Hidrogenador de óleos e gorduras"
+},
+{
+  "id": 841448,
+  "titulo": "Lagareiro"
+},
+{
+  "id": 841456,
+  "titulo": "Operador de câmaras frias"
+},
+{
+  "id": 841460,
+  "titulo": "Operador de preparação de grãos vegetais (óleos e gorduras)"
+},
+{
+  "id": 841464,
+  "titulo": "Prensador de frutas (exceto oleaginosas)"
+},
+{
+  "id": 841468,
+  "titulo": "Preparador de rações"
+},
+{
+  "id": 841472,
+  "titulo": "Refinador de óleo e gordura"
+},
+{
+  "id": 841476,
+  "titulo": "Trabalhador de fabricação de margarina"
+},
+{
+  "id": 841484,
+  "titulo": "Trabalhador de preparação de pescados (limpeza)"
+},
+{
+  "id": 841505,
+  "titulo": "Trabalhador de tratamento do leite e fabricação de laticínios e afins"
+},
+{
+  "id": 841605,
+  "titulo": "Misturador de café"
+},
+{
+  "id": 841610,
+  "titulo": "Torrador de café"
+},
+{
+  "id": 841615,
+  "titulo": "Moedor de café"
+},
+{
+  "id": 841620,
+  "titulo": "Operador de extração de café solúvel"
+},
+{
+  "id": 841625,
+  "titulo": "Torrador de cacau"
+},
+{
+  "id": 841630,
+  "titulo": "Misturador de chá ou mate"
+},
+{
+  "id": 841705,
+  "titulo": "Alambiqueiro"
+},
+{
+  "id": 841710,
+  "titulo": "Filtrador de cerveja"
+},
+{
+  "id": 841715,
+  "titulo": "Fermentador"
+},
+{
+  "id": 841720,
+  "titulo": "Trabalhador de fabricação de vinhos"
+},
+{
+  "id": 841725,
+  "titulo": "Malteiro (germinação)"
+},
+{
+  "id": 841730,
+  "titulo": "Cozinhador de malte"
+},
+{
+  "id": 841735,
+  "titulo": "Dessecador de malte"
+},
+{
+  "id": 841740,
+  "titulo": "Vinagreiro"
+},
+{
+  "id": 841745,
+  "titulo": "Xaropeiro"
+},
+{
+  "id": 841805,
+  "titulo": "Operador de forno (fabricação de pães, biscoitos e similares)"
+},
+{
+  "id": 841810,
+  "titulo": "Operador de máquinas de fabricação de doces, salgados e massas alimentícias"
+},
+{
+  "id": 841815,
+  "titulo": "Operador de máquinas de fabricação de chocolates e achocolatados"
+},
+{
+  "id": 842105,
+  "titulo": "Preparador de melado e essência de fumo"
+},
+{
+  "id": 842110,
+  "titulo": "Processador de fumo"
+},
+{
+  "id": 842115,
+  "titulo": "Classificador de fumo"
+},
+{
+  "id": 842120,
+  "titulo": "Auxiliar de processamento de fumo"
+},
+{
+  "id": 842125,
+  "titulo": "Operador de máquina (fabricação de cigarros)"
+},
+{
+  "id": 842135,
+  "titulo": "Operador de máquina de preparação de matéria prima para produção de cigarros"
+},
+{
+  "id": 842205,
+  "titulo": "Preparador de fumo na fabricação de charutos"
+},
+{
+  "id": 842210,
+  "titulo": "Operador de máquina de fabricar charutos e cigarrilhas"
+},
+{
+  "id": 842215,
+  "titulo": "Classificador de charutos"
+},
+{
+  "id": 842220,
+  "titulo": "Cortador de charutos"
+},
+{
+  "id": 842225,
+  "titulo": "Celofanista na fabricação de charutos"
+},
+{
+  "id": 842230,
+  "titulo": "Charuteiro a mão"
+},
+{
+  "id": 842235,
+  "titulo": "Degustador de charutos"
+},
+{
+  "id": 848105,
+  "titulo": "Defumador de carnes e pescados"
+},
+{
+  "id": 848110,
+  "titulo": "Salgador de alimentos"
+},
+{
+  "id": 848115,
+  "titulo": "Salsicheiro (fabricação de lingüiça, salsicha e produtos similares)"
+},
+{
+  "id": 848205,
+  "titulo": "Pasteurizador"
+},
+{
+  "id": 848210,
+  "titulo": "Queijeiro na fabricação de laticínio"
+},
+{
+  "id": 848215,
+  "titulo": "Manteigueiro na fabricação de laticínio"
+},
+{
+  "id": 848305,
+  "titulo": "Padeiro"
+},
+{
+  "id": 848310,
+  "titulo": "Confeiteiro"
+},
+{
+  "id": 848315,
+  "titulo": "Masseiro (massas alimentícias)"
+},
+{
+  "id": 848325,
+  "titulo": "Trabalhador de fabricação de sorvete"
+},
+{
+  "id": 848405,
+  "titulo": "Degustador de café"
+},
+{
+  "id": 848410,
+  "titulo": "Degustador de chá"
+},
+{
+  "id": 848415,
+  "titulo": "Degustador de derivados de cacau"
+},
+{
+  "id": 848420,
+  "titulo": "Degustador de vinhos ou licores"
+},
+{
+  "id": 848425,
+  "titulo": "Classificador de grãos"
+},
+{
+  "id": 848505,
+  "titulo": "Abatedor"
+},
+{
+  "id": 848510,
+  "titulo": "Açougueiro"
+},
+{
+  "id": 848515,
+  "titulo": "Desossador"
+},
+{
+  "id": 848520,
+  "titulo": "Magarefe"
+},
+{
+  "id": 848525,
+  "titulo": "Retalhador de carne"
+},
+{
+  "id": 848605,
+  "titulo": "Trabalhador do beneficiamento de fumo"
+},
+{
+  "id": 860105,
+  "titulo": "Supervisor de manutenção eletromecânica (utilidades)"
+},
+{
+  "id": 860110,
+  "titulo": "Supervisor de operação de fluidos (distribuição, captação, tratamento de água, gases, vapor)"
+},
+{
+  "id": 860115,
+  "titulo": "Supervisor de operação elétrica (geração, transmissão e distribuição de energia elétrica)"
+},
+{
+  "id": 861105,
+  "titulo": "Operador de central hidrelétrica"
+},
+{
+  "id": 861110,
+  "titulo": "Operador de quadro de distribuição de energia elétrica"
+},
+{
+  "id": 861115,
+  "titulo": "Operador de central termoelétrica"
+},
+{
+  "id": 861120,
+  "titulo": "Operador de reator nuclear"
+},
+{
+  "id": 861205,
+  "titulo": "Operador de subestação"
+},
+{
+  "id": 862105,
+  "titulo": "Foguista (locomotivas a vapor)"
+},
+{
+  "id": 862110,
+  "titulo": "Maquinista de embarcações"
+},
+{
+  "id": 862115,
+  "titulo": "Operador de bateria de gás de hulha"
+},
+{
+  "id": 862120,
+  "titulo": "Operador de caldeira"
+},
+{
+  "id": 862130,
+  "titulo": "Operador de compressor de ar"
+},
+{
+  "id": 862140,
+  "titulo": "Operador de estação de bombeamento"
+},
+{
+  "id": 862150,
+  "titulo": "Operador de máquinas fixas, em geral"
+},
+{
+  "id": 862155,
+  "titulo": "Operador de utilidade (produção e distribuição de vapor, gás, óleo, combustível, energia, oxigênio)"
+},
+{
+  "id": 862160,
+  "titulo": "Operador de abastecimento de combustível de aeronave"
+},
+{
+  "id": 862205,
+  "titulo": "Operador de estação de captação, tratamento e distribuição de água"
+},
+{
+  "id": 862305,
+  "titulo": "Operador de estação de tratamento de água e efluentes"
+},
+{
+  "id": 862310,
+  "titulo": "Operador de forno de incineração no tratamento de água, efluentes e resíduos industriais"
+},
+{
+  "id": 862405,
+  "titulo": "Operador de instalação de extração, processamento, envasamento e distribuição de gases"
+},
+{
+  "id": 862505,
+  "titulo": "Operador de instalação de refrigeração"
+},
+{
+  "id": 862510,
+  "titulo": "Operador de refrigeração com amônia"
+},
+{
+  "id": 862515,
+  "titulo": "Operador de instalação de ar-condicionado"
+},
+{
+  "id": 910105,
+  "titulo": "Encarregado de manutenção mecânica de sistemas operacionais"
+},
+{
+  "id": 910110,
+  "titulo": "Supervisor de manutenção de aparelhos térmicos, de climatização e de refrigeração"
+},
+{
+  "id": 910115,
+  "titulo": "Supervisor de manutenção de bombas, motores, compressores e equipamentos de transmissão"
+},
+{
+  "id": 910120,
+  "titulo": "Supervisor de manutenção de máquinas gráficas"
+},
+{
+  "id": 910125,
+  "titulo": "Supervisor de manutenção de máquinas industriais têxteis"
+},
+{
+  "id": 910130,
+  "titulo": "Supervisor de manutenção de máquinas operatrizes e de usinagem"
+},
+{
+  "id": 910205,
+  "titulo": "Supervisor da manutenção e reparação de veículos leves"
+},
+{
+  "id": 910210,
+  "titulo": "Supervisor da manutenção e reparação de veículos pesados"
+},
+{
+  "id": 910905,
+  "titulo": "Supervisor de reparos linhas férreas"
+},
+{
+  "id": 910910,
+  "titulo": "Supervisor de manutenção de vias férreas"
+},
+{
+  "id": 911105,
+  "titulo": "Mecânico de manutenção de bomba injetora (exceto de veículos automotores)"
+},
+{
+  "id": 911110,
+  "titulo": "Mecânico de manutenção de bombas"
+},
+{
+  "id": 911115,
+  "titulo": "Mecânico de manutenção de compressores de ar"
+},
+{
+  "id": 911120,
+  "titulo": "Mecânico de manutenção de motores diesel (exceto de veículos automotores)"
+},
+{
+  "id": 911125,
+  "titulo": "Mecânico de manutenção de redutores"
+},
+{
+  "id": 911130,
+  "titulo": "Mecânico de manutenção de turbinas (exceto de aeronaves)"
+},
+{
+  "id": 911135,
+  "titulo": "Mecânico de manutenção de turbocompressores"
+},
+{
+  "id": 911205,
+  "titulo": "Mecânico de manutenção e instalação de aparelhos de climatização e  refrigeração"
+},
+{
+  "id": 911305,
+  "titulo": "Mecânico de manutenção de máquinas, em geral"
+},
+{
+  "id": 911310,
+  "titulo": "Mecânico de manutenção de máquinas gráficas"
+},
+{
+  "id": 911315,
+  "titulo": "Mecânico de manutenção de máquinas operatrizes (lavra de madeira)"
+},
+{
+  "id": 911320,
+  "titulo": "Mecânico de manutenção de máquinas têxteis"
+},
+{
+  "id": 911325,
+  "titulo": "Mecânico de manutenção de máquinas-ferramentas (usinagem de metais)"
+},
+{
+  "id": 913105,
+  "titulo": "Mecânico de manutenção de aparelhos de levantamento"
+},
+{
+  "id": 913110,
+  "titulo": "Mecânico de manutenção de equipamento de mineração"
+},
+{
+  "id": 913115,
+  "titulo": "Mecânico de manutenção de máquinas agrícolas"
+},
+{
+  "id": 913120,
+  "titulo": "Mecânico de manutenção de máquinas de construção e terraplenagem"
+},
+{
+  "id": 913125,
+  "titulo": "Vulcanizador de correias transportadoras"
+},
+{
+  "id": 914105,
+  "titulo": "Mecânico de manutenção de aeronaves, em geral"
+},
+{
+  "id": 914110,
+  "titulo": "Mecânico de manutenção de sistema hidráulico de aeronaves (serviços de pista e hangar)"
+},
+{
+  "id": 914205,
+  "titulo": "Mecânico de manutenção de motores e equipamentos navais"
+},
+{
+  "id": 914305,
+  "titulo": "Mecânico de manutenção de veículos ferroviários"
+},
+{
+  "id": 914405,
+  "titulo": "Mecânico de manutenção de automóveis, motocicletas e veículos similares"
+},
+{
+  "id": 914410,
+  "titulo": "Mecânico de manutenção de empilhadeiras e outros veículos de cargas leves"
+},
+{
+  "id": 914415,
+  "titulo": "Mecânico de manutenção de motocicletas"
+},
+{
+  "id": 914420,
+  "titulo": "Mecânico de manutenção de tratores"
+},
+{
+  "id": 914425,
+  "titulo": "Mecânico de veículos automotores a diesel (exceto tratores)"
+},
+{
+  "id": 915105,
+  "titulo": "Técnico em manutenção de instrumentos de medição e precisão"
+},
+{
+  "id": 915110,
+  "titulo": "Técnico em manutenção de hidrômetros"
+},
+{
+  "id": 915115,
+  "titulo": "Técnico em manutenção de balanças"
+},
+{
+  "id": 915205,
+  "titulo": "Restaurador de instrumentos musicais (exceto cordas arcadas)"
+},
+{
+  "id": 915210,
+  "titulo": "Reparador de instrumentos musicais"
+},
+{
+  "id": 915215,
+  "titulo": "Luthier (restauração de cordas arcadas)"
+},
+{
+  "id": 915305,
+  "titulo": "Técnico em manutenção de equipamentos e instrumentos médico-hospitalares"
+},
+{
+  "id": 915405,
+  "titulo": "Reparador de equipamentos fotográficos"
+},
+{
+  "id": 919105,
+  "titulo": "Lubrificador industrial"
+},
+{
+  "id": 919110,
+  "titulo": "Lubrificador de veículos automotores (exceto embarcações)"
+},
+{
+  "id": 919115,
+  "titulo": "Lubrificador de embarcações"
+},
+{
+  "id": 919205,
+  "titulo": "Mecânico de manutenção de máquinas cortadoras de grama, roçadeiras, motosserras e similares"
+},
+{
+  "id": 919305,
+  "titulo": "Mecânico de manutenção de aparelhos esportivos e de ginástica"
+},
+{
+  "id": 919310,
+  "titulo": "Mecânico de manutenção de bicicletas e veículos similares"
+},
+{
+  "id": 919315,
+  "titulo": "Montador de bicicletas"
+},
+{
+  "id": 950105,
+  "titulo": "Supervisor de manutenção elétrica de alta tensão industrial"
+},
+{
+  "id": 950110,
+  "titulo": "Supervisor de manutenção eletromecânica industrial, comercial e predial"
+},
+{
+  "id": 950205,
+  "titulo": "Encarregado de manutenção elétrica de veículos"
+},
+{
+  "id": 950305,
+  "titulo": "Supervisor de manutenção eletromecânica"
+},
+{
+  "id": 951105,
+  "titulo": "Eletricista de manutenção eletroeletrônica"
+},
+{
+  "id": 951305,
+  "titulo": "Instalador de sistemas eletroeletrônicos de segurança"
+},
+{
+  "id": 951310,
+  "titulo": "Mantenedor de sistemas eletroeletrônicos de segurança"
+},
+{
+  "id": 951315,
+  "titulo": "Monitor de sistemas eletrônicos de segurança interno"
+},
+{
+  "id": 951320,
+  "titulo": "Monitor de sistemas eletrônicos de segurança externo"
+},
+{
+  "id": 953105,
+  "titulo": "Eletricista de instalações (aeronaves)"
+},
+{
+  "id": 953110,
+  "titulo": "Eletricista de instalações (embarcações)"
+},
+{
+  "id": 953115,
+  "titulo": "Eletricista de instalações (veículos automotores e máquinas operatrizes, exceto aeronaves e embarcações)"
+},
+{
+  "id": 954105,
+  "titulo": "Eletromecânico de manutenção de elevadores"
+},
+{
+  "id": 954110,
+  "titulo": "Eletromecânico de manutenção de escadas rolantes"
+},
+{
+  "id": 954115,
+  "titulo": "Eletromecânico de manutenção de portas automáticas"
+},
+{
+  "id": 954120,
+  "titulo": "Mecânico de manutenção de instalações mecânicas de edifícios"
+},
+{
+  "id": 954125,
+  "titulo": "Operador eletromecânico"
+},
+{
+  "id": 954205,
+  "titulo": "Reparador de aparelhos eletrodomésticos (exceto imagem e som)"
+},
+{
+  "id": 954210,
+  "titulo": "Reparador de rádio, tv e som"
+},
+{
+  "id": 954305,
+  "titulo": "Reparador de equipamentos de escritório"
+},
+{
+  "id": 991105,
+  "titulo": "Conservador de via permanente (trilhos)"
+},
+{
+  "id": 991110,
+  "titulo": "Inspetor de via permanente (trilhos)"
+},
+{
+  "id": 991115,
+  "titulo": "Operador de máquinas especiais em conservação de via permanente (trilhos)"
+},
+{
+  "id": 991120,
+  "titulo": "Soldador aluminotérmico em conservação de trilhos"
+},
+{
+  "id": 991205,
+  "titulo": "Mantenedor de equipamentos de parques de diversões e similares"
+},
+{
+  "id": 991305,
+  "titulo": "Funileiro de veículos (reparação)"
+},
+{
+  "id": 991310,
+  "titulo": "Montador de veículos (reparação)"
+},
+{
+  "id": 991315,
+  "titulo": "Pintor de veículos (reparação)"
+},
+{
+  "id": 992105,
+  "titulo": "Alinhador de pneus"
+},
+{
+  "id": 992110,
+  "titulo": "Balanceador"
+},
+{
+  "id": 992115,
+  "titulo": "Borracheiro"
+},
+{
+  "id": 992120,
+  "titulo": "Lavador de peças"
+},
+{
+  "id": 992205,
+  "titulo": "Encarregado geral de operações de conservação de vias permanentes (exceto trilhos)"
+},
+{
+  "id": 992210,
+  "titulo": "Encarregado de equipe de conservação de vias permanentes (exceto trilhos)"
+},
+{
+  "id": 992215,
+  "titulo": "Operador de ceifadeira na conservação de vias permanentes"
+},
+{
+  "id": 992220,
+  "titulo": "Pedreiro de conservação de vias permanentes (exceto trilhos)"
+},
+{
+  "id": 992225,
+  "titulo": "Auxiliar geral de conservação de vias permanentes (exceto trilhos)"
+}]
